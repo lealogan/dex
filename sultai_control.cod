@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Satyr Wayfinder"/>
+        <card number="2" price="0" name="Tasigur, the Golden Fang"/>
+        <card number="2" price="0" name="Reaper of the Wilds"/>
+        <card number="2" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Ashiok, Nightmare Weaver"/>
+        <card number="4" price="0" name="Hero's Downfall"/>
+        <card number="4" price="0" name="Dig Through Time"/>
+        <card number="2" price="0" name="Bile Blight"/>
+        <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
+        <card number="1" price="0" name="Garruk, Apex Predator"/>
+        <card number="1" price="0" name="Interpret the Signs"/>
+        <card number="2" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Kiora, the Crashing Wave"/>
+        <card number="2" price="0" name="Sultai Charm"/>
+        <card number="3" price="0" name="Crux of Fate"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Time to Feed"/>
+        <card number="3" price="0" name="Hornet Nest"/>
+    </zone>
+</cockatrice_deck>
