@@ -6,10 +6,9 @@
         <card number="3" price="0" name="Medomai the Ageless"/>
         <card number="2" price="0" name="Hammer of Purphoros"/>
         <card number="3" price="0" name="Narset, Enlightened Master"/>
-        <card number="3" price="0" name="Banishing Light"/>
-        <card number="1" price="0" name="Nyx-Fleece Ram"/>
-        <card number="1" price="0" name="Suspension Field"/>
-        <card number="2" price="0" name="Wall of Essence"/>
+        <card number="4" price="0" name="Banishing Light"/>
+        <card number="2" price="0" name="Nyx-Fleece Ram"/>
+        <card number="1" price="0" name="Wall of Essence"/>
         <card number="2" price="0" name="Jeskai Charm"/>
         <card number="1" price="0" name="Temporal Trespass"/>
         <card number="2" price="0" name="Dig Through Time"/>
@@ -28,6 +27,8 @@
         <card number="4" price="0" name="Temple of Triumph"/>
         <card number="2" price="0" name="Tranquil Cove"/>
         <card number="2" price="0" name="Wind-Scarred Crag"/>
+        <card number="1" price="0" name="Kiora, the Crashing Wave"/>
+        <card number="1" price="0" name="Xenagos, the Reveler"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Glare of Heresy"/>
