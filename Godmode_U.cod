@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>MonoBlueDevotion</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Hypnotic Siren"/>
+        <card number="4" price="0" name="Master of Waves"/>
+        <card number="4" price="0" name="Dakra Mystic"/>
+        <card number="3" price="0" name="Thassa, God of the Sea"/>
+        <card number="4" price="0" name="Singing Bell Strike"/>
+        <card number="4" price="0" name="Encrust"/>
+        <card number="2" price="0" name="Keranos, God of Storms"/>
+        <card number="3" price="0" name="Dictate of Kruphix"/>
+        <card number="2" price="0" name="Kruphix, God of Horizons"/>
+        <card number="4" price="0" name="Wall of Frost"/>
+        <card number="4" price="0" name="Temple of Epiphany"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="16" price="0" name="Island"/>
+        <card number="2" price="0" name="Military Intelligence"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Aqueous Form"/>
+        <card number="2" price="0" name="Stubborn Denial"/>
+        <card number="2" price="0" name="Icy Blast"/>
+        <card number="4" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Polymorphist's Jest"/>
+        <card number="1" price="0" name="Gainsay"/>
+        <card number="1" price="0" name="Bident of Thassa"/>
+        <card number="1" price="0" name="Military Intelligence"/>
+        <card number="2" price="0" name="Prognostic Sphinx"/>
+    </zone>
+</cockatrice_deck>

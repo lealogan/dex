@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR Fliers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Desecration Demon"/>
+        <card number="2" price="0" name="Devil's Play"/>
+        <card number="4" price="0" name="Duress"/>
+        <card number="3" price="0" name="Olivia Voldaren"/>
+        <card number="3" price="0" name="Rakdos's Return"/>
+        <card number="4" price="0" name="Sign in Blood"/>
+        <card number="4" price="0" name="Vampire Nighthawk"/>
+        <card number="4" price="0" name="Blood Crypt"/>
+        <card number="4" price="0" name="Dragonskull Summit"/>
+        <card number="4" price="0" name="Liliana of the Dark Realms"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Magmaquake"/>
+        <card number="4" price="0" name="Rakdos Keyrune"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Knight of Infamy"/>
+        <card number="2" price="0" name="Slaughter Games"/>
+        <card number="1" price="0" name="Bonfire of the Damned"/>
+        <card number="1" price="0" name="Thundermaw Hellkite"/>
+        <card number="3" price="0" name="Dreadbore"/>
+        <card number="2" price="0" name="Balefire Dragon"/>
+        <card number="2" price="0" name="Bloodgift Demon"/>
+        <card number="2" price="0" name="Butcher Ghoul"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Master of the Elements</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Young Pyromancer"/>
+        <card number="4" price="0" name="Master of Waves"/>
+        <card number="4" price="0" name="Molten Birth"/>
+        <card number="4" price="0" name="Dissolve"/>
+        <card number="4" price="0" name="Claustrophobia"/>
+        <card number="4" price="0" name="Clone"/>
+        <card number="3" price="0" name="Thassa, God of the Sea"/>
+        <card number="3" price="0" name="Bident of Thassa"/>
+        <card number="4" price="0" name="Frostburn Weird"/>
+        <card number="2" price="0" name="Purphoros, God of the Forge"/>
+        <card number="2" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" price="0" name="Mutavault"/>
+        <card number="4" price="0" name="Steam Vents"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Vaporkin"/>
+        <card number="2" price="0" name="Izzet Keyrune"/>
+    </zone>
+</cockatrice_deck>

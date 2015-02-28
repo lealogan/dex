@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB_Trix</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Pain Seer"/>
+        <card number="4" price="0" name="Tormented Hero"/>
+        <card number="4" price="0" name="Triton Tactics"/>
+        <card number="4" price="0" name="Nivmagus Elemental"/>
+        <card number="4" price="0" name="Hidden Strings"/>
+        <card number="4" price="0" name="Agent of the Fates"/>
+        <card number="4" price="0" name="Artisan of Forms"/>
+        <card number="4" price="0" name="Springleaf Drum"/>
+        <card number="4" price="0" name="Boon of Erebos"/>
+        <card number="2" price="0" name="Devour Flesh"/>
+        <card number="4" price="0" name="Temple of Deceit"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="9" price="0" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Siren of the Silent Song"/>
+    </zone>
+</cockatrice_deck>

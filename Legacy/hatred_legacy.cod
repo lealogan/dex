@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>hatred_legacy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Immolating Souleater"/>
+        <card number="4" price="0" name="Moltensteel Dragon"/>
+        <card number="2" price="0" name="Phyrexian Processor"/>
+        <card number="4" price="0" name="Death's Shadow"/>
+        <card number="2" price="0" name="Hatred"/>
+        <card number="4" price="0" name="Spinning Darkness"/>
+    </zone>
+</cockatrice_deck>

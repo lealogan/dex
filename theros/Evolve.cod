@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Boon Satyr"/>
+        <card number="4" price="0" name="Breeding Pool"/>
+        <card number="4" price="0" name="Cloudfin Raptor"/>
+        <card number="4" price="0" name="Experiment One"/>
+        <card number="4" price="0" name="Fathom Mage"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="4" price="0" name="Gyre Sage"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="4" price="0" name="Kalonian Hydra"/>
+        <card number="4" price="0" name="Prophet of Kruphix"/>
+        <card number="4" price="0" name="Shambleshark"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Give // Take"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Witchstalker"/>
+    </zone>
+</cockatrice_deck>

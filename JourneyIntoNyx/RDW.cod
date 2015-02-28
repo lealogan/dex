@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RDW</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Rakdos Cackler"/>
+        <card number="4" price="0" name="Gore-House Chainwalker"/>
+        <card number="4" price="0" name="Firefist Striker"/>
+        <card number="4" price="0" name="Burning-Tree Emissary"/>
+        <card number="2" price="0" name="Chandra's Phoenix"/>
+        <card number="4" price="0" name="Ash Zealot"/>
+        <card number="4" price="0" name="Firedrinker Satyr"/>
+        <card number="4" price="0" name="Foundry Street Denizen"/>
+        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="4" price="0" name="Searing Blood"/>
+        <card number="2" price="0" name="Boros Reckoner"/>
+        <card number="20" price="0" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Skullcrack"/>
+        <card number="2" price="0" name="Boros Reckoner"/>
+    </zone>
+</cockatrice_deck>
