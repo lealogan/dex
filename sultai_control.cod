@@ -12,7 +12,6 @@
         <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
         <card number="2" price="0" name="Garruk, Apex Predator"/>
         <card number="1" price="0" name="Interpret the Signs"/>
-        <card number="2" price="0" name="Disdainful Stroke"/>
         <card number="2" price="0" name="Kiora, the Crashing Wave"/>
         <card number="3" price="0" name="Sultai Charm"/>
         <card number="3" price="0" name="Crux of Fate"/>
@@ -30,10 +29,11 @@
     <zone name="side">
         <card number="2" price="0" name="Time to Feed"/>
         <card number="3" price="0" name="Hornet Nest"/>
-        <card number="2" price="0" name="Reaper of the Wilds"/>
+        <card number="1" price="0" name="Reaper of the Wilds"/>
         <card number="2" price="0" name="Sultai Charm"/>
         <card number="2" price="0" name="Perilous Vault"/>
         <card number="2" price="0" name="Tasigur, the Golden Fang"/>
-        <card number="2" price="0" name="Stain the Mind"/>
+        <card number="1" price="0" name="Stain the Mind"/>
+        <card number="2" price="0" name="Disdainful Stroke"/>
     </zone>
 </cockatrice_deck>
