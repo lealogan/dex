@@ -27,8 +27,6 @@
         <card number="4" price="0" name="Temple of Triumph"/>
         <card number="2" price="0" name="Tranquil Cove"/>
         <card number="2" price="0" name="Wind-Scarred Crag"/>
-        <card number="1" price="0" name="Kiora, the Crashing Wave"/>
-        <card number="1" price="0" name="Xenagos, the Reveler"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Glare of Heresy"/>
