@@ -6,24 +6,25 @@
         <card number="4" price="0" name="Elvish Mystic"/>
         <card number="4" price="0" name="Courser of Kruphix"/>
         <card number="4" price="0" name="Whisperwood Elemental"/>
-        <card number="1" price="0" name="Garruk, Apex Predator"/>
-        <card number="2" price="0" name="Ugin, the Spirit Dragon"/>
-        <card number="4" price="0" name="Heir of the Wilds"/>
+        <card number="3" price="0" name="Heir of the Wilds"/>
         <card number="4" price="0" name="Polukranos, World Eater"/>
         <card number="2" price="0" name="Genesis Hydra"/>
-        <card number="1" price="0" name="Become Immense"/>
         <card number="4" price="0" name="Aspect of Hydra"/>
         <card number="1" price="0" name="Setessan Tactics"/>
         <card number="3" price="0" name="Arbor Colossus"/>
-        <card number="16" price="0" name="Forest"/>
-        <card number="4" price="0" name="Temple of Malady"/>
+        <card number="21" price="0" name="Forest"/>
         <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
-        <card number="1" price="0" name="Frontier Siege"/>
+        <card number="1" price="0" name="Shamanic Revelation"/>
+        <card number="3" price="0" name="Nissa, Worldwaker"/>
+        <card number="3" price="0" name="Voyaging Satyr"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Hunt the Hunter"/>
         <card number="2" price="0" name="Time to Feed"/>
         <card number="1" price="0" name="Arbor Colossus"/>
         <card number="2" price="0" name="Fade into Antiquity"/>
+        <card number="2" price="0" name="Reclamation Sage"/>
+        <card number="2" price="0" name="Nylea's Disciple"/>
+        <card number="2" price="0" name="Ugin, the Spirit Dragon"/>
     </zone>
 </cockatrice_deck>

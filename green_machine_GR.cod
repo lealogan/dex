@@ -14,15 +14,14 @@
         <card number="2" price="0" name="Arbor Colossus"/>
         <card number="2" price="0" name="Genesis Hydra"/>
         <card number="3" price="0" name="Polukranos, World Eater"/>
-        <card number="3" price="0" name="Shaman of the Great Hunt"/>
+        <card number="4" price="0" name="Shaman of the Great Hunt"/>
         <card number="3" price="0" name="Voyaging Satyr"/>
         <card number="4" price="0" name="Courser of Kruphix"/>
         <card number="4" price="0" name="Elvish Mystic"/>
         <card number="4" price="0" name="Rattleclaw Mystic"/>
         <card number="4" price="0" name="Whisperwood Elemental"/>
-        <card number="2" price="0" name="Nissa, Worldwaker"/>
         <card number="3" price="0" name="Xenagos, the Reveler"/>
-        <card number="2" price="0" name="Crater's Claws"/>
+        <card number="3" price="0" name="Crater's Claws"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Arbor Colossus"/>
@@ -34,5 +33,6 @@
         <card number="2" price="0" name="Nylea's Disciple"/>
         <card number="2" price="0" name="Briber's Purse"/>
         <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
+        <card number="1" price="0" name="Shamanic Revelation"/>
     </zone>
 </cockatrice_deck>
