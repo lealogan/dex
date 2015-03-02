@@ -6,7 +6,7 @@
         <card number="4" price="0" name="Elvish Mystic"/>
         <card number="4" price="0" name="Courser of Kruphix"/>
         <card number="4" price="0" name="Whisperwood Elemental"/>
-        <card number="3" price="0" name="Heir of the Wilds"/>
+        <card number="4" price="0" name="Heir of the Wilds"/>
         <card number="4" price="0" name="Polukranos, World Eater"/>
         <card number="2" price="0" name="Genesis Hydra"/>
         <card number="4" price="0" name="Aspect of Hydra"/>
@@ -14,7 +14,6 @@
         <card number="3" price="0" name="Arbor Colossus"/>
         <card number="21" price="0" name="Forest"/>
         <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
-        <card number="1" price="0" name="Shamanic Revelation"/>
         <card number="3" price="0" name="Nissa, Worldwaker"/>
         <card number="3" price="0" name="Voyaging Satyr"/>
     </zone>
