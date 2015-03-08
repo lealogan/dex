@@ -8,10 +8,9 @@
         <card number="4" price="0" name="Whisperwood Elemental"/>
         <card number="4" price="0" name="Heir of the Wilds"/>
         <card number="4" price="0" name="Polukranos, World Eater"/>
-        <card number="1" price="0" name="Genesis Hydra"/>
-        <card number="3" price="0" name="Aspect of Hydra"/>
-        <card number="1" price="0" name="Arbor Colossus"/>
-        <card number="18" price="0" name="Forest"/>
+        <card number="1" price="0" name="Aspect of Hydra"/>
+        <card number="2" price="0" name="Arbor Colossus"/>
+        <card number="17" price="0" name="Forest"/>
         <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
         <card number="1" price="0" name="Nissa, Worldwaker"/>
         <card number="2" price="0" name="Voyaging Satyr"/>
@@ -19,6 +18,8 @@
         <card number="3" price="0" name="Xenagos, the Reveler"/>
         <card number="3" price="0" name="Rattleclaw Mystic"/>
         <card number="4" price="0" name="Temple of Abandon"/>
+        <card number="1" price="0" name="Hunter's Prowess"/>
+        <card number="2" price="0" name="Hooded Hydra"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Hunt the Hunter"/>
@@ -29,5 +30,6 @@
         <card number="2" price="0" name="Nylea's Disciple"/>
         <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
         <card number="2" price="0" name="Nylea, God of the Hunt"/>
+        <card number="1" price="0" name="Hunter's Prowess"/>
     </zone>
 </cockatrice_deck>
