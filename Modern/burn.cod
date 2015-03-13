@@ -8,25 +8,24 @@
         <card number="4" price="0" name="Monastery Swiftspear"/>
         <card number="4" price="0" name="Vexing Devil"/>
         <card number="4" price="0" name="Eidolon of the Great Revel"/>
-        <card number="1" price="0" name="Destructive Revelry"/>
-        <card number="4" price="0" name="Skullcrack"/>
-        <card number="3" price="0" name="Searing Blaze"/>
-        <card number="4" price="0" name="Titan's Strength"/>
-        <card number="12" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Titan's Strength"/>
+        <card number="6" price="0" name="Mountain"/>
         <card number="4" price="0" name="Arid Mesa"/>
-        <card number="3" price="0" name="Stomping Ground"/>
-        <card number="1" price="0" name="Rootbound Crag"/>
         <card number="4" price="0" name="Rift Bolt"/>
-        <card number="2" price="0" name="Ball Lightning"/>
-        <card number="2" price="0" name="Simian Spirit Guide"/>
+        <card number="4" price="0" name="Lava Spike"/>
+        <card number="4" price="0" name="Ball Lightning"/>
+        <card number="4" price="0" name="Scalding Tarn"/>
+        <card number="4" price="0" name="Searing Blaze"/>
+        <card number="2" price="0" name="Shard Volley"/>
+        <card number="4" price="0" name="Stomping Ground"/>
+        <card number="2" price="0" name="Grim Lavamancer"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Ball Lightning"/>
-        <card number="2" price="0" name="Searing Blood"/>
-        <card number="1" price="0" name="Searing Blaze"/>
-        <card number="3" price="0" name="Forked Bolt"/>
+        <card number="1" price="0" name="Forked Bolt"/>
         <card number="1" price="0" name="Simian Spirit Guide"/>
-        <card number="3" price="0" name="Molten Rain"/>
-        <card number="2" price="0" name="Destructive Revelry"/>
+        <card number="4" price="0" name="Molten Rain"/>
+        <card number="4" price="0" name="Destructive Revelry"/>
+        <card number="1" price="0" name="Grim Lavamancer"/>
+        <card number="4" price="0" name="Skullcrack"/>
     </zone>
 </cockatrice_deck>

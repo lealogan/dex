@@ -12,13 +12,13 @@
         <card number="4" price="0" name="Ornithopter"/>
         <card number="2" price="0" name="Thoughtseize"/>
         <card number="4" price="0" name="Springleaf Drum"/>
-        <card number="4" price="0" name="Chromatic Star"/>
         <card number="4" price="0" name="Cranial Plating"/>
         <card number="4" price="0" name="Galvanic Blast"/>
         <card number="4" price="0" name="Shrapnel Blast"/>
         <card number="4" price="0" name="Blinkmoth Nexus"/>
         <card number="4" price="0" name="Glimmervoid"/>
         <card number="2" price="0" name="Mana Confluence"/>
+        <card number="4" price="0" name="Military Intelligence"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Spellskite"/>
