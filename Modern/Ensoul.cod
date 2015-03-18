@@ -10,24 +10,25 @@
         <card number="4" price="0" name="Darksteel Citadel"/>
         <card number="4" price="0" name="Vault Skirge"/>
         <card number="4" price="0" name="Ornithopter"/>
-        <card number="2" price="0" name="Thoughtseize"/>
         <card number="4" price="0" name="Springleaf Drum"/>
         <card number="4" price="0" name="Cranial Plating"/>
         <card number="4" price="0" name="Galvanic Blast"/>
-        <card number="4" price="0" name="Shrapnel Blast"/>
+        <card number="3" price="0" name="Shrapnel Blast"/>
         <card number="4" price="0" name="Blinkmoth Nexus"/>
         <card number="4" price="0" name="Glimmervoid"/>
         <card number="2" price="0" name="Mana Confluence"/>
-        <card number="4" price="0" name="Military Intelligence"/>
+        <card number="3" price="0" name="Military Intelligence"/>
+        <card number="4" price="0" name="Signal Pest"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Spellskite"/>
-        <card number="2" price="0" name="Aven Mindcensor"/>
-        <card number="2" price="0" name="Ancient Grudge"/>
+        <card number="1" price="0" name="Ancient Grudge"/>
         <card number="2" price="0" name="Path to Exile"/>
         <card number="2" price="0" name="Wear // Tear"/>
         <card number="2" price="0" name="Whipflare"/>
-        <card number="1" price="0" name="Thoughtseize"/>
-        <card number="2" price="0" name="Sunbeam Spellbomb"/>
+        <card number="3" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Sunbeam Spellbomb"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Hex Parasite"/>
     </zone>
 </cockatrice_deck>
