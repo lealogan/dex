@@ -96,5 +96,6 @@
         <card number="1" price="0" name="Spined Thopter"/>
         <card number="1" price="0" name="Thundering Tanadon"/>
         <card number="1" price="0" name="Trespassing Souleater"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
     </zone>
 </cockatrice_deck>
