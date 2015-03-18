@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>sly_tinkerFRF</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="4" price="0" name="Ghostfire Blade"/>
+        <card number="4" price="0" name="Ensoul Artifact"/>
+        <card number="4" price="0" name="Shrapnel Blast"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="4" price="0" name="Temple of Epiphany"/>
+        <card number="4" price="0" name="Military Intelligence"/>
+        <card number="4" price="0" name="Goblin Rabblemaster"/>
+        <card number="4" price="0" name="Frost Walker"/>
+        <card number="4" price="0" name="Valley Dasher"/>
+        <card number="3" price="0" name="Wild Slash"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Arc Lightning"/>
+        <card number="1" price="0" name="Hour of Need"/>
+        <card number="1" price="0" name="Lightning Strike"/>
+        <card number="1" price="0" name="Peak Eruption"/>
+        <card number="1" price="0" name="Stubborn Denial"/>
+        <card number="4" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Phyrexian Revoker"/>
+        <card number="4" price="0" name="Scouring Sands"/>
+        <card number="1" price="0" name="Illusory Angel"/>
+        <card number="1" price="0" name="Howl of the Horde"/>
+    </zone>
+</cockatrice_deck>

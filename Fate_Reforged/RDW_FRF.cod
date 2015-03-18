@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RDW_FRF</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Dragonrage"/>
+        <card number="4" price="0" name="Goblin Rabblemaster"/>
+        <card number="4" price="0" name="Hordeling Outburst"/>
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="2" price="0" name="Searing Blood"/>
+        <card number="4" price="0" name="Titan's Strength"/>
+        <card number="4" price="0" name="Shaman of the Great Hunt"/>
+        <card number="2" price="0" name="Outpost Siege"/>
+        <card number="20" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Temple of Abandon"/>
+        <card number="2" price="0" name="Temple of Epiphany"/>
+        <card number="4" price="0" name="Valley Dasher"/>
+        <card number="2" price="0" name="Hall of Triumph"/>
+        <card number="3" price="0" name="Stoke the Flames"/>
+        <card number="2" price="0" name="Wild Slash"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Searing Blood"/>
+        <card number="2" price="0" name="Outpost Siege"/>
+        <card number="1" price="0" name="Peak Eruption"/>
+        <card number="1" price="0" name="Prophetic Flamespeaker"/>
+        <card number="1" price="0" name="Sarkhan, the Dragonspeaker"/>
+        <card number="3" price="0" name="Flamewake Phoenix"/>
+        <card number="4" price="0" name="Scouring Sands"/>
+        <card number="1" price="0" name="Akroan Hoplite"/>
+        <card number="1" price="0" name="Anax and Cymede"/>
+        <card number="1" price="0" name="Borderland Marauder"/>
+        <card number="1" price="0" name="Deathbellow Raider"/>
+        <card number="1" price="0" name="Humble Defector"/>
+        <card number="1" price="0" name="Impetuous Sunchaser"/>
+        <card number="1" price="0" name="Jeering Instigator"/>
+        <card number="1" price="0" name="Paragon of Fierce Defiance"/>
+        <card number="1" price="0" name="Sigiled Skink"/>
+        <card number="1" price="0" name="War-Name Aspirant"/>
+    </zone>
+</cockatrice_deck>

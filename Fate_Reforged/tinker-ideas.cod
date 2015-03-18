@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>tinker-ideas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="5" price="0" name="Ghostfire Blade"/>
+        <card number="4" price="0" name="Ensoul Artifact"/>
+        <card number="4" price="0" name="Shrapnel Blast"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="4" price="0" name="Titan's Strength"/>
+        <card number="4" price="0" name="Temple of Epiphany"/>
+        <card number="4" price="0" name="Military Intelligence"/>
+        <card number="4" price="0" name="Chief Engineer"/>
+        <card number="2" price="0" name="Hammer of Purphoros"/>
+        <card number="4" price="0" name="Haunted Plate Mail"/>
+        <card number="4" price="0" name="Renowned Weaponsmith"/>
+        <card number="4" price="0" name="Astral Cornucopia"/>
+        <card number="2" price="0" name="Avarice Amulet"/>
+        <card number="2" price="0" name="Bident of Thassa"/>
+        <card number="1" price="0" name="Briber's Purse"/>
+        <card number="2" price="0" name="Burnished Hart"/>
+        <card number="2" price="0" name="Dragon Throne of Tarkir"/>
+        <card number="2" price="0" name="Fleetfeather Sandals"/>
+        <card number="2" price="0" name="Gold-Forged Sentinel"/>
+        <card number="1" price="0" name="Hewed Stone Retainers"/>
+        <card number="4" price="0" name="Juggernaut"/>
+        <card number="2" price="0" name="Obelisk of Urd"/>
+        <card number="4" price="0" name="Phyrexian Revoker"/>
+        <card number="3" price="0" name="Pilgrim of the Fires"/>
+        <card number="2" price="0" name="Rogue's Gloves"/>
+        <card number="4" price="0" name="Scuttling Doom Engine"/>
+        <card number="5" price="0" name="Soul of New Phyrexia"/>
+        <card number="4" price="0" name="Witness of the Ages"/>
+        <card number="4" price="0" name="Will-Forged Golem"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Traveler's Amulet"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Heart-Piercer Bow"/>
+        <card number="4" price="0" name="Arc Lightning"/>
+        <card number="4" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Vortex Elemental"/>
+        <card number="1" price="0" name="Triton Shorestalker"/>
+        <card number="1" price="0" name="Omenspeaker"/>
+        <card number="1" price="0" name="Quickling"/>
+        <card number="1" price="0" name="Vaporkin"/>
+        <card number="1" price="0" name="Altac Bloodseeker"/>
+        <card number="1" price="0" name="Borderland Marauder"/>
+        <card number="1" price="0" name="Goblin Kaboomist"/>
+        <card number="1" price="0" name="Impetuous Sunchaser"/>
+        <card number="1" price="0" name="Reckless Reveler"/>
+        <card number="1" price="0" name="Sigiled Skink"/>
+        <card number="1" price="0" name="Torch Fiend"/>
+        <card number="1" price="0" name="Hour of Need"/>
+        <card number="1" price="0" name="Battlefield Thaumaturge"/>
+        <card number="2" price="0" name="Briber's Purse"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+    </zone>
+</cockatrice_deck>
