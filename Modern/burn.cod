@@ -8,7 +8,6 @@
         <card number="4" price="0" name="Monastery Swiftspear"/>
         <card number="4" price="0" name="Vexing Devil"/>
         <card number="4" price="0" name="Eidolon of the Great Revel"/>
-        <card number="2" price="0" name="Titan's Strength"/>
         <card number="6" price="0" name="Mountain"/>
         <card number="4" price="0" name="Arid Mesa"/>
         <card number="4" price="0" name="Rift Bolt"/>
@@ -16,9 +15,9 @@
         <card number="4" price="0" name="Ball Lightning"/>
         <card number="4" price="0" name="Scalding Tarn"/>
         <card number="4" price="0" name="Searing Blaze"/>
-        <card number="2" price="0" name="Shard Volley"/>
         <card number="4" price="0" name="Stomping Ground"/>
         <card number="2" price="0" name="Grim Lavamancer"/>
+        <card number="4" price="0" name="Atarka's Command"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Forked Bolt"/>
