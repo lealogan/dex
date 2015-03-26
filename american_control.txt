@@ -1,11 +1,11 @@
-1 myth realized
-2 anticipate
-3 wrath
-4 narset / 
-5 dig
-6 dissolve
-7 anger
-8 o-ring
-9.5 elspeth
+1	myth	realized
+2	anticipate
+3	wrath
+4	narset	/	
+5	dig
+6	dissolve
+7	anger
+8	o-ring
+9.5     elspeth
 
 keranos
