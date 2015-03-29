@@ -11,18 +11,18 @@
         <card number="3" price="0" name="Silumgar's Scorn"/>
         <card number="2" price="0" name="Flamewake Phoenix"/>
         <card number="1" price="0" name="Crater's Claws"/>
-        <card number="2" price="0" name="Wild Slash"/>
+        <card number="3" price="0" name="Wild Slash"/>
         <card number="4" price="0" name="Temple of Epiphany"/>
         <card number="4" price="0" name="Swiftwater Cliffs"/>
         <card number="4" price="0" name="Shivan Reef"/>
         <card number="4" price="0" name="Flooded Strand"/>
         <card number="3" price="0" name="Island"/>
         <card number="3" price="0" name="Mountain"/>
-        <card number="3" price="0" name="Stubborn Denial"/>
+        <card number="2" price="0" name="Stubborn Denial"/>
         <card number="3" price="0" name="Mantis Rider"/>
         <card number="1" price="0" name="Plains"/>
-        <card number="1" price="0" name="Temple of Enlightenment"/>
-        <card number="4" price="0" name="Magma Jet"/>
+        <card number="2" price="0" name="Temple of Enlightenment"/>
+        <card number="3" price="0" name="Magma Jet"/>
         <card number="1" price="0" name="Dissolve"/>
     </zone>
     <zone name="side">
