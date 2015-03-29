@@ -3,15 +3,15 @@
     <deckname>ur_counterburn_tempo</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="3" price="0" name="Lightning Strike"/>
         <card number="4" price="0" name="Thunderbreak Regent"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Stormbreath Dragon"/>
-        <card number="4" price="0" name="Dig Through Time"/>
-        <card number="4" price="0" name="Silumgar's Scorn"/>
+        <card number="2" price="0" name="Dig Through Time"/>
+        <card number="3" price="0" name="Silumgar's Scorn"/>
         <card number="2" price="0" name="Flamewake Phoenix"/>
         <card number="1" price="0" name="Crater's Claws"/>
-        <card number="3" price="0" name="Wild Slash"/>
+        <card number="2" price="0" name="Wild Slash"/>
         <card number="4" price="0" name="Temple of Epiphany"/>
         <card number="4" price="0" name="Swiftwater Cliffs"/>
         <card number="4" price="0" name="Shivan Reef"/>
@@ -22,6 +22,8 @@
         <card number="3" price="0" name="Mantis Rider"/>
         <card number="1" price="0" name="Plains"/>
         <card number="1" price="0" name="Temple of Enlightenment"/>
+        <card number="4" price="0" name="Magma Jet"/>
+        <card number="1" price="0" name="Dissolve"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Dragonlord's Prerogative"/>
