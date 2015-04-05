@@ -4,12 +4,10 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Searing Blood"/>
-        <card number="4" price="0" name="Firedrinker Satyr"/>
         <card number="4" price="0" name="Lightning Strike"/>
         <card number="4" price="0" name="Magma Jet"/>
         <card number="4" price="0" name="Wild Slash"/>
         <card number="4" price="0" name="Monastery Swiftspear"/>
-        <card number="4" price="0" name="Eidolon of the Great Revel"/>
         <card number="13" price="0" name="Mountain"/>
         <card number="4" price="0" name="Wooded Foothills"/>
         <card number="4" price="0" name="Atarka's Command"/>
@@ -17,14 +15,14 @@
         <card number="2" price="0" name="Mana Confluence"/>
         <card number="4" price="0" name="Titan's Strength"/>
         <card number="4" price="0" name="Stoke the Flames"/>
+        <card number="4" price="0" name="Lightning Berserker"/>
+        <card number="4" price="0" name="Eidolon of the Great Revel"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Act of Treason"/>
+        <card number="2" price="0" name="Act of Treason"/>
         <card number="4" price="0" name="Satyr Firedancer"/>
-        <card number="1" price="0" name="Circle of Flame"/>
-        <card number="2" price="0" name="Flamewake Phoenix"/>
         <card number="1" price="0" name="Seismic Rupture"/>
         <card number="4" price="0" name="Outpost Siege"/>
-        <card number="1" price="0" name="Magma Jet"/>
+        <card number="4" price="0" name="Rending Volley"/>
     </zone>
 </cockatrice_deck>

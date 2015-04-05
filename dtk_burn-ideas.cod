@@ -26,6 +26,7 @@
         <card number="1" price="0" name="Eidolon of the Great Revel"/>
         <card number="1" price="0" name="Titan's Strength"/>
         <card number="1" price="0" name="Atarka's Command"/>
+        <card number="1" price="0" name="Lightning Berserker"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Scouring Sands"/>
