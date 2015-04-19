@@ -5,24 +5,25 @@
     <zone name="main">
         <card number="4" price="0" name="Elvish Mystic"/>
         <card number="4" price="0" name="Courser of Kruphix"/>
-        <card number="3" price="0" name="Surrak, the Hunt Caller"/>
+        <card number="2" price="0" name="Surrak, the Hunt Caller"/>
         <card number="3" price="0" name="Polukranos, World Eater"/>
         <card number="4" price="0" name="Whisperwood Elemental"/>
         <card number="2" price="0" name="Garruk, Apex Predator"/>
-        <card number="1" price="0" name="Hunter's Prowess"/>
         <card number="4" price="0" name="Deathmist Raptor"/>
         <card number="2" price="0" name="Arbor Colossus"/>
-        <card number="3" price="0" name="Avatar of the Resolute"/>
-        <card number="2" price="0" name="Bassara Tower Archer"/>
+        <card number="2" price="0" name="Avatar of the Resolute"/>
+        <card number="1" price="0" name="Bassara Tower Archer"/>
         <card number="4" price="0" name="Nykthos, Shrine to Nyx"/>
         <card number="4" price="0" name="Temple of Malady"/>
         <card number="2" price="0" name="Llanowar Wastes"/>
         <card number="14" price="0" name="Forest"/>
         <card number="1" price="0" name="Reclamation Sage"/>
         <card number="3" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Hunter's Prowess"/>
+        <card number="2" price="0" name="Reaper of the Wilds"/>
+        <card number="1" price="0" name="Bow of Nylea"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Hunter's Ambush"/>
         <card number="1" price="0" name="Worst Fears"/>
         <card number="3" price="0" name="Hornet Nest"/>
         <card number="1" price="0" name="Hornet Queen"/>
@@ -31,5 +32,6 @@
         <card number="2" price="0" name="Hooded Hydra"/>
         <card number="2" price="0" name="Nylea's Disciple"/>
         <card number="2" price="0" name="Hunt the Hunter"/>
+        <card number="1" price="0" name="Hunter's Prowess"/>
     </zone>
 </cockatrice_deck>

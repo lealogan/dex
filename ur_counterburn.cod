@@ -8,7 +8,6 @@
         <card number="1" price="0" name="Treasure Cruise"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="2" price="0" name="Steam Augury"/>
-        <card number="1" price="0" name="Ugin, The Spirit Dragon"/>
         <card number="1" price="0" name="Perilous Vault"/>
         <card number="4" price="0" name="Dissolve"/>
         <card number="2" price="0" name="Disdainful Stroke"/>
@@ -23,6 +22,7 @@
         <card number="5" price="0" name="Island"/>
         <card number="4" price="0" name="Mountain"/>
         <card number="4" price="0" name="Dig Through Time"/>
+        <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Disdainful Stroke"/>

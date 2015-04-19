@@ -3,34 +3,34 @@
     <deckname>ur_counterburn_tempo</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Lightning Strike"/>
-        <card number="4" price="0" name="Thunderbreak Regent"/>
+        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="3" price="0" name="Thunderbreak Regent"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Stormbreath Dragon"/>
-        <card number="2" price="0" name="Dig Through Time"/>
-        <card number="3" price="0" name="Silumgar's Scorn"/>
-        <card number="4" price="0" name="Flamewake Phoenix"/>
-        <card number="1" price="0" name="Crater's Claws"/>
-        <card number="3" price="0" name="Wild Slash"/>
+        <card number="2" price="0" name="Crater's Claws"/>
         <card number="4" price="0" name="Temple of Epiphany"/>
         <card number="4" price="0" name="Swiftwater Cliffs"/>
         <card number="4" price="0" name="Shivan Reef"/>
-        <card number="4" price="0" name="Flooded Strand"/>
+        <card number="3" price="0" name="Flooded Strand"/>
         <card number="4" price="0" name="Island"/>
-        <card number="5" price="0" name="Mountain"/>
-        <card number="2" price="0" name="Stubborn Denial"/>
-        <card number="3" price="0" name="Magma Jet"/>
-        <card number="1" price="0" name="Dissolve"/>
-        <card number="1" price="0" name="AEtherspouts"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Haven of the Spirit Dragon"/>
+        <card number="4" price="0" name="Steam Augury"/>
+        <card number="4" price="0" name="Flamewake Phoenix"/>
+        <card number="4" price="0" name="AEtherspouts"/>
+        <card number="1" price="0" name="Temporal Trespass"/>
+        <card number="3" price="0" name="Crippling Chill"/>
+        <card number="4" price="0" name="Void Snare"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Dragonlord's Prerogative"/>
         <card number="2" price="0" name="Disdainful Stroke"/>
-        <card number="2" price="0" name="Twin Bolt"/>
-        <card number="3" price="0" name="Anger of the Gods"/>
-        <card number="3" price="0" name="Roast"/>
-        <card number="1" price="0" name="Mindswipe"/>
-        <card number="1" price="0" name="Haven of the Spirit Dragon"/>
-        <card number="2" price="0" name="AEtherspouts"/>
+        <card number="2" price="0" name="Roast"/>
+        <card number="2" price="0" name="Mindswipe"/>
+        <card number="3" price="0" name="Wild Slash"/>
+        <card number="1" price="0" name="Volcanic Vision"/>
+        <card number="1" price="0" name="Dig Through Time"/>
+        <card number="2" price="0" name="Anger of the Gods"/>
+        <card number="1" price="0" name="Temporal Trespass"/>
     </zone>
 </cockatrice_deck>
