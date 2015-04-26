@@ -6,23 +6,22 @@
         <card number="4" price="0" name="Elvish Mystic"/>
         <card number="4" price="0" name="Courser of Kruphix"/>
         <card number="3" price="0" name="Surrak, the Hunt Caller"/>
-        <card number="3" price="0" name="Polukranos, World Eater"/>
+        <card number="2" price="0" name="Polukranos, World Eater"/>
         <card number="4" price="0" name="Whisperwood Elemental"/>
         <card number="4" price="0" name="Deathmist Raptor"/>
         <card number="2" price="0" name="Arbor Colossus"/>
-        <card number="2" price="0" name="Bassara Tower Archer"/>
         <card number="4" price="0" name="Nykthos, Shrine to Nyx"/>
         <card number="14" price="0" name="Forest"/>
-        <card number="1" price="0" name="Reclamation Sage"/>
         <card number="2" price="0" name="Hunter's Prowess"/>
         <card number="3" price="0" name="Temple of Mystery"/>
         <card number="2" price="0" name="Ugin, the Spirit Dragon"/>
-        <card number="3" price="0" name="Stubborn Denial"/>
+        <card number="4" price="0" name="Stubborn Denial"/>
         <card number="2" price="0" name="Prophet of Kruphix"/>
         <card number="3" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Sylvan Caryatid"/>
+        <card number="2" price="0" name="Rattleclaw Mystic"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Worst Fears"/>
         <card number="3" price="0" name="Hornet Nest"/>
         <card number="1" price="0" name="Hornet Queen"/>
         <card number="1" price="0" name="Setessan Tactics"/>
@@ -31,5 +30,6 @@
         <card number="2" price="0" name="Nylea's Disciple"/>
         <card number="2" price="0" name="Hunt the Hunter"/>
         <card number="1" price="0" name="Bow of Nylea"/>
+        <card number="1" price="0" name="Sagu Mauler"/>
     </zone>
 </cockatrice_deck>
