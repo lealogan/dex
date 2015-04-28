@@ -16,10 +16,11 @@
         <card number="3" price="0" name="Temple of Mystery"/>
         <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
         <card number="4" price="0" name="Stubborn Denial"/>
-        <card number="2" price="0" name="Prophet of Kruphix"/>
+        <card number="1" price="0" name="Prophet of Kruphix"/>
         <card number="4" price="0" name="Yavimaya Coast"/>
-        <card number="3" price="0" name="Rattleclaw Mystic"/>
+        <card number="2" price="0" name="Rattleclaw Mystic"/>
         <card number="2" price="0" name="Den Protector"/>
+        <card number="2" price="0" name="Ranger's Guile"/>
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Hornet Nest"/>
