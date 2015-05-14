@@ -4,12 +4,10 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Savage Knuckleblade"/>
-        <card number="4" price="0" name="Frost Walker"/>
-        <card number="2" price="0" name="Rattleclaw Mystic"/>
-        <card number="3" price="0" name="Heir of the Wilds"/>
-        <card number="4" price="0" name="Elvish Mystic"/>
-        <card number="3" price="0" name="Crystalline Nautilus"/>
-        <card number="4" price="0" name="Temur Ascendancy"/>
+        <card number="1" price="0" name="Frost Walker"/>
+        <card number="4" price="0" name="Rattleclaw Mystic"/>
+        <card number="1" price="0" name="Elvish Mystic"/>
+        <card number="2" price="0" name="Temur Ascendancy"/>
         <card number="2" price="0" name="Stubborn Denial"/>
         <card number="2" price="0" name="Temple of Abandon"/>
         <card number="2" price="0" name="Temple of Epiphany"/>
@@ -19,11 +17,15 @@
         <card number="3" price="0" name="Forest"/>
         <card number="2" price="0" name="Mountain"/>
         <card number="2" price="0" name="Island"/>
-        <card number="2" price="0" name="Crater's Claws"/>
-        <card number="2" price="0" name="Boon Satyr"/>
         <card number="4" price="0" name="Collected Company"/>
         <card number="2" price="0" name="Yasova Dragonclaw"/>
         <card number="2" price="0" name="Mana Confluence"/>
+        <card number="3" price="0" name="Flamewake Phoenix"/>
+        <card number="4" price="0" name="Satyr Wayfinder"/>
+        <card number="1" price="0" name="Ranger's Guile"/>
+        <card number="1" price="0" name="Steam Augury"/>
+        <card number="4" price="0" name="Deathmist Raptor"/>
+        <card number="3" price="0" name="Den Protector"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Surrak Dragonclaw"/>
