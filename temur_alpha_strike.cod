@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="4" price="0" name="Savage Knuckleblade"/>
         <card number="4" price="0" name="Rattleclaw Mystic"/>
-        <card number="2" price="0" name="Elvish Mystic"/>
+        <card number="3" price="0" name="Elvish Mystic"/>
         <card number="3" price="0" name="Stubborn Denial"/>
         <card number="2" price="0" name="Temple of Abandon"/>
         <card number="2" price="0" name="Temple of Epiphany"/>
@@ -19,11 +19,13 @@
         <card number="2" price="0" name="Yasova Dragonclaw"/>
         <card number="2" price="0" name="Mana Confluence"/>
         <card number="3" price="0" name="Flamewake Phoenix"/>
-        <card number="4" price="0" name="Deathmist Raptor"/>
-        <card number="3" price="0" name="Illusory Angel"/>
+        <card number="2" price="0" name="Deathmist Raptor"/>
+        <card number="1" price="0" name="Illusory Angel"/>
         <card number="3" price="0" name="Temur Battle Rage"/>
         <card number="1" price="0" name="Become Immense"/>
         <card number="3" price="0" name="Shaman of the Great Hunt"/>
+        <card number="1" price="0" name="Frost Walker"/>
+        <card number="2" price="0" name="Heir of the Wilds"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Circle of Flame"/>
