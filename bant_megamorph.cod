@@ -19,12 +19,12 @@
         <card number="3" price="0" name="Dragonlord Ojutai"/>
         <card number="4" price="0" name="Temple of Plenty"/>
         <card number="4" price="0" name="Yavimaya Coast"/>
-        <card number="3" price="0" name="Flooded Strand"/>
+        <card number="2" price="0" name="Flooded Strand"/>
         <card number="4" price="0" name="Windswept Heath"/>
         <card number="2" price="0" name="Mana Confluence"/>
         <card number="4" price="0" name="Forest"/>
         <card number="2" price="0" name="Plains"/>
-        <card number="1" price="0" name="Island"/>
+        <card number="2" price="0" name="Island"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Glare of Heresy"/>
