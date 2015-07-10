@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>U-Tinker</deckname>
+    <deckname>U R-Tinker</deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Ornithopter"/>
@@ -23,11 +23,12 @@
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Phyrexian Revoker"/>
-        <card number="3" price="0" name="Bonded Construct"/>
-        <card number="1" price="0" name="Hangarback Walker"/>
         <card number="2" price="0" name="Encrust"/>
-        <card number="1" price="0" name="Jace, Vryn's Prodigy"/>
         <card number="1" price="0" name="Treasure Cruise"/>
         <card number="1" price="0" name="Scuttling Doom Engine"/>
+        <card number="4" price="0" name="Seismic Rupture"/>
+        <card number="2" price="0" name="Chandra, Fire of Kaladesh"/>
+        <card number="1" price="0" name="Whirler Rogue"/>
+        <card number="1" price="0" name="Reclusive Artificer"/>
     </zone>
 </cockatrice_deck>
