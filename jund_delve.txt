@@ -1,0 +1,25 @@
+4	Satyr Wayfinder
+4	Tasigur, the Golden Fang
+4	Gurmag Angler
+4	Reaper of the Wilds
+4	Flamewake Phoenix
+1	Herald of Torment
+1	Kolaghan, the Storm's Fury
+1	Dragonlord Kolaghan
+4	Commune with the Gods
+4	Gather the Pack
+4	Languish
+4	Wooded Foothills
+4	Bloodstained Mire
+4	Temple of Malady
+4	Llanowar Wastes
+3	Mountain
+3	Swamp
+3	Forest
+SB:4	Seismic Rupture
+SB:4	Bloodsoaked Champion
+SB:2	Herald of Torment
+SB:2	Crux of Fate
+SB:1	Fleshbag Marauder
+SB:1	Reclamation Sage
+SB:1	Whip of Erebos
