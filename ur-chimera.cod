@@ -11,7 +11,6 @@
         <card number="2" price="0" name="Disdainful Stroke"/>
         <card number="1" price="0" name="Lightning Strike"/>
         <card number="3" price="0" name="Exquisite Firecraft"/>
-        <card number="2" price="0" name="AEtherspouts"/>
         <card number="4" price="0" name="Temple of Epiphany"/>
         <card number="4" price="0" name="Shivan Reef"/>
         <card number="8" price="0" name="Mountain"/>
@@ -20,14 +19,16 @@
         <card number="1" price="0" name="Sarkhan, the Dragonspeaker"/>
         <card number="3" price="0" name="Steam Augury"/>
         <card number="2" price="0" name="Prognostic Sphinx"/>
+        <card number="2" price="0" name="Jace, Vryn's Prodigy"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Searing Blood"/>
         <card number="3" price="0" name="Anger of the Gods"/>
         <card number="2" price="0" name="Seismic Rupture"/>
-        <card number="3" price="0" name="Rending Volley"/>
-        <card number="2" price="0" name="Keranos, God of Storms"/>
+        <card number="2" price="0" name="Rending Volley"/>
+        <card number="1" price="0" name="Keranos, God of Storms"/>
         <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="AEtherspouts"/>
     </zone>
 </cockatrice_deck>
