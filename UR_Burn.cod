@@ -8,10 +8,10 @@
         <card number="4" price="0" name="Exquisite Firecraft"/>
         <card number="4" price="0" name="Lightning Strike"/>
         <card number="4" price="0" name="Magma Jet"/>
-        <card number="4" price="0" name="Mana Confluence"/>
-        <card number="1" price="0" name="Molten Vortex"/>
+        <card number="2" price="0" name="Mana Confluence"/>
+        <card number="2" price="0" name="Molten Vortex"/>
         <card number="4" price="0" name="Monastery Swiftspear"/>
-        <card number="11" price="0" name="Mountain"/>
+        <card number="12" price="0" name="Mountain"/>
         <card number="4" price="0" name="Shivan Reef"/>
         <card number="4" price="0" name="Stoke the Flames"/>
         <card number="4" price="0" name="Temple of Epiphany"/>

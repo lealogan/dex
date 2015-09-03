@@ -6,7 +6,6 @@
         <card number="4" price="0" name="Chandra's Ignition"/>
         <card number="4" price="0" name="Spellheart Chimera"/>
         <card number="4" price="0" name="Void Snare"/>
-        <card number="4" price="0" name="Abbot of Keral Keep"/>
         <card number="3" price="0" name="Anticipate"/>
         <card number="2" price="0" name="Disdainful Stroke"/>
         <card number="1" price="0" name="Lightning Strike"/>
@@ -16,10 +15,10 @@
         <card number="8" price="0" name="Mountain"/>
         <card number="9" price="0" name="Island"/>
         <card number="2" price="0" name="Searing Blood"/>
-        <card number="1" price="0" name="Sarkhan, the Dragonspeaker"/>
+        <card number="2" price="0" name="Sarkhan, the Dragonspeaker"/>
         <card number="3" price="0" name="Steam Augury"/>
-        <card number="2" price="0" name="Prognostic Sphinx"/>
-        <card number="2" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="4" price="0" name="Prognostic Sphinx"/>
+        <card number="3" price="0" name="Hordeling Outburst"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Searing Blood"/>
