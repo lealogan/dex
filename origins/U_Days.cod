@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_Days</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dakra Mystic"/>
+        <card number="4" price="0" name="Void Snare"/>
+        <card number="2" price="0" name="Disperse"/>
+        <card number="4" price="0" name="Frost Walker"/>
+        <card number="4" price="0" name="Send to Sleep"/>
+        <card number="3" price="0" name="Voyage's End"/>
+        <card number="4" price="0" name="Harbinger of the Tides"/>
+        <card number="4" price="0" name="Chasm Skulker"/>
+        <card number="4" price="0" name="Crystalline Nautilus"/>
+        <card number="4" price="0" name="Day's Undoing"/>
+        <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="20" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Triton Tactics"/>
+        <card number="4" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Encase in Ice"/>
+        <card number="1" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="2" price="0" name="Gudul Lurker"/>
+        <card number="1" price="0" name="Thassa, God of the Sea"/>
+        <card number="1" price="0" name="Shorecrasher Elemental"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="2" price="0" name="Stubborn Denial"/>
+    </zone>
+</cockatrice_deck>

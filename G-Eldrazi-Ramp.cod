@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G-Eldrazi-Ramp</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="See the Unwritten"/>
+        <card number="3" price="0" name="Hedron Archive"/>
+        <card number="3" price="0" name="Nissa's Pilgrimage"/>
+        <card number="3" price="0" name="Nissa, Vastwood Seer"/>
+        <card number="2" price="0" name="Den Protector"/>
+        <card number="1" price="0" name="Bane of Bala Ged"/>
+        <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
+        <card number="4" price="0" name="Conduit of Ruin"/>
+        <card number="4" price="0" name="Titan's Presence"/>
+        <card number="2" price="0" name="Blighted Woodland"/>
+        <card number="1" price="0" name="Fertile Thicket"/>
+        <card number="3" price="0" name="Whisperer of the Wilds"/>
+        <card number="2" price="0" name="Surrak, the Hunt Caller"/>
+        <card number="3" price="0" name="Deathmist Raptor"/>
+        <card number="1" price="0" name="Oblivion Sower"/>
+        <card number="3" price="0" name="Sanctum of Ugin"/>
+        <card number="3" price="0" name="Shrine of the Forsaken Gods"/>
+        <card number="3" price="0" name="Mage-Ring Network"/>
+        <card number="13" price="0" name="Forest"/>
+        <card number="1" price="0" name="Void Winnower"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Gaea's Revenge"/>
+        <card number="2" price="0" name="Deathmist Raptor"/>
+        <card number="1" price="0" name="Den Protector"/>
+        <card number="2" price="0" name="Feed the Clan"/>
+        <card number="2" price="0" name="Nissa's Revelation"/>
+        <card number="1" price="0" name="Breaker of Armies"/>
+        <card number="1" price="0" name="Vile Aggregate"/>
+        <card number="3" price="0" name="Jaddi Offshoot"/>
+    </zone>
+</cockatrice_deck>

@@ -7,7 +7,7 @@
         <card number="4" price="0" name="Day's Undoing"/>
         <card number="4" price="0" name="Exquisite Firecraft"/>
         <card number="4" price="0" name="Lightning Strike"/>
-        <card number="4" price="0" name="Magma Jet"/>
+        <card number="2" price="0" name="Magma Jet"/>
         <card number="2" price="0" name="Mana Confluence"/>
         <card number="2" price="0" name="Molten Vortex"/>
         <card number="4" price="0" name="Monastery Swiftspear"/>
@@ -17,12 +17,14 @@
         <card number="4" price="0" name="Temple of Epiphany"/>
         <card number="4" price="0" name="Wild Slash"/>
         <card number="4" price="0" name="Zurgo Bellstriker"/>
+        <card number="2" price="0" name="Searing Blood"/>
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Negate"/>
         <card number="2" price="0" name="Outpost Siege"/>
         <card number="3" price="0" name="Roast"/>
         <card number="3" price="0" name="Scab-Clan Berserker"/>
-        <card number="4" price="0" name="Searing Blood"/>
+        <card number="2" price="0" name="Searing Blood"/>
+        <card number="3" price="0" name="Void Snare"/>
     </zone>
 </cockatrice_deck>

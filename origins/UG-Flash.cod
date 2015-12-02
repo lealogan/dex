@@ -11,17 +11,19 @@
         <card number="2" price="0" name="Send to Sleep"/>
         <card number="2" price="0" name="Disperse"/>
         <card number="2" price="0" name="Dissolve"/>
-        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Negate"/>
         <card number="4" price="0" name="Temple of Mystery"/>
         <card number="4" price="0" name="Yavimaya Coast"/>
-        <card number="9" price="0" name="Island"/>
-        <card number="8" price="0" name="Forest"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="7" price="0" name="Forest"/>
         <card number="1" price="0" name="Calculated Dismissal"/>
         <card number="1" price="0" name="Pearl Lake Ancient"/>
         <card number="2" price="0" name="Nissa's Pilgrimage"/>
         <card number="1" price="0" name="Gaea's Revenge"/>
         <card number="2" price="0" name="Nissa, Vastwood Seer"/>
-        <card number="3" price="0" name="AEtherspouts"/>
+        <card number="2" price="0" name="AEtherspouts"/>
+        <card number="2" price="0" name="Bone to Ash"/>
+        <card number="2" price="0" name="Mage-Ring Network"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Encase in Ice"/>
@@ -30,8 +32,9 @@
         <card number="2" price="0" name="Disdainful Stroke"/>
         <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Dissolve"/>
-        <card number="2" price="0" name="Profaner of the Dead"/>
         <card number="1" price="0" name="Dig Through Time"/>
         <card number="1" price="0" name="Mizzium Meddler"/>
+        <card number="2" price="0" name="Psychic Rebuttal"/>
+        <card number="2" price="0" name="Swan Song"/>
     </zone>
 </cockatrice_deck>

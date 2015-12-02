@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>monoR-galli</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="3" price="0" name="Zurgo Bellstriker"/>
+        <card number="3" price="0" name="Lightning Berserker"/>
+        <card number="4" price="0" name="Abbot of Keral Keep"/>
+        <card number="4" price="0" name="Dragon Whisperer"/>
+        <card number="2" price="0" name="Goblin Heelcutter"/>
+        <card number="2" price="0" name="Chandra, Fire of Kaladesh"/>
+        <card number="4" price="0" name="Wild Slash"/>
+        <card number="4" price="0" name="Titan's Strength"/>
+        <card number="3" price="0" name="Roast"/>
+        <card number="4" price="0" name="Exquisite Firecraft"/>
+        <card number="1" price="0" name="Collateral Damage"/>
+        <card number="1" price="0" name="Molten Vortex"/>
+        <card number="20" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Looming Spires"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Goblin Heelcutter"/>
+        <card number="3" price="0" name="Scab-Clan Berserker"/>
+        <card number="1" price="0" name="Fiery Impulse"/>
+        <card number="1" price="0" name="Act of Treason"/>
+        <card number="1" price="0" name="Roast"/>
+        <card number="1" price="0" name="Outpost Siege"/>
+        <card number="1" price="0" name="Rending Volley"/>
+        <card number="2" price="0" name="Thunderbreak Regent"/>
+        <card number="2" price="0" name="Smash to Smithereens"/>
+        <card number="1" price="0" name="Arc Lightning"/>
+        <card number="1" price="0" name="Touch of the Void"/>
+    </zone>
+</cockatrice_deck>
