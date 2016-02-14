@@ -9,32 +9,34 @@
         <card number="1" price="0" name="Expedite"/>
         <card number="1" price="0" name="Sunken Hollow"/>
         <card number="1" price="0" name="Smoldering Marsh"/>
-        <card number="4" price="0" name="Fiery Impulse"/>
+        <card number="3" price="0" name="Fiery Impulse"/>
         <card number="4" price="0" name="Abbot of Keral Keep"/>
-        <card number="1" price="0" name="Roast"/>
+        <card number="2" price="0" name="Roast"/>
         <card number="2" price="0" name="Temur Battle Rage"/>
-        <card number="4" price="0" name="Treasure Cruise"/>
+        <card number="3" price="0" name="Treasure Cruise"/>
         <card number="4" price="0" name="Monastery Swiftspear"/>
         <card number="4" price="0" name="Titan's Strength"/>
         <card number="2" price="0" name="Dispel"/>
         <card number="4" price="0" name="Bloodstained Mire"/>
         <card number="4" price="0" name="Polluted Delta"/>
         <card number="4" price="0" name="Mountain"/>
-        <card number="2" price="0" name="Island"/>
+        <card number="3" price="0" name="Island"/>
         <card number="4" price="0" name="Shivan Reef"/>
-        <card number="2" price="0" name="Grip of the Roil"/>
-        <card number="2" price="0" name="Jori En, Ruin Diver"/>
+        <card number="2" price="0" name="Magmatic Insight"/>
+        <card number="1" price="0" name="Jori En, Ruin Diver"/>
+        <card number="1" price="0" name="Grip of the Roil"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Boiling Earth"/>
-        <card number="1" price="0" name="Pia and Kiran Nalaar"/>
         <card number="1" price="0" name="Roast"/>
         <card number="2" price="0" name="Wild Slash"/>
         <card number="1" price="0" name="Murderous Cut"/>
         <card number="2" price="0" name="Disdainful Stroke"/>
-        <card number="2" price="0" name="Dispel"/>
-        <card number="2" price="0" name="Duress"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Duress"/>
         <card number="1" price="0" name="Clutch of Currents"/>
         <card number="1" price="0" name="Painful Truths"/>
+        <card number="1" price="0" name="Shu Yun, the Silent Tempest"/>
+        <card number="2" price="0" name="Talent of the Telepath"/>
     </zone>
 </cockatrice_deck>
