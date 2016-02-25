@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Slip Through Space"/>
-        <card number="2" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Stormchaser Mage"/>
         <card number="1" price="0" name="Expedite"/>
         <card number="1" price="0" name="Sunken Hollow"/>
@@ -22,9 +21,11 @@
         <card number="4" price="0" name="Mountain"/>
         <card number="3" price="0" name="Island"/>
         <card number="4" price="0" name="Shivan Reef"/>
-        <card number="2" price="0" name="Magmatic Insight"/>
+        <card number="1" price="0" name="Magmatic Insight"/>
         <card number="1" price="0" name="Jori En, Ruin Diver"/>
         <card number="1" price="0" name="Grip of the Roil"/>
+        <card number="2" price="0" name="Elusive Spellfist"/>
+        <card number="1" price="0" name="Wandering Fumarole"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Boiling Earth"/>
