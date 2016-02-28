@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR-Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Radiant Flames"/>
+        <card number="4" price="0" name="Roast"/>
+        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="1" price="0" name="Sarkhan, the Dragonspeaker"/>
+        <card number="3" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="1" price="0" name="Icefall Regent"/>
+        <card number="2" price="0" name="Silumgar's Scorn"/>
+        <card number="3" price="0" name="Ravaging Blaze"/>
+        <card number="3" price="0" name="Fiery Impulse"/>
+        <card number="4" price="0" name="Wandering Fumarole"/>
+        <card number="4" price="0" name="Mystic Monastery"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Dig Through Time"/>
+        <card number="1" price="0" name="Wild Slash"/>
+        <card number="2" price="0" name="Dragonlord Ojutai"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Talent of the Telepath"/>
+        <card number="3" price="0" name="Thought-Knot Seer"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="3" price="0" name="Mage-Ring Network"/>
+        <card number="3" price="0" name="Flooded Strand"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Radiant Flames"/>
+        <card number="3" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Fiery Impulse"/>
+        <card number="1" price="0" name="Brutal Expulsion"/>
+        <card number="2" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="1" price="0" name="Ojutai's Command"/>
+        <card number="1" price="0" name="Narset, Enlightened Master"/>
+        <card number="1" price="0" name="Talent of the Telepath"/>
+        <card number="1" price="0" name="Crush of Tentacles"/>
+    </zone>
+</cockatrice_deck>
