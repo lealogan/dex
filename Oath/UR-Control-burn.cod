@@ -3,8 +3,8 @@
     <deckname>UR-Control</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Mindswipe"/>
-        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="2" price="0" name="Mindswipe"/>
+        <card number="3" price="0" name="Chandra, Flamecaller"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Jace, Vryn's Prodigy"/>
         <card number="4" price="0" name="Ravaging Blaze"/>
@@ -15,14 +15,13 @@
         <card number="5" price="0" name="Island"/>
         <card number="4" price="0" name="Mountain"/>
         <card number="2" price="0" name="Dig Through Time"/>
-        <card number="1" price="0" name="Clash of Wills"/>
         <card number="4" price="0" name="Scatter to the Winds"/>
         <card number="2" price="0" name="Ojutai's Command"/>
         <card number="3" price="0" name="Flooded Strand"/>
         <card number="2" price="0" name="Roast"/>
-        <card number="1" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Dispel"/>
         <card number="1" price="0" name="Disdainful Stroke"/>
-        <card number="3" price="0" name="Mage-Ring Network"/>
+        <card number="4" price="0" name="Mage-Ring Network"/>
         <card number="1" price="0" name="Prairie Stream"/>
     </zone>
     <zone name="side">
@@ -32,9 +31,9 @@
         <card number="1" price="0" name="Negate"/>
         <card number="1" price="0" name="Psychic Rebuttal"/>
         <card number="2" price="0" name="Roast"/>
-        <card number="1" price="0" name="Dig Through Time"/>
-        <card number="1" price="0" name="Fall of the Titans"/>
         <card number="1" price="0" name="Dispel"/>
         <card number="1" price="0" name="Supplant Form"/>
+        <card number="1" price="0" name="Clash of Wills"/>
+        <card number="1" price="0" name="Dig Through Time"/>
     </zone>
 </cockatrice_deck>
