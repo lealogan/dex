@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>oath patch 3</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Serum Visions"/>
+        <card number="1" price="0" name="Frantic Search"/>
+        <card number="1" price="0" name="Ray of Command"/>
+        <card number="1" price="0" name="Palinchron"/>
+        <card number="1" price="0" name="Brago, King Eternal"/>
+        <card number="1" price="0" name="Pia and Kiran Nalaar"/>
+        <card number="1" price="0" name="Blazing Shoal"/>
+        <card number="1" price="0" name="Lightning Axe"/>
+        <card number="1" price="0" name="Reckless Bushwhacker"/>
+        <card number="1" price="0" name="Eldrazi Obligator"/>
+        <card number="1" price="0" name="Countryside Crusher"/>
+    </zone>
+</cockatrice_deck>
