@@ -21,14 +21,15 @@
         <card number="2" price="0" name="Welcome to the Fold"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Radiant Flames"/>
+        <card number="2" price="0" name="Radiant Flames"/>
         <card number="1" price="0" name="Negate"/>
         <card number="1" price="0" name="Psychic Rebuttal"/>
         <card number="2" price="0" name="Dispel"/>
-        <card number="2" price="0" name="Crush of Tentacles"/>
+        <card number="1" price="0" name="Crush of Tentacles"/>
         <card number="1" price="0" name="Clash of Wills"/>
         <card number="1" price="0" name="Scatter to the Winds"/>
         <card number="1" price="0" name="Tormenting Voice"/>
         <card number="3" price="0" name="Roast"/>
+        <card number="2" price="0" name="Goldnight Castigator"/>
     </zone>
 </cockatrice_deck>
