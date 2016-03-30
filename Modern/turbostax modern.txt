@@ -1,0 +1,36 @@
+UR Turbo Stacks:
+
+4 Stormchaser Mage
+4 Monastery Swiftspear
+4 Young Pyromancer
+4 Snapcaster Mage
+
+4 Lightning Bolt
+4 Vapor Snag
+4 Crack the Earth
+4 Hatched plans
+4 Perilous Research
+4 Gitaxian probe
+
+4 Scalding Tarn
+1 Flooded strand
+4 Steam Vents
+3 Island
+3 mountain
+3 Sulfur falls
+1 Wandering fumarole
+
+
+SB:
+4 Akki Blizzard-herder
+2 Vandalblast
+2 Smash to Smithereens
+4 Dragon Claw
+2 Forked bolt 
+1 Hurkyl’s recall
+
+Synopsis:
+The theme of this deck differs from traditional UR decks in that it focuses less on tempo based control and stack interference, and more on exploiting disparity in card parity. The deck uses the 8 permanent based sac outlets (Crack the earth and Perilous research) to trade higher value permanents (key lands, creatures etc.) for highly dispensable permanents (Elemental tokens that generate off of each cast, hatched plans, and Akki blizzard-herder out of the sideboard). Turn two Stormchaser mages can be followed up by turn three Hatched plans & crack the earth for +4 card advantage (draw three, opponents sacrifices a permanent). This deck puts blood-moon to shame in the land-disruption department and severely punishes slower more controlling decks, like blue moon, that are inevitably forced to sacrifice lands. Crack the earth often times offers a value trade for Eye of ugin (on the play, vapor snag/lightning bolt the creature and crack the earth for the eye) CTE will almost always trade up given the organization of the deck. Perilous research and Hatched plans often times is a 4 mana 5 card swing split across 2 turns if needed. Pre-board the deck offers a fast clock and panoptic disruption that, while high variance, hedges bets against nearly all strategies. 
+
+Sideboard:
+The sideboard is hedged against the burn matchup in Dragon Claw and Tron in Akki Blizzard-herder most exclusively. it also  has game against infect - shutting off the early game and reducing resistance to removal. forked bolt offers high utility against t1 double mimics and single endless ones. Vandal-blast and Smash offer a split hedge against chalice and affinity; Hurkyl’s recall stands out as a high swing play against affinity and Lantern. 
