@@ -3,31 +3,33 @@
     <deckname>BUG-Frog</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Thought-Knot Seer"/>
-        <card number="2" price="0" name="Altered Ego"/>
-        <card number="1" price="0" name="Kiora, Master of the Depths"/>
         <card number="4" price="0" name="Oath of Nissa"/>
-        <card number="2" price="0" name="Spatial Contortion"/>
-        <card number="3" price="0" name="Traverse the Ulvenwald"/>
-        <card number="2" price="0" name="Lumbering Falls"/>
+        <card number="4" price="0" name="Traverse the Ulvenwald"/>
+        <card number="4" price="0" name="Lumbering Falls"/>
         <card number="4" price="0" name="Yavimaya Coast"/>
         <card number="3" price="0" name="Forest"/>
-        <card number="3" price="0" name="Island"/>
-        <card number="1" price="0" name="Wastes"/>
-        <card number="4" price="0" name="Deathcap Cultivator"/>
+        <card number="1" price="0" name="Island"/>
         <card number="4" price="0" name="Llanowar Wastes"/>
-        <card number="3" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Swamp"/>
         <card number="4" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Hangarback Walker"/>
-        <card number="4" price="0" name="Sylvan Advocate"/>
+        <card number="2" price="0" name="Sylvan Advocate"/>
         <card number="1" price="0" name="Fleshbag Marauder"/>
         <card number="1" price="0" name="Dragonlord Silumgar"/>
         <card number="1" price="0" name="Ob Nixilis Reignited"/>
-        <card number="2" price="0" name="Groundskeeper"/>
         <card number="1" price="0" name="The Gitrog Monster"/>
-        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="1" price="0" name="Sarkhan Unbroken"/>
-        <card number="3" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="4" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="2" price="0" name="Den Protector"/>
+        <card number="4" price="0" name="To the Slaughter"/>
+        <card number="3" price="0" name="Sunken Hollow"/>
+        <card number="3" price="0" name="Mindwrack Demon"/>
+        <card number="1" price="0" name="Autumnal Gloom"/>
+        <card number="1" price="0" name="Liliana, Heretical Healer"/>
+        <card number="2" price="0" name="Nissa, Vastwood Seer"/>
+        <card number="1" price="0" name="Drownyard Temple"/>
+        <card number="1" price="0" name="Asylum Visitor"/>
+        <card number="1" price="0" name="Brood Butcher"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Void Grafter"/>
@@ -35,9 +37,11 @@
         <card number="2" price="0" name="Dispel"/>
         <card number="1" price="0" name="Sphinx of the Final Word"/>
         <card number="2" price="0" name="Clip Wings"/>
-        <card number="2" price="0" name="Conclave Naturalists"/>
+        <card number="1" price="0" name="Conclave Naturalists"/>
         <card number="2" price="0" name="Transgress the Mind"/>
-        <card number="2" price="0" name="Duress"/>
-        <card number="1" price="0" name="Crush of Tentacles"/>
+        <card number="1" price="0" name="Duress"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Groundskeeper"/>
+        <card number="1" price="0" name="Altered Ego"/>
     </zone>
 </cockatrice_deck>
