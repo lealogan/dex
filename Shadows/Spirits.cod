@@ -3,13 +3,8 @@
     <deckname>Spirits</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" price="0" name="Anafenza, Kin-Tree Spirit"/>
-        <card number="1" price="0" name="Bygone Bishop"/>
         <card number="4" price="0" name="Rattlechains"/>
-        <card number="1" price="0" name="Spectral Shepherd"/>
-        <card number="1" price="0" name="Topplegeist"/>
-        <card number="1" price="0" name="Tower Geist"/>
-        <card number="1" price="0" name="Uninvited Geist"/>
+        <card number="2" price="0" name="Topplegeist"/>
         <card number="1" price="0" name="Reflector Mage"/>
         <card number="4" price="0" name="Ojutai's Command"/>
         <card number="4" price="0" name="Clash of Wills"/>
@@ -21,13 +16,21 @@
         <card number="4" price="0" name="Thunderclap Wyvern"/>
         <card number="1" price="0" name="Hixus, Prison Warden"/>
         <card number="2" price="0" name="Archangel Avacyn"/>
+        <card number="4" price="0" name="Prairie Stream"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="11" price="0" name="Plains"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Dispel"/>
         <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Moorland Drifter"/>
         <card number="1" price="0" name="Niblis of Dusk"/>
-        <card number="4" price="0" name="Encase in Ice"/>
+        <card number="3" price="0" name="Encase in Ice"/>
         <card number="1" price="0" name="Invocation of Saint Traft"/>
+        <card number="1" price="0" name="Tower Geist"/>
+        <card number="1" price="0" name="Uninvited Geist"/>
+        <card number="1" price="0" name="Anafenza, Kin-Tree Spirit"/>
+        <card number="1" price="0" name="Bygone Bishop"/>
+        <card number="1" price="0" name="Spectral Shepherd"/>
     </zone>
 </cockatrice_deck>
