@@ -14,12 +14,12 @@
         <card number="2" price="0" name="Dispel"/>
         <card number="4" price="0" name="Mage-Ring Network"/>
         <card number="3" price="0" name="Lightning Axe"/>
-        <card number="4" price="0" name="Thing in the Ice"/>
+        <card number="3" price="0" name="Thing in the Ice"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="4" price="0" name="Just the Wind"/>
-        <card number="4" price="0" name="Thought-Knot Seer"/>
+        <card number="3" price="0" name="Thought-Knot Seer"/>
         <card number="1" price="0" name="Roast"/>
-        <card number="2" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="3" price="0" name="Goblin Dark-Dwellers"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Radiant Flames"/>
