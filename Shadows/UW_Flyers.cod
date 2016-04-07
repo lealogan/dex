@@ -4,22 +4,21 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Always Watching"/>
-        <card number="2" price="0" name="Anafenza, Kin-Tree Spirit"/>
-        <card number="3" price="0" name="Archangel of Tithes"/>
-        <card number="1" price="0" name="Bygone Bishop"/>
+        <card number="4" price="0" name="Archangel of Tithes"/>
+        <card number="3" price="0" name="Bygone Bishop"/>
         <card number="4" price="0" name="Declaration in Stone"/>
-        <card number="3" price="0" name="Dragonlord Ojutai"/>
-        <card number="3" price="0" name="Essence Flux"/>
-        <card number="5" price="0" name="Island"/>
-        <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
-        <card number="2" price="0" name="Ojutai's Command"/>
+        <card number="2" price="0" name="Dragonlord Ojutai"/>
+        <card number="1" price="0" name="Essence Flux"/>
+        <card number="6" price="0" name="Island"/>
         <card number="11" price="0" name="Plains"/>
         <card number="4" price="0" name="Port Town"/>
         <card number="4" price="0" name="Prairie Stream"/>
-        <card number="4" price="0" name="Rattlechains"/>
-        <card number="4" price="0" name="Reflector Mage"/>
-        <card number="2" price="0" name="Spectral Shepherd"/>
-        <card number="2" price="0" name="Topplegeist"/>
+        <card number="3" price="0" name="Rattlechains"/>
+        <card number="2" price="0" name="Reflector Mage"/>
+        <card number="3" price="0" name="Topplegeist"/>
+        <card number="4" price="0" name="Thunderclap Wyvern"/>
+        <card number="3" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="2" price="0" name="Archangel Avacyn"/>
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Eerie Interlude"/>
