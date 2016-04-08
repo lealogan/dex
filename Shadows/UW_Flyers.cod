@@ -14,18 +14,20 @@
         <card number="4" price="0" name="Port Town"/>
         <card number="4" price="0" name="Prairie Stream"/>
         <card number="3" price="0" name="Rattlechains"/>
-        <card number="2" price="0" name="Reflector Mage"/>
-        <card number="3" price="0" name="Topplegeist"/>
+        <card number="4" price="0" name="Reflector Mage"/>
         <card number="4" price="0" name="Thunderclap Wyvern"/>
-        <card number="3" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="2" price="0" name="Jace, Vryn's Prodigy"/>
         <card number="2" price="0" name="Archangel Avacyn"/>
+        <card number="2" price="0" name="Negate"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Eerie Interlude"/>
-        <card number="1" price="0" name="Essence Flux"/>
-        <card number="4" price="0" name="Invasive Surgery"/>
+        <card number="2" price="0" name="Eerie Interlude"/>
+        <card number="1" price="0" name="Invasive Surgery"/>
         <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="1" price="0" name="Linvala, the Preserver"/>
-        <card number="4" price="0" name="Negate"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="2" price="0" name="Essence Flux"/>
+        <card number="4" price="0" name="Stasis Snare"/>
+        <card number="2" price="0" name="Topplegeist"/>
     </zone>
 </cockatrice_deck>
