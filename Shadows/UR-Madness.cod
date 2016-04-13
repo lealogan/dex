@@ -3,33 +3,34 @@
     <deckname>UR-Madness</deckname>
     <comments>needs card draw</comments>
     <zone name="main">
-        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="3" price="0" name="Chandra, Flamecaller"/>
         <card number="4" price="0" name="Jace, Vryn's Prodigy"/>
         <card number="2" price="0" name="Ravaging Blaze"/>
         <card number="4" price="0" name="Fiery Impulse"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Shivan Reef"/>
-        <card number="7" price="0" name="Island"/>
-        <card number="6" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="9" price="0" name="Mountain"/>
         <card number="2" price="0" name="Dispel"/>
         <card number="4" price="0" name="Mage-Ring Network"/>
-        <card number="3" price="0" name="Lightning Axe"/>
-        <card number="3" price="0" name="Thing in the Ice"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="2" price="0" name="Thing in the Ice"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="4" price="0" name="Just the Wind"/>
         <card number="3" price="0" name="Thought-Knot Seer"/>
         <card number="1" price="0" name="Roast"/>
         <card number="3" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="1" price="0" name="Jori En, Ruin Diver"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Radiant Flames"/>
         <card number="1" price="0" name="Negate"/>
         <card number="1" price="0" name="Clash of Wills"/>
         <card number="1" price="0" name="Scatter to the Winds"/>
         <card number="2" price="0" name="Roast"/>
-        <card number="4" price="0" name="Goldnight Castigator"/>
-        <card number="2" price="0" name="Welcome to the Fold"/>
-        <card number="1" price="0" name="Talent of the Telepath"/>
+        <card number="1" price="0" name="Welcome to the Fold"/>
+        <card number="2" price="0" name="Talent of the Telepath"/>
         <card number="1" price="0" name="Harness the Storm"/>
+        <card number="4" price="0" name="Fevered Visions"/>
+        <card number="3" price="0" name="Kozilek's Return"/>
     </zone>
 </cockatrice_deck>
