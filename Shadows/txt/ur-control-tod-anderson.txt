@@ -1,0 +1,27 @@
+4 Thing in the Ice
+3 Highland Lake
+4 Drownyard Temple
+1 Kozilek's Return
+2 Jori En, Ruin Diver
+4 Wandering Fumarole
+2 Chandra, Flamecaller
+2 Fall of the Titans
+4 Jace, Vryn's Prodigy
+3 Pyromancer's Goggles
+3 Magmatic Insight
+1 Anticipate
+4 Tormenting Voice
+4 Lightning Axe
+4 Fiery Temper
+7 Mountain
+3 Island
+1 Yavimaya Coast
+4 Shivan Reef
+
+Sideboard
+4 Fevered Visions
+1 Kozilek's Return
+2 Void Shatter
+4 Eldrazi Obligator
+1 Chandra, Flamecaller
+3 Negate
