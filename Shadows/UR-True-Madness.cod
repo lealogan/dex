@@ -16,11 +16,15 @@
         <card number="1" price="0" name="Harness the Storm"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Drownyard Temple"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Malevolent Whispers"/>
         <card number="1" price="0" name="Broken Concentration"/>
         <card number="1" price="0" name="Welcome to the Fold"/>
         <card number="1" price="0" name="Harness the Storm"/>
+        <card number="1" price="0" name="Geralf's Masterpiece"/>
+        <card number="1" price="0" name="Stitchwing Skaab"/>
+        <card number="1" price="0" name="Akoum Firebird"/>
     </zone>
 </cockatrice_deck>
