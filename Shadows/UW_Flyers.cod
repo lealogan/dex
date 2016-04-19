@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="4" price="0" name="Always Watching"/>
         <card number="4" price="0" name="Archangel of Tithes"/>
-        <card number="4" price="0" name="Declaration in Stone"/>
+        <card number="3" price="0" name="Declaration in Stone"/>
         <card number="3" price="0" name="Dragonlord Ojutai"/>
         <card number="6" price="0" name="Island"/>
         <card number="11" price="0" name="Plains"/>
@@ -14,10 +14,10 @@
         <card number="4" price="0" name="Reflector Mage"/>
         <card number="4" price="0" name="Thunderclap Wyvern"/>
         <card number="3" price="0" name="Archangel Avacyn"/>
-        <card number="4" price="0" name="Negate"/>
+        <card number="3" price="0" name="Negate"/>
         <card number="2" price="0" name="Stasis Snare"/>
         <card number="1" price="0" name="Quarantine Field"/>
-        <card number="2" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Knight of the White Orchid"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Eerie Interlude"/>
