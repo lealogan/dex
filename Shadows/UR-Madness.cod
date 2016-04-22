@@ -13,6 +13,7 @@
         <card number="9" price="0" name="Mountain"/>
         <card number="4" price="0" name="Mage-Ring Network"/>
         <card number="2" price="0" name="Lightning Axe"/>
+<<<<<<< HEAD
         <card number="3" price="0" name="Thing in the Ice"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="3" price="0" name="Just the Wind"/>
@@ -22,10 +23,20 @@
         <card number="2" price="0" name="Avaricious Dragon"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
         <card number="2" price="0" name="Tormenting Voice"/>
+=======
+        <card number="4" price="0" name="Thing in the Ice"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="4" price="0" name="Just the Wind"/>
+        <card number="4" price="0" name="Thought-Knot Seer"/>
+        <card number="1" price="0" name="Roast"/>
+        <card number="3" price="0" name="Goblin Dark-Dwellers"/>
+        <card number="1" price="0" name="Avacyn's Judgment"/>
+>>>>>>> origin/master
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Negate"/>
+        <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Clash of Wills"/>
+<<<<<<< HEAD
         <card number="1" price="0" name="Scatter to the Winds"/>
         <card number="1" price="0" name="Roast"/>
         <card number="1" price="0" name="Welcome to the Fold"/>
@@ -33,5 +44,13 @@
         <card number="4" price="0" name="Fevered Visions"/>
         <card number="3" price="0" name="Kozilek's Return"/>
         <card number="2" price="0" name="Dispel"/>
+=======
+        <card number="2" price="0" name="Roast"/>
+        <card number="3" price="0" name="Welcome to the Fold"/>
+        <card number="1" price="0" name="Talent of the Telepath"/>
+        <card number="3" price="0" name="Kozilek's Return"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Scatter to the Winds"/>
+>>>>>>> origin/master
     </zone>
 </cockatrice_deck>
