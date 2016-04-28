@@ -9,10 +9,24 @@
         <card number="4" price="0" name="Tormenting Voice"/>
         <card number="4" price="0" name="Fiery Impulse"/>
         <card number="2" price="0" name="Nahiri, the Harbinger"/>
-        <card number="4" price="0" name="Cathar's Companion"/>
-        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="4" price="0" name="Exquisite Firecraft"/>
+        <card number="4" price="0" name="Drownyard Temple"/>
+        <card number="4" price="0" name="Battlefield Forge"/>
+        <card number="4" price="0" name="Needle Spires"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="5" price="0" name="Plains"/>
+        <card number="2" price="0" name="Fiery Temper"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="4" price="0" name="Sin Prodder"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Dragonlord Ojutai"/>
+        <card number="3" price="0" name="Rending Volley"/>
+        <card number="3" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Angelic Purge"/>
+        <card number="3" price="0" name="Kozilek's Return"/>
+        <card number="2" price="0" name="Linvala, the Preserver"/>
+        <card number="3" price="0" name="Quarantine Field"/>
     </zone>
 </cockatrice_deck>
