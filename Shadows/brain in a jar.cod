@@ -12,10 +12,9 @@
         <card number="2" price="0" name="Mirrorpool"/>
         <card number="1" price="0" name="Highland Lake"/>
         <card number="4" price="0" name="Brain in a Jar"/>
-        <card number="1" price="0" name="Part the Waterveil"/>
         <card number="4" price="0" name="Pieces of the Puzzle"/>
         <card number="4" price="0" name="Grip of the Roil"/>
-        <card number="2" price="0" name="Rise from the Tides"/>
+        <card number="3" price="0" name="Rise from the Tides"/>
         <card number="2" price="0" name="Thing in the Ice"/>
         <card number="2" price="0" name="Pore Over the Pages"/>
         <card number="4" price="0" name="Clutch of Currents"/>
@@ -33,5 +32,6 @@
         <card number="4" price="0" name="Act of Treason"/>
         <card number="2" price="0" name="Clash of Wills"/>
         <card number="1" price="0" name="Talent of the Telepath"/>
+        <card number="1" price="0" name="Part the Waterveil"/>
     </zone>
 </cockatrice_deck>
