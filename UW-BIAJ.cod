@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>brain in a jar</deckname>
-    <comments></comments>
+    <deckname>UW-BIAJ</deckname>
+    <comments>Need to do lands still.
+All the wraths.</comments>
     <zone name="main">
         <card number="20" price="0" name="Island"/>
         <card number="4" price="0" name="Brain in a Jar"/>
         <card number="4" price="0" name="Pieces of the Puzzle"/>
-        <card number="4" price="0" name="Grip of the Roil"/>
         <card number="4" price="0" name="Rise from the Tides"/>
-        <card number="4" price="0" name="Pore Over the Pages"/>
-        <card number="2" price="0" name="Clutch of Currents"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Mage-Ring Network"/>
-        <card number="4" price="0" name="Engulf the Shore"/>
-        <card number="2" price="0" name="Scatter to the Winds"/>
         <card number="4" price="0" name="Part the Waterveil"/>
+        <card number="4" price="0" name="Descend upon the Sinful"/>
+        <card number="4" price="0" name="Planar Outburst"/>
+        <card number="4" price="0" name="Declaration in Stone"/>
+        <card number="4" price="0" name="Ojutai's Command"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Negate"/>
