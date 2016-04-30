@@ -5,11 +5,11 @@
     <zone name="main">
         <card number="20" price="0" name="Island"/>
         <card number="4" price="0" name="Brain in a Jar"/>
-        <card number="4" price="0" name="Pieces of the Puzzle"/>
+        <card number="3" price="0" name="Pieces of the Puzzle"/>
         <card number="4" price="0" name="Grip of the Roil"/>
         <card number="4" price="0" name="Rise from the Tides"/>
-        <card number="4" price="0" name="Pore Over the Pages"/>
-        <card number="2" price="0" name="Clutch of Currents"/>
+        <card number="3" price="0" name="Pore Over the Pages"/>
+        <card number="4" price="0" name="Clutch of Currents"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Mage-Ring Network"/>
         <card number="4" price="0" name="Engulf the Shore"/>
