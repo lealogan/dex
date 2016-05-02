@@ -7,26 +7,26 @@
         <card number="3" price="0" name="Pyromancer's Goggles"/>
         <card number="4" price="0" name="Exquisite Firecraft"/>
         <card number="4" price="0" name="Fiery Impulse"/>
-        <card number="2" price="0" name="Ravaging Blaze"/>
         <card number="10" price="0" name="Mountain"/>
         <card number="4" price="0" name="Drownyard Temple"/>
         <card number="4" price="0" name="Day's Undoing"/>
         <card number="4" price="0" name="Brain in a Jar"/>
         <card number="2" price="0" name="Mirrorpool"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
-        <card number="2" price="0" name="Fall of the Titans"/>
-        <card number="4" price="0" name="Twin Bolt"/>
-        <card number="1" price="0" name="Chandra, Flamecaller"/>
+        <card number="3" price="0" name="Twin Bolt"/>
         <card number="4" price="0" name="Shivan Reef"/>
         <card number="4" price="0" name="Sarkhan's Rage"/>
+        <card number="4" price="0" name="Roast"/>
+        <card number="2" price="0" name="Chandra, Flamecaller"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Act of Treason"/>
-        <card number="4" price="0" name="Rending Volley"/>
-        <card number="1" price="0" name="Chandra, Flamecaller"/>
+        <card number="2" price="0" name="Rending Volley"/>
         <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="3" price="0" name="Kozilek's Return"/>
-        <card number="2" price="0" name="Harness the Storm"/>
         <card number="1" price="0" name="Chandra's Fury"/>
+        <card number="1" price="0" name="Fall of the Titans"/>
+        <card number="2" price="0" name="Ravaging Blaze"/>
+        <card number="2" price="0" name="Sphinx of the Final Word"/>
     </zone>
 </cockatrice_deck>
