@@ -24,11 +24,11 @@
         <card number="2" price="0" name="Act of Treason"/>
         <card number="2" price="0" name="Rending Volley"/>
         <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
-        <card number="3" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="2" price="0" name="Chandra, Flamecaller"/>
         <card number="1" price="0" name="Chandra's Fury"/>
         <card number="1" price="0" name="Fall of the Titans"/>
         <card number="2" price="0" name="Ravaging Blaze"/>
         <card number="2" price="0" name="Sphinx of the Final Word"/>
     </zone>
 </cockatrice_deck>
-
