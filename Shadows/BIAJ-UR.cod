@@ -16,9 +16,8 @@
         <card number="4" price="0" name="Pore Over the Pages"/>
         <card number="4" price="0" name="Clutch of Currents"/>
         <card number="1" price="0" name="Talent of the Telepath"/>
-        <card number="1" price="0" name="Volcanic Vision"/>
         <card number="4" price="0" name="Anticipate"/>
-        <card number="2" price="0" name="Harness the Storm"/>
+        <card number="3" price="0" name="Harness the Storm"/>
         <card number="4" price="0" name="Rise from the Tides"/>
     </zone>
     <zone name="side">

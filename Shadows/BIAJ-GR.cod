@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BIAJ-GR</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="2" price="0" name="Pyromancer's Goggles"/>
+        <card number="4" price="0" name="Exquisite Firecraft"/>
+        <card number="4" price="0" name="Fiery Impulse"/>
+        <card number="2" price="0" name="Ravaging Blaze"/>
+        <card number="4" price="0" name="Cinder Glade"/>
+        <card number="12" price="0" name="Mountain"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="3" price="0" name="Magmatic Insight"/>
+        <card number="3" price="0" name="Drownyard Temple"/>
+        <card number="4" price="0" name="Dragon Fodder"/>
+        <card number="2" price="0" name="Chandra's Ignition"/>
+        <card number="1" price="0" name="Dragonlord Atarka"/>
+        <card number="4" price="0" name="Thunderbreak Regent"/>
+        <card number="4" price="0" name="Atarka's Command"/>
+        <card number="2" price="0" name="Commune with Lava"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Act of Treason"/>
+        <card number="2" price="0" name="Arlinn Kord"/>
+        <card number="4" price="0" name="Animist's Awakening"/>
+        <card number="4" price="0" name="Rending Volley"/>
+    </zone>
+</cockatrice_deck>
