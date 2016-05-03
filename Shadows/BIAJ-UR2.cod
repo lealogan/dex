@@ -13,22 +13,20 @@
         <card number="4" price="0" name="Brain in a Jar"/>
         <card number="2" price="0" name="Mirrorpool"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
-        <card number="1" price="0" name="Twin Bolt"/>
         <card number="4" price="0" name="Shivan Reef"/>
         <card number="3" price="0" name="Sarkhan's Rage"/>
-        <card number="2" price="0" name="Roast"/>
         <card number="4" price="0" name="Thunderbreak Regent"/>
-        <card number="4" price="0" name="Draconic Roar"/>
+        <card number="3" price="0" name="Draconic Roar"/>
+        <card number="4" price="0" name="Vessel of Volatility"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Act of Treason"/>
-        <card number="2" price="0" name="Rending Volley"/>
-        <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
-        <card number="1" price="0" name="Kozilek's Return"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="2" price="0" name="Chandra, Flamecaller"/>
         <card number="1" price="0" name="Chandra's Fury"/>
-        <card number="1" price="0" name="Fall of the Titans"/>
-        <card number="2" price="0" name="Ravaging Blaze"/>
-        <card number="2" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="Twin Bolt"/>
+        <card number="4" price="0" name="Sin Prodder"/>
+        <card number="4" price="0" name="Eldrazi Obligator"/>
+        <card number="1" price="0" name="Roast"/>
     </zone>
 </cockatrice_deck>
