@@ -5,31 +5,32 @@
     <zone name="main">
         <card number="4" price="0" name="Reality Smasher"/>
         <card number="4" price="0" name="Thought-Knot Seer"/>
-        <card number="4" price="0" name="Eldrazi Obligator"/>
-        <card number="3" price="0" name="Vessel of Volatility"/>
-        <card number="4" price="0" name="Hedron Crawler"/>
-        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="3" price="0" name="Eldrazi Obligator"/>
+        <card number="4" price="0" name="Vessel of Volatility"/>
+        <card number="3" price="0" name="Chandra, Flamecaller"/>
         <card number="4" price="0" name="Spatial Contortion"/>
-        <card number="4" price="0" name="Warping Wail"/>
+        <card number="1" price="0" name="Warping Wail"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
-        <card number="2" price="0" name="Commune with Lava"/>
         <card number="2" price="0" name="Mirrorpool"/>
-        <card number="4" price="0" name="Mage-Ring Network"/>
-        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="2" price="0" name="Mage-Ring Network"/>
         <card number="10" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Corrupted Crossroads"/>
-        <card number="3" price="0" name="Hedron Archive"/>
+        <card number="2" price="0" name="Corrupted Crossroads"/>
+        <card number="4" price="0" name="Hedron Archive"/>
+        <card number="3" price="0" name="Eldrazi Displacer"/>
+        <card number="4" price="0" name="Battlefield Forge"/>
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="4" price="0" name="Drownyard Temple"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Brutal Expulsion"/>
-        <card number="2" price="0" name="Consuming Sinkhole"/>
-        <card number="1" price="0" name="Adverse Conditions"/>
+        <card number="1" price="0" name="Consuming Sinkhole"/>
         <card number="2" price="0" name="Kozilek's Return"/>
         <card number="2" price="0" name="Spell Shrivel"/>
         <card number="1" price="0" name="Reality Hemorrhage"/>
         <card number="1" price="0" name="Transgress the Mind"/>
-        <card number="2" price="0" name="Slip Through Space"/>
         <card number="1" price="0" name="Crumble to Dust"/>
         <card number="1" price="0" name="Herald of Kozilek"/>
+        <card number="2" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Warping Wail"/>
     </zone>
 </cockatrice_deck>
