@@ -4,7 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Gideon, Ally of Zendikar"/>
-        <card number="3" price="0" name="Chandra's Ignition"/>
+        <card number="2" price="0" name="Chandra's Ignition"/>
         <card number="4" price="0" name="Pyromancer's Goggles"/>
         <card number="4" price="0" name="Tormenting Voice"/>
         <card number="4" price="0" name="Fiery Impulse"/>
@@ -17,9 +17,9 @@
         <card number="8" price="0" name="Mountain"/>
         <card number="5" price="0" name="Plains"/>
         <card number="2" price="0" name="Fiery Temper"/>
-        <card number="1" price="0" name="Quarantine Field"/>
         <card number="4" price="0" name="Vessel of Volatility"/>
         <card number="1" price="0" name="Sarkhan's Rage"/>
+        <card number="2" price="0" name="Reality Smasher"/>
     </zone>
     <zone name="side">
         <card number="3" price="0" name="Rending Volley"/>
