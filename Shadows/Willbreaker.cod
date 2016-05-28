@@ -5,15 +5,14 @@
     <zone name="main">
         <card number="4" price="0" name="Jace, Vryn's Prodigy"/>
         <card number="3" price="0" name="Sigarda, Heron's Grace"/>
-        <card number="3" price="0" name="Willbreaker"/>
+        <card number="4" price="0" name="Willbreaker"/>
         <card number="2" price="0" name="Evolutionary Leap"/>
         <card number="4" price="0" name="Reflector Mage"/>
         <card number="3" price="0" name="Kiora, Master of the Depths"/>
         <card number="3" price="0" name="Declaration in Stone"/>
         <card number="4" price="0" name="Dromoka's Command"/>
-        <card number="2" price="0" name="Void Grafter"/>
-        <card number="3" price="0" name="Duskwatch Recruiter"/>
-        <card number="4" price="0" name="Sylvan Advocate"/>
+        <card number="4" price="0" name="Duskwatch Recruiter"/>
+        <card number="1" price="0" name="Sylvan Advocate"/>
         <card number="4" price="0" name="Yavimaya Coast"/>
         <card number="4" price="0" name="Canopy Vista"/>
         <card number="4" price="0" name="Fortified Village"/>
@@ -21,17 +20,17 @@
         <card number="2" price="0" name="Forest"/>
         <card number="3" price="0" name="Island"/>
         <card number="3" price="0" name="Plains"/>
-        <card number="1" price="0" name="Negate"/>
+        <card number="3" price="0" name="Negate"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Plummet"/>
         <card number="1" price="0" name="Clip Wings"/>
-        <card number="3" price="0" name="Negate"/>
         <card number="2" price="0" name="Dispel"/>
         <card number="2" price="0" name="Displacement Wave"/>
         <card number="2" price="0" name="Display of Dominance"/>
         <card number="4" price="0" name="Collected Company"/>
-        <card number="4" price="0" name="Bounding Krasis"/>
+        <card number="2" price="0" name="Bounding Krasis"/>
         <card number="1" price="0" name="Harbinger of the Tides"/>
     </zone>
 </cockatrice_deck>
