@@ -31,7 +31,8 @@
         <card number="1" price="0" name="Dragonlord Atarka"/>
         <card number="2" price="0" name="Fiery Impulse"/>
         <card number="1" price="0" name="Magmatic Insight"/>
-        <card number="2" price="0" name="Roast"/>
+        <card number="1" price="0" name="Roast"/>
         <card number="2" price="0" name="Ravaging Blaze"/>
+        <card number="1" price="0" name="Second Harvest"/>
     </zone>
 </cockatrice_deck>
