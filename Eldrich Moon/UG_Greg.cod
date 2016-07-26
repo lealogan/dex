@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Elder Deep-Fiend"/>
+        <card number="4" price="0" name="Matter Reshaper"/>
+        <card number="3" price="0" name="Vile Redeemer"/>
+        <card number="2" price="0" name="Decimator of the Provinces"/>
+        <card number="4" price="0" name="Lumbering Falls"/>
+        <card number="4" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="4" price="0" name="Eldritch Evolution"/>
+        <card number="2" price="0" name="Thought-Knot Seer"/>
+        <card number="1" price="0" name="Reality Smasher"/>
+        <card number="1" price="0" name="Altered Ego"/>
+        <card number="3" price="0" name="Eyeless Watcher"/>
+        <card number="2" price="0" name="Brood Monitor"/>
+        <card number="4" price="0" name="Sanctum of Ugin"/>
+        <card number="4" price="0" name="Primal Druid"/>
+        <card number="2" price="0" name="Ruins of Oran-Rief"/>
+        <card number="2" price="0" name="Woodland Stream"/>
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="2" price="0" name="Lashweed Lurker"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Altered Ego"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="3" price="0" name="Imprisoned in the Moon"/>
+        <card number="2" price="0" name="Warping Wail"/>
+        <card number="2" price="0" name="Void Grafter"/>
+    </zone>
+</cockatrice_deck>
