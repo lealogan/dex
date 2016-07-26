@@ -17,20 +17,20 @@
         <card number="4" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Island"/>
         <card number="4" price="0" name="Evolving Wilds"/>
-        <card number="2" price="0" name="Jace, Vryn's Prodigy"/>
-        <card number="1" price="0" name="Wharf Infiltrator"/>
         <card number="2" price="0" name="Nahiri's Wrath"/>
         <card number="2" price="0" name="Collective Defiance"/>
+        <card number="3" price="0" name="Curious Homunculus"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Roast"/>
         <card number="2" price="0" name="Docent of Perfection"/>
         <card number="2" price="0" name="Negate"/>
-        <card number="2" price="0" name="Dispel"/>
-        <card number="2" price="0" name="Summary Dismissal"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Summary Dismissal"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
         <card number="2" price="0" name="Fiery Impulse"/>
-        <card number="2" price="0" name="Nahiri's Wrath"/>
+        <card number="1" price="0" name="Nahiri's Wrath"/>
         <card number="1" price="0" name="Wharf Infiltrator"/>
+        <card number="1" price="0" name="Essence Flux"/>
     </zone>
 </cockatrice_deck>
