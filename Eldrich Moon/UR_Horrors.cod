@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>UR_Horrors</deckname>
-    <comments></comments>
+    <comments>https://www.reddit.com/r/spikes/comments/4sophf/standard_ur_horrors/</comments>
     <zone name="main">
         <card number="4" price="0" name="Bedlam Reveler"/>
         <card number="4" price="0" name="Thing in the Ice"/>
