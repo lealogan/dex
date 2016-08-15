@@ -23,14 +23,15 @@
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Roast"/>
-        <card number="2" price="0" name="Docent of Perfection"/>
+        <card number="1" price="0" name="Docent of Perfection"/>
         <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Dispel"/>
         <card number="1" price="0" name="Summary Dismissal"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
         <card number="2" price="0" name="Fiery Impulse"/>
         <card number="1" price="0" name="Nahiri's Wrath"/>
-        <card number="1" price="0" name="Wharf Infiltrator"/>
         <card number="1" price="0" name="Essence Flux"/>
+        <card number="2" price="0" name="Chandra's Ignition"/>
+        <card number="2" price="0" name="Weaver of Lightning"/>
     </zone>
 </cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR_Spells2</deckname>
+    <comments>http://tappedout.net/mtg-decks/13-07-16-ur-horrors/</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Bedlam Reveler"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="2" price="0" name="Geier Reach Sanitarium"/>
+        <card number="3" price="0" name="Highland Lake"/>
+        <card number="4" price="0" name="Incendiary Flow"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="4" price="0" name="Just the Wind"/>
+        <card number="5" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Take Inventory"/>
+        <card number="2" price="0" name="Thing in the Ice"/>
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="4" price="0" name="Unsubstantiate"/>
+        <card number="4" price="0" name="Wandering Fumarole"/>
+        <card number="4" price="0" name="Wharf Infiltrator"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Exquisite Firecraft"/>
+        <card number="4" price="0" name="Fevered Visions"/>
+        <card number="3" price="0" name="Fiery Impulse"/>
+        <card number="2" price="0" name="Rending Volley"/>
+        <card number="3" price="0" name="Summary Dismissal"/>
+    </zone>
+</cockatrice_deck>
