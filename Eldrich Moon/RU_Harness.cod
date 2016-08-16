@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RU_Harness</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Avaricious Dragon"/>
+        <card number="1" price="0" name="Bedlam Reveler"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Docent of Perfection"/>
+        <card number="4" price="0" name="Drag Under"/>
+        <card number="2" price="0" name="Fevered Visions"/>
+        <card number="2" price="0" name="Forgotten Creation"/>
+        <card number="4" price="0" name="Galvanic Bombardment"/>
+        <card number="4" price="0" name="Harness the Storm"/>
+        <card number="2" price="0" name="Jori En, Ruin Diver"/>
+        <card number="10" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Niblis of Frost"/>
+        <card number="2" price="0" name="Sea Gate Wreckage"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Stormchaser Mage"/>
+        <card number="4" price="0" name="Take Inventory"/>
+        <card number="4" price="0" name="Thing in the Ice"/>
+    </zone>
+</cockatrice_deck>
