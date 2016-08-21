@@ -10,12 +10,12 @@
         <card number="4" price="0" name="Incendiary Flow"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="4" price="0" name="Titan's Strength"/>
-        <card number="2" price="0" name="Hanweir Battlements"/>
-        <card number="19" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Uncaged Fury"/>
+        <card number="20" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Uncaged Fury"/>
         <card number="4" price="0" name="Lupine Prototype"/>
         <card number="2" price="0" name="Lightning Berserker"/>
         <card number="1" price="0" name="Stitcher's Graft"/>
+        <card number="4" price="0" name="Stromkirk Occultist"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Stitcher's Graft"/>
