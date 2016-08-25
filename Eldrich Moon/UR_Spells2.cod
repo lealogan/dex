@@ -13,19 +13,20 @@
         <card number="4" price="0" name="Just the Wind"/>
         <card number="5" price="0" name="Mountain"/>
         <card number="4" price="0" name="Shivan Reef"/>
-        <card number="4" price="0" name="Take Inventory"/>
-        <card number="2" price="0" name="Thing in the Ice"/>
         <card number="4" price="0" name="Tormenting Voice"/>
-        <card number="4" price="0" name="Unsubstantiate"/>
+        <card number="1" price="0" name="Unsubstantiate"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
-        <card number="4" price="0" name="Wharf Infiltrator"/>
+        <card number="4" price="0" name="Collective Defiance"/>
+        <card number="3" price="0" name="Harness the Storm"/>
+        <card number="4" price="0" name="Fiery Impulse"/>
+        <card number="2" price="0" name="Lightning Axe"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Dispel"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
         <card number="4" price="0" name="Fevered Visions"/>
-        <card number="3" price="0" name="Fiery Impulse"/>
         <card number="2" price="0" name="Rending Volley"/>
         <card number="3" price="0" name="Summary Dismissal"/>
+        <card number="2" price="0" name="Day's Undoing"/>
     </zone>
 </cockatrice_deck>
