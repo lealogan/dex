@@ -4,26 +4,26 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Furyblade Vampire"/>
-        <card number="4" price="0" name="Distemper of the Blood"/>
+        <card number="2" price="0" name="Distemper of the Blood"/>
         <card number="4" price="0" name="Falkenrath Gorger"/>
         <card number="4" price="0" name="Fiery Impulse"/>
         <card number="4" price="0" name="Incendiary Flow"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="4" price="0" name="Titan's Strength"/>
-        <card number="2" price="0" name="Hanweir Battlements"/>
+        <card number="1" price="0" name="Hanweir Battlements"/>
         <card number="19" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Uncaged Fury"/>
         <card number="4" price="0" name="Lupine Prototype"/>
-        <card number="2" price="0" name="Lightning Berserker"/>
-        <card number="1" price="0" name="Stitcher's Graft"/>
+        <card number="4" price="0" name="Lightning Berserker"/>
+        <card number="2" price="0" name="Avacyn's Judgment"/>
+        <card number="4" price="0" name="Stromkirk Occultist"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Stitcher's Graft"/>
         <card number="2" price="0" name="Weaver of Lightning"/>
-        <card number="2" price="0" name="Dragonmaster Outcast"/>
         <card number="3" price="0" name="Rending Volley"/>
         <card number="2" price="0" name="Thunderbreak Regent"/>
         <card number="2" price="0" name="Lightning Axe"/>
         <card number="3" price="0" name="Goblin Piledriver"/>
+        <card number="2" price="0" name="Avacyn's Judgment"/>
+        <card number="1" price="0" name="Uncaged Fury"/>
     </zone>
 </cockatrice_deck>
