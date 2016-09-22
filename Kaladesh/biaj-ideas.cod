@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Dramatic Reversal"/>
+        <card number="2" price="0" name="Janjeet Sentry"/>
+        <card number="2" price="0" name="Saheeli Rai"/>
+        <card number="4" price="0" name="Brain in a Jar"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="4" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Creeping Mold"/>
+        <card number="1" price="0" name="Descend upon the Sinful"/>
+        <card number="1" price="0" name="Engulf the Shore"/>
+        <card number="1" price="0" name="Fateful Showdown"/>
+        <card number="1" price="0" name="Flame Lash"/>
+        <card number="1" price="0" name="Fortune's Favor"/>
+        <card number="1" price="0" name="Liberating Combustion"/>
+        <card number="1" price="0" name="Malevolent Whispers"/>
+        <card number="4" price="0" name="Part the Waterveil"/>
+        <card number="1" price="0" name="Pore Over the Pages"/>
+        <card number="1" price="0" name="Providence"/>
+        <card number="1" price="0" name="Remorseless Punishment"/>
+        <card number="1" price="0" name="Rise from the Tides"/>
+        <card number="1" price="0" name="Roiling Waters"/>
+        <card number="1" price="0" name="Saheeli's Artistry"/>
+        <card number="1" price="0" name="Scour from Existence"/>
+        <card number="1" price="0" name="Serpentine Spike"/>
+        <card number="1" price="0" name="Shrewd Negotiation"/>
+        <card number="1" price="0" name="Silverstrike"/>
+        <card number="1" price="0" name="Splendid Reclamation"/>
+        <card number="1" price="0" name="Tezzeret's Ambition"/>
+        <card number="1" price="0" name="Ugin's Insight"/>
+        <card number="1" price="0" name="Verdant Crescendo"/>
+        <card number="1" price="0" name="AEtherflux Reservoir"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Crumble to Dust"/>
+        <card number="1" price="0" name="Summary Dismissal"/>
+    </zone>
+</cockatrice_deck>

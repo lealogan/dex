@@ -3,8 +3,7 @@
     <deckname>UR_Spells2</deckname>
     <comments>http://tappedout.net/mtg-decks/13-07-16-ur-horrors/</comments>
     <zone name="main">
-        <card number="2" price="0" name="Bedlam Reveler"/>
-        <card number="3" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
         <card number="4" price="0" name="Fiery Temper"/>
         <card number="2" price="0" name="Geier Reach Sanitarium"/>
         <card number="3" price="0" name="Highland Lake"/>
@@ -20,7 +19,7 @@
         <card number="3" price="0" name="Lightning Axe"/>
         <card number="4" price="0" name="Fevered Visions"/>
         <card number="2" price="0" name="Stormchaser Mage"/>
-        <card number="3" price="0" name="Thermo-Alchemist"/>
+        <card number="4" price="0" name="Thermo-Alchemist"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Dispel"/>
@@ -28,8 +27,9 @@
         <card number="2" price="0" name="Rending Volley"/>
         <card number="2" price="0" name="Summary Dismissal"/>
         <card number="2" price="0" name="Day's Undoing"/>
-        <card number="2" price="0" name="Harness the Storm"/>
+        <card number="1" price="0" name="Harness the Storm"/>
         <card number="1" price="0" name="Unsubstantiate"/>
-        <card number="2" price="0" name="Mercurial Geists"/>
+        <card number="1" price="0" name="Mercurial Geists"/>
+        <card number="1" price="0" name="Thermo-Alchemist"/>
     </zone>
 </cockatrice_deck>
