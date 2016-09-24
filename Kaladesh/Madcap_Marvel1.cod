@@ -7,17 +7,21 @@
         <card number="4" price="0" name="AEther Theorist"/>
         <card number="4" price="0" name="AEthertorch Renegade"/>
         <card number="4" price="0" name="AEtherworks Marvel"/>
-        <card number="3" price="0" name="Cathartic Reunion"/>
-        <card number="3" price="0" name="Emrakul, the Promised End"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+        <card number="1" price="0" name="Emrakul, the Promised End"/>
         <card number="2" price="0" name="Evolving Wilds"/>
-        <card number="1" price="0" name="Fateful Showdown"/>
         <card number="4" price="0" name="Harnessed Lightning"/>
         <card number="7" price="0" name="Island"/>
-        <card number="2" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
         <card number="4" price="0" name="Madcap Experiment"/>
         <card number="6" price="0" name="Mountain"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="4" price="0" name="Thriving Turtle"/>
         <card number="4" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="2" price="0" name="Combustible Gearhulk"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Fateful Showdown"/>
     </zone>
 </cockatrice_deck>
