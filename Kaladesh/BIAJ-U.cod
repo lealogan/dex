@@ -12,23 +12,20 @@
         <card number="4" price="0" name="Clutch of Currents"/>
         <card number="2" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Engulf the Shore"/>
-        <card number="1" price="0" name="Scatter to the Winds"/>
         <card number="2" price="0" name="Part the Waterveil"/>
         <card number="1" price="0" name="Inventors' Fair"/>
         <card number="4" price="0" name="Dramatic Reversal"/>
-        <card number="3" price="0" name="Thing in the Ice"/>
+        <card number="4" price="0" name="Janjeet Sentry"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Negate"/>
         <card number="2" price="0" name="Dispel"/>
-        <card number="1" price="0" name="Thing in the Ice"/>
         <card number="1" price="0" name="Chilling Grasp"/>
-        <card number="2" price="0" name="Niblis of Frost"/>
-        <card number="1" price="0" name="Turn Aside"/>
         <card number="2" price="0" name="Ceremonious Rejection"/>
         <card number="1" price="0" name="Revolutionary Rebuff"/>
         <card number="1" price="0" name="Confirm Suspicions"/>
         <card number="2" price="0" name="Summary Dismissal"/>
-        <card number="1" price="0" name="Scatter to the Winds"/>
+        <card number="2" price="0" name="Scatter to the Winds"/>
+        <card number="3" price="0" name="Niblis of Frost"/>
     </zone>
 </cockatrice_deck>

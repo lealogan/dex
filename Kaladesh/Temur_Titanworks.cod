@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Temur_Titanworks</deckname>
+    <comments>https://www.reddit.com/r/spikes/comments/53x4u7/standard_ive_been_testing_ur_madcap_marvel_and/
+
+half-way down the page</comments>
+    <zone name="main">
+        <card number="4" price="0" name="AEther Hub"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Spirebluff Canal"/>
+        <card number="4" price="0" name="AEtherworks Marvel"/>
+        <card number="4" price="0" name="Attune with Aether"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+        <card number="4" price="0" name="Glassblower's Puzzleknot"/>
+        <card number="2" price="0" name="Harnessed Lightning"/>
+        <card number="2" price="0" name="Vessel of Nascency"/>
+        <card number="4" price="0" name="Woodweaver's Puzzleknot"/>
+        <card number="2" price="0" name="AEther Theorist"/>
+        <card number="4" price="0" name="Emrakul, the Promised End"/>
+        <card number="4" price="0" name="Glint-Nest Crane"/>
+        <card number="4" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="2" price="0" name="World Breaker"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Commencement of Festivities"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="4" price="0" name="Radiant Flames"/>
+        <card number="2" price="0" name="Revolutionary Rebuff"/>
+        <card number="2" price="0" name="Whirler Virtuoso"/>
+    </zone>
+</cockatrice_deck>
