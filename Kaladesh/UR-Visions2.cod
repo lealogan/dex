@@ -18,7 +18,18 @@
         <card number="4" price="0" name="Island"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
-        <card number="4" price="0" name="Downyard Temple"/>
         <card number="4" price="0" name="AEther Hub"/>
+        <card number="4" price="0" name="Drownyard Temple"/>
+        <card number="1" price="0" name="Radiant Flames"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Lightning Axe"/>
+        <card number="2" price="0" name="Weaver of Lightning"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Ceremonious Rejection"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="2" price="0" name="Summary Dismissal"/>
+        <card number="2" price="0" name="Radiant Flames"/>
     </zone>
 </cockatrice_deck>

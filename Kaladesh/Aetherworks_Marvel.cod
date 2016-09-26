@@ -12,13 +12,18 @@
         <card number="4" price="0" name="Harnessed Lightning"/>
         <card number="4" price="0" name="Servant of the Conduit"/>
         <card number="4" price="0" name="AEthertorch Renegade"/>
-        <card number="4" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Cultivator's Caravan"/>
         <card number="4" price="0" name="AEtherworks Marvel"/>
         <card number="4" price="0" name="Hedron Archive"/>
         <card number="3" price="0" name="Combustible Gearhulk"/>
-        <card number="1" price="0" name="Void Winnower"/>
         <card number="2" price="0" name="Emrakul, the Promised End"/>
         <card number="3" price="0" name="Ulamog, the Ceaseless Hunger"/>
         <card number="2" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Void Winnower"/>
+        <card number="4" price="0" name="Kozilek's Return"/>
+        <card number="2" price="0" name="Nahiri's Wrath"/>
     </zone>
 </cockatrice_deck>

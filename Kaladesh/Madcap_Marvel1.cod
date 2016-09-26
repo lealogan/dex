@@ -23,5 +23,7 @@
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Fateful Showdown"/>
+        <card number="4" price="0" name="Kozilek's Return"/>
+        <card number="2" price="0" name="Noxious Gearhulk"/>
     </zone>
 </cockatrice_deck>
