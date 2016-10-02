@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR-Virtuoso</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="AEther Hub"/>
+        <card number="2" price="0" name="AEther Meltdown"/>
+        <card number="2" price="0" name="AEthertorch Renegade"/>
+        <card number="1" price="0" name="Deadlock Trap"/>
+        <card number="4" price="0" name="Decoction Module"/>
+        <card number="4" price="0" name="Era of Innovation"/>
+        <card number="4" price="0" name="Fabrication Module"/>
+        <card number="2" price="0" name="Gearseeker Serpent"/>
+        <card number="3" price="0" name="Glimmer of Genius"/>
+        <card number="4" price="0" name="Harnessed Lightning"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Saheeli Rai"/>
+        <card number="1" price="0" name="Saheeli's Artistry"/>
+        <card number="2" price="0" name="Smuggler's Copter"/>
+        <card number="4" price="0" name="Spirebluff Canal"/>
+        <card number="2" price="0" name="Thriving Turtle"/>
+        <card number="3" price="0" name="Wandering Fumarole"/>
+        <card number="4" price="0" name="Whirler Virtuoso"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Thriving Turtle"/>
+        <card number="1" price="0" name="Pia Nalaar"/>
+    </zone>
+</cockatrice_deck>
