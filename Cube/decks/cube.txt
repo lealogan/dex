@@ -53,7 +53,6 @@
 1 Temporal Trespass
 1 Seismic Assault
 1 Psionic Blast
-1 Psychatog
 1 Drain Life
 1 Mana Drain
 1 Pestilence
