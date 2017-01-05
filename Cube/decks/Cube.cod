@@ -682,5 +682,52 @@
         <card number="1" price="0" name="Misty Rainforest"/>
         <card number="1" price="0" name="Simic Growth Chamber"/>
         <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Windfall"/>
+        <card number="1" price="0" name="Unburial Rites"/>
+        <card number="1" price="0" name="Buried Alive"/>
+        <card number="1" price="0" name="Smuggler's Copter"/>
+        <card number="1" price="0" name="Torrential Gearhulk"/>
+        <card number="1" price="0" name="Noxious Gearhulk"/>
+        <card number="1" price="0" name="Verdurous Gearhulk"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Nissa, Vital Force"/>
+        <card number="1" price="0" name="Fragmentize"/>
+        <card number="1" price="0" name="Saheeli Rai"/>
+        <card number="1" price="0" name="Smuggler's Copter"/>
+        <card number="1" price="0" name="Concealed Courtyard"/>
+        <card number="1" price="0" name="Spirebluff Canal"/>
+        <card number="1" price="0" name="Blooming Marsh"/>
+        <card number="1" price="0" name="Inspiring Vantage"/>
+        <card number="1" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Cathartic Reunion"/>
+        <card number="1" price="0" name="Vial Smasher the Fierce"/>
+        <card number="1" price="0" name="Ash Barrens"/>
+        <card number="1" price="0" name="Whir of Invention"/>
+        <card number="1" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Yahenni's Expertise"/>
+        <card number="1" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Industrial Tower"/>
+        <card number="1" price="0" name="Archangel Avacyn"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Traverse the Ulvenwald"/>
+        <card number="1" price="0" name="Duskwatch Recruiter"/>
+        <card number="1" price="0" name="Thraben Inspector"/>
+        <card number="1" price="0" name="Nahiri, the Harbinger"/>
+        <card number="1" price="0" name="Fevered Visions"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Sanctum Prelate"/>
+        <card number="1" price="0" name="Subterranean Tremors"/>
+        <card number="1" price="0" name="Volatile Chimera"/>
+        <card number="1" price="0" name="Recruiter of the Guard"/>
+        <card number="1" price="0" name="Kaya, Ghost Assassin"/>
+        <card number="1" price="0" name="Liliana, the Last Hope"/>
+        <card number="1" price="0" name="Bedlam Reveler"/>
+        <card number="1" price="0" name="Selfless Spirit"/>
+        <card number="1" price="0" name="Eldritch Evolution"/>
+        <card number="1" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Emrakul, the Promised End"/>
+        <card number="1" price="0" name="Decimator of the Provinces"/>
+        <card number="1" price="0" name="Spell Queller"/>
+        <card number="1" price="0" name="Elder Deep-Fiend"/>
     </zone>
 </cockatrice_deck>
