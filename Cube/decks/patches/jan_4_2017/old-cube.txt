@@ -22,9 +22,11 @@ Arbor Elf
 Arc Lightning
 Arc Trail
 Arcane Denial
+Archangel Avacyn
 Arid Mesa
 Armada Wurm
 Armageddon
+Ash Barrens
 Ash Zealot
 Ashes to Ashes
 Atarka's Command
@@ -45,6 +47,7 @@ Batterskull
 Battlefield Forge
 Bayou
 Become Immense
+Bedlam Reveler
 Berserk
 Bident of Thassa
 Birds of Paradise
@@ -63,18 +66,21 @@ Bloodbraid Elf
 Bloodghast
 Bloodgift Demon
 Bloodstained Mire
+Blooming Marsh
 Bogardan Hellkite
 Bone Shredder
 Bonesplitter
 Bonfire of the Damned
 Boros Charm
 Boros Reckoner
+Botanical Sanctum
 Braids, Cabal Minion
 Brainstorm
 Breeding Pool
 Bribery
 Brimaz, King of Oreskos
 Browbeat
+Buried Alive
 Burning of Xinye
 Burning-Tree Emissary
 Burst Lightning
@@ -84,6 +90,7 @@ Capsize
 Carnophage
 Carrion Feeder
 Catastrophe
+Cathartic Reunion
 Caves of Koilos
 Celestial Colonnade
 Chain Lightning
@@ -94,6 +101,7 @@ Champion of the Parish
 Chandra Nalaar
 Chandra's Phoenix
 Chandra, Flamecaller
+Chandra, Torch of Defiance
 Channel
 Char
 Chromatic Lantern
@@ -105,6 +113,7 @@ Cloudgoat Ranger
 Coalition Relic
 Coldsteel Heart
 Collected Company
+Concealed Courtyard
 Condescend
 Consecrated Sphinx
 Consuming Vapors
@@ -136,6 +145,8 @@ Day of Judgment
 Day's Undoing
 Daze
 Deathrite Shaman
+Decimator of the Provinces
+Declaration in Stone
 Deep Analysis
 Demonic Pact
 Demonic Tutor
@@ -146,6 +157,7 @@ Detention Sphere
 Diabolic Edict
 Dimir Signet
 Diregraf Ghoul
+Disallow
 Disenchant
 Dismember
 Dispel
@@ -159,14 +171,18 @@ Dreamscape Summoner
 Dromoka's Command
 Dryad Militant
 Duress
+Duskwatch Recruiter
 Dust Bowl
 Earthquake
 Edric, Spymaster of Trest
+Elder Deep-Fiend
+Eldritch Evolution
 Electrolyze
 Elesh Norn, Grand Cenobite
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Empyrial Armor
+Emrakul, the Promised End
 Enclave Cryptologist
 Engineered Explosives
 Enlightened Tutor
@@ -190,7 +206,9 @@ Faith's Fetters
 Faithless Looting
 Falkenrath Aristocrat
 Fanatic of Mogis
+Fatal Push
 Fauna Shaman
+Fevered Visions
 Figure of Destiny
 Fire // Ice
 Fire Imp
@@ -209,6 +227,7 @@ Flooded Strand
 Forbid
 Force Spike
 Force of Will
+Fragmentize
 Frost Titan
 Fyndhorn Elves
 Gaea's Cradle
@@ -274,9 +293,11 @@ Imperial Recruiter
 Imperial Seal
 Impulse
 Incinerate
+Industrial Tower
 Inferno Titan
 Inkwell Leviathan
 Inquisition of Kozilek
+Inspiring Vantage
 Into the Roil
 Isamaru, Hound of Konda
 Isolated Chapel
@@ -297,6 +318,7 @@ Kargan Dragonlord
 Karmic Guide
 Karn Liberated
 Karn, Silver Golem
+Kaya, Ghost Assassin
 Keiga, the Tide Star
 Keldon Marauders
 Keldon Vandals
@@ -326,6 +348,7 @@ Lightning Greaves
 Lightning Helix
 Lightning Mauler
 Liliana of the Veil
+Liliana, the Last Hope
 Lingering Souls
 Living Death
 Llanowar Elves
@@ -392,6 +415,7 @@ Mutavault
 Myr Battlesphere
 Mystic Snake
 Mystical Tutor
+Nahiri, the Harbinger
 Nantuko Shade
 Natural Order
 Necromancy
@@ -401,7 +425,9 @@ Nevinyrral's Disk
 Nezumi Graverobber
 Nissa, Sage Animist
 Nissa, Vastwood Seer
+Nissa, Vital Force
 Noble Hierarch
+Noxious Gearhulk
 Noxious Revival
 Nykthos, Shrine to Nyx
 Nylea, God of the Hunt
@@ -459,7 +485,6 @@ Prophet of Kruphix
 Prophetic Bolt
 Psionic Blast
 Psychatog
-Psychatog
 Psychic Vortex
 Purphoros, God of the Forge
 Pyroclasm
@@ -478,6 +503,7 @@ Reanimate
 Reassembling Skeleton
 Reckless Charge
 Reckless Waif
+Recruiter of the Guard
 Recurring Nightmare
 Reflecting Pool
 Reflector Mage
@@ -493,7 +519,9 @@ River Boa
 Rofellos, Llanowar Emissary
 Rolling Earthquake
 Sacred Foundry
+Saheeli Rai
 Sakura-Tribe Elder
+Sanctum Prelate
 Sarcomancy
 Sarkhan Vol
 Sarkhan the Mad
@@ -507,6 +535,7 @@ Scrubland
 Seal of Cleansing
 Searing Spear
 Seismic Assault
+Selfless Spirit
 Sensei's Divining Top
 Serendib Efreet
 Serra Avatar
@@ -529,6 +558,7 @@ Skullclamp
 Slayers' Stronghold
 Smallpox
 Smokestack
+Smuggler's Copter
 Snapcaster Mage
 Sneak Attack
 Snuff Out
@@ -543,9 +573,11 @@ Somberwald Sage
 Sorin, Lord of Innistrad
 Sower of Temptation
 Spectral Procession
+Spell Queller
 Spellskite
 Sphinx of the Steel Wind
 Spikeshot Elder
+Spirebluff Canal
 Squee, Goblin Nabob
 Staggershock
 Steam Vents
@@ -560,6 +592,7 @@ Strangleroot Geist
 Strip Mine
 Stromkirk Noble
 Student of Warfare
+Subterranean Tremors
 Sulfur Falls
 Sulfuric Vortex
 Sun Titan
@@ -586,11 +619,13 @@ Terramorphic Expanse
 Tezzeret the Seeker
 Tezzeret, Agent of Bolas
 Thalia, Guardian of Thraben
+Thalia, Heretic Cathar
 Thassa, God of the Sea
 The Abyss
 Thorn Elemental
 Thought-Knot Seer
 Thoughtseize
+Thraben Inspector
 Thragtusk
 Thran Dynamo
 Thrashing Wumpus
@@ -607,7 +642,9 @@ Tolarian Academy
 Tombstalker
 Tooth and Nail
 Torch Fiend
+Torrential Gearhulk
 Transcendent Master
+Traverse the Ulvenwald
 Treachery
 Treetop Village
 Trinket Mage
@@ -623,6 +660,7 @@ Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Ulvenwald Tracker
 Umezawa's Jitte
+Unburial Rites
 Underground Sea
 Undiscovered Paradise
 Upheaval
@@ -637,10 +675,13 @@ Venser, Shaper Savant
 Venser, Shaper Savant
 Venser, the Sojourner
 Verdant Catacombs
+Verdurous Gearhulk
+Vial Smasher the Fierce
 Vindicate
 Vinelasher Kudzu
 Viridian Shaman
 Voice of Resurgence
+Volatile Chimera
 Volcanic Island
 Volrath's Stronghold
 Vorapede
@@ -653,14 +694,17 @@ Wasteland
 Waterfront Bouncer
 Watery Grave
 Weathered Wayfarer
+Westvale Abbey
 Wheel of Fortune
 Whip of Erebos
+Whir of Invention
 Wickerbough Elder
 Wild Dogs
 Wild Mongrel
 Wild Nacatl
 Wildfire
 Willbender
+Windfall
 Windswept Heath
 Wingmate Roc
 Winter Orb
@@ -674,6 +718,7 @@ Worn Powerstone
 Wrath of God
 Wurmcoil Engine
 Xenagos, God of Revels
+Yahenni's Expertise
 Yavimaya Elder
 Yawgmoth's Will
 Zealous Conscripts
