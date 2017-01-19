@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Improvise-U2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="2" price="0" name="Bastion Inventor"/>
+        <card number="1" price="0" name="Barricade Breaker"/>
+        <card number="4" price="0" name="Reverse Engineer"/>
+        <card number="4" price="0" name="Metallic Rebuke"/>
+        <card number="4" price="0" name="Bone Saw"/>
+        <card number="4" price="0" name="Cathar's Shield"/>
+        <card number="4" price="0" name="Renegade Map"/>
+        <card number="20" price="0" name="Island"/>
+        <card number="4" price="0" name="Gearseeker Serpent"/>
+        <card number="2" price="0" name="Pacification Array"/>
+        <card number="2" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Inventors' Fair"/>
+        <card number="3" price="0" name="Paradoxical Outcome"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Disallow"/>
+        <card number="2" price="0" name="Ceremonious Rejection"/>
+        <card number="2" price="0" name="Hope of Ghirapur"/>
+        <card number="3" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Whir of Invention"/>
+        <card number="2" price="0" name="Scrap Trawler"/>
+        <card number="1" price="0" name="Pacification Array"/>
+    </zone>
+</cockatrice_deck>

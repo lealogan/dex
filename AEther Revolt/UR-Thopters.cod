@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR-Thopters</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Whirler Virtuoso"/>
+        <card number="2" price="0" name="Maverick Thopterist"/>
+        <card number="2" price="0" name="Shock"/>
+        <card number="3" price="0" name="Metallic Rebuke"/>
+        <card number="1" price="0" name="Whir of Invention"/>
+        <card number="1" price="0" name="Glimmer of Genius"/>
+        <card number="4" price="0" name="Tormenting Voice"/>
+        <card number="4" price="0" name="Decoction Module"/>
+        <card number="3" price="0" name="Fabrication Module"/>
+        <card number="1" price="0" name="Gonti's Aether Heart"/>
+        <card number="4" price="0" name="Spire of Industry"/>
+        <card number="4" price="0" name="Wandering Fumarole"/>
+        <card number="2" price="0" name="Spirebluff Canal"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="1" price="0" name="Stoneforge Masterwork"/>
+        <card number="1" price="0" name="Saheeli Rai"/>
+        <card number="3" price="0" name="Walking Ballista"/>
+        <card number="3" price="0" name="Mechanized Production"/>
+        <card number="4" price="0" name="Reverse Engineer"/>
+        <card number="2" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Aetherworks Marvel"/>
+    </zone>
+</cockatrice_deck>
