@@ -1,0 +1,46 @@
+// 60 Maindeck
+// 3 Artifact
+3 Key to the City
+
+// 19 Creature
+4 Prized Amalgam
+4 Scrapheap Scrounger
+4 Haunted Dead
+1 Eternal Scourge
+2 Distended Mindbender
+4 Elder Deep-Fiend
+
+// 4 Enchantment
+4 Oath of Jace
+
+// 4 Instant
+4 Kozilek's Return
+
+// 24 Land
+2 Island
+3 Swamp
+1 Mountain
+2 Wandering Fumarole
+2 Smoldering Marsh
+2 Foreboding Ruins
+4 Evolving Wilds
+4 Sunken Hollow
+4 Choked Estuary
+
+// 6 Sorcery
+4 Cathartic Reunion
+2 Collective Brutality
+
+
+// 13 Sideboard
+// 3 Instant
+SB: 1 Summary Dismissal
+SB: 2 Fatal Push
+
+// 2 Planeswalker
+SB: 2 Liliana, the Last Hope
+
+// 8 Sorcery
+SB: 4 Transgress the Mind
+SB: 2 Lost Legacy
+SB: 2 Painful Truths
