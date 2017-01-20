@@ -7,14 +7,14 @@
         <card number="3" price="0" name="Glimmer of Genius"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Take Inventory"/>
-        <card number="16" price="0" name="Island"/>
+        <card number="15" price="0" name="Island"/>
         <card number="4" price="0" name="Brain in a Jar"/>
         <card number="4" price="0" name="Dramatic Reversal"/>
         <card number="3" price="0" name="Fumigate"/>
         <card number="2" price="0" name="Engulf the Shore"/>
         <card number="3" price="0" name="Flaying Tendrils"/>
         <card number="3" price="0" name="Prairie Stream"/>
-        <card number="2" price="0" name="Sunken Hollow"/>
+        <card number="3" price="0" name="Sunken Hollow"/>
         <card number="2" price="0" name="Pore Over the Pages"/>
         <card number="3" price="0" name="Immolating Glare"/>
         <card number="3" price="0" name="Aether Hub"/>

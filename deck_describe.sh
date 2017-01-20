@@ -9,6 +9,6 @@ while read c; do
         $card.type,
         $card.text,
         $card.power,
-        $card.toughness' ~/code/dex/allcards.json |\
+        $card.toughness' ./allcards.json |\
     gsed -e "s/null//" | cat -s;
 done < $1
