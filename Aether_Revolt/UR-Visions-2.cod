@@ -8,31 +8,33 @@
         <card number="3" price="0" name="Baral, Chief of Compliance"/>
         <card number="1" price="0" name="Baral's Expertise"/>
         <card number="2" price="0" name="Negate"/>
-        <card number="2" price="0" name="Drag Under"/>
         <card number="4" price="0" name="Collective Defiance"/>
-        <card number="2" price="0" name="Hungry Flames"/>
+        <card number="1" price="0" name="Hungry Flames"/>
         <card number="4" price="0" name="Incendiary Flow"/>
         <card number="4" price="0" name="Shock"/>
-        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
-        <card number="2" price="0" name="Bedlam Reveler"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
         <card number="4" price="0" name="Take Inventory"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
-        <card number="8" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Mountain"/>
         <card number="6" price="0" name="Island"/>
+        <card number="2" price="0" name="Select for Inspection"/>
+        <card number="2" price="0" name="Cathartic Reunion"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Ceremonious Rejection"/>
-        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Negate"/>
         <card number="1" price="0" name="Revolutionary Rebuff"/>
         <card number="1" price="0" name="Disallow"/>
-        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="1" price="0" name="Confirm Suspicions"/>
-        <card number="2" price="0" name="Select for Inspection"/>
         <card number="1" price="0" name="Unsubstantiate"/>
-        <card number="2" price="0" name="Hungry Flames"/>
-        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Hungry Flames"/>
         <card number="1" price="0" name="Pore Over the Pages"/>
         <card number="1" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Bedlam Reveler"/>
+        <card number="1" price="0" name="Drag Under"/>
+        <card number="1" price="0" name="Thing in the Ice"/>
+        <card number="2" price="0" name="Kozilek's Return"/>
     </zone>
 </cockatrice_deck>
