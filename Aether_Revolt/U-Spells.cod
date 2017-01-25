@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>U-Spells</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Baral, Chief of Compliance"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Take Inventory"/>
+        <card number="4" price="0" name="Pieces of the Puzzle"/>
+        <card number="4" price="0" name="Engulf the Shore"/>
+        <card number="4" price="0" name="Pore Over the Pages"/>
+        <card number="4" price="0" name="Compelling Deterrence"/>
+        <card number="2" price="0" name="Rise from the Tides"/>
+        <card number="2" price="0" name="Part the Waterveil"/>
+        <card number="2" price="0" name="Disallow"/>
+        <card number="23" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Disallow"/>
+        <card number="2" price="0" name="Summary Dismissal"/>
+        <card number="3" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Drag Under"/>
+    </zone>
+</cockatrice_deck>
