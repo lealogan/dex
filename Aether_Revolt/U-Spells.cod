@@ -4,7 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Baral, Chief of Compliance"/>
-        <card number="3" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Take Inventory"/>
         <card number="4" price="0" name="Pore Over the Pages"/>
@@ -16,9 +16,8 @@
         <card number="2" price="0" name="Select for Inspection"/>
         <card number="1" price="0" name="Spell Shrivel"/>
         <card number="1" price="0" name="Drag Under"/>
-        <card number="2" price="0" name="Clutch of Currents"/>
-        <card number="3" price="0" name="Niblis of Frost"/>
-        <card number="1" price="0" name="Torrential Gearhulk"/>
+        <card number="1" price="0" name="Clutch of Currents"/>
+        <card number="4" price="0" name="Niblis of Frost"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Disallow"/>
