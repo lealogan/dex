@@ -8,28 +8,23 @@
         <card number="3" price="0" name="Fatal Push"/>
         <card number="2" price="0" name="Grasp of Darkness"/>
         <card number="3" price="0" name="Essence Extraction"/>
-        <card number="1" price="0" name="Diabolic Tutor"/>
-        <card number="1" price="0" name="Remorseless Punishment"/>
+        <card number="2" price="0" name="Diabolic Tutor"/>
+        <card number="2" price="0" name="Remorseless Punishment"/>
         <card number="1" price="0" name="Seasons Past"/>
         <card number="1" price="0" name="Rise from the Grave"/>
-        <card number="3" price="0" name="Transgress the Mind"/>
+        <card number="2" price="0" name="Transgress the Mind"/>
         <card number="1" price="0" name="Nissa's Renewal"/>
-        <card number="1" price="0" name="Ruinous Path"/>
-        <card number="2" price="0" name="Anticipate"/>
-        <card number="1" price="0" name="Rishkar, Peema Renegade"/>
+        <card number="2" price="0" name="Ruinous Path"/>
+        <card number="2" price="0" name="Rishkar, Peema Renegade"/>
         <card number="2" price="0" name="Kalitas, Traitor of Ghet"/>
-        <card number="1" price="0" name="Rise from the Tides"/>
-        <card number="1" price="0" name="Dramatic Reversal"/>
-        <card number="4" price="0" name="Botanical Sanctum"/>
         <card number="4" price="0" name="Blooming Marsh"/>
-        <card number="4" price="0" name="Choked Estuary"/>
-        <card number="3" price="0" name="Hissing Quagmire"/>
-        <card number="4" price="0" name="Sunken Hollow"/>
-        <card number="2" price="0" name="Swamp"/>
-        <card number="2" price="0" name="Island"/>
-        <card number="1" price="0" name="Forest"/>
+        <card number="4" price="0" name="Hissing Quagmire"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="8" price="0" name="Forest"/>
         <card number="1" price="0" name="Undergrowth Champion"/>
         <card number="2" price="0" name="Tireless Tracker"/>
+        <card number="1" price="0" name="Yahenni's Expertise"/>
+        <card number="2" price="0" name="Harsh Scrutiny"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Lost Legacy"/>
@@ -43,8 +38,7 @@
         <card number="1" price="0" name="Hunt the Weak"/>
         <card number="1" price="0" name="Unlicensed Disintegration"/>
         <card number="1" price="0" name="Blossoming Defense"/>
-        <card number="2" price="0" name="Yahenni's Expertise"/>
+        <card number="1" price="0" name="Yahenni's Expertise"/>
         <card number="1" price="0" name="Part the Waterveil"/>
-        <card number="1" price="0" name="Skyship Plunderer"/>
     </zone>
 </cockatrice_deck>
