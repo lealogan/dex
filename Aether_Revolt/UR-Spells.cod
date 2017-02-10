@@ -3,7 +3,7 @@
     <deckname>UR-Spells</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
         <card number="1" price="0" name="Collective Defiance"/>
         <card number="4" price="0" name="Incendiary Flow"/>
         <card number="4" price="0" name="Shock"/>
@@ -15,7 +15,7 @@
         <card number="4" price="0" name="Cathartic Reunion"/>
         <card number="3" price="0" name="Niblis of Frost"/>
         <card number="2" price="0" name="Harness the Storm"/>
-        <card number="3" price="0" name="Baral, Chief of Compliance"/>
+        <card number="2" price="0" name="Baral, Chief of Compliance"/>
         <card number="2" price="0" name="Negate"/>
         <card number="3" price="0" name="Akoum Firebird"/>
         <card number="1" price="0" name="Dispel"/>

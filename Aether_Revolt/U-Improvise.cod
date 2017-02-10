@@ -1,0 +1,27 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Confirm Suspicions"/>
+        <card number="4" price="0" name="Inspiring Statuary"/>
+        <card number="4" price="0" name="Part the Waterveil"/>
+        <card number="3" price="0" name="Whir of Invention"/>
+        <card number="4" price="0" name="Merchant's Dockhand"/>
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="4" price="0" name="Bone Saw"/>
+        <card number="4" price="0" name="Cathar's Shield"/>
+        <card number="4" price="0" name="Paradoxical Outcome"/>
+        <card number="1" price="0" name="Aetherflux Reservoir"/>
+        <card number="2" price="0" name="Reverse Engineer"/>
+        <card number="22" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Metallic Rebuke"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Engulf the Shore"/>
+        <card number="3" price="0" name="Baral's Expertise"/>
+        <card number="1" price="0" name="Trophy Mage"/>
+        <card number="2" price="0" name="Aetherflux Reservoir"/>
+    </zone>
+</cockatrice_deck>

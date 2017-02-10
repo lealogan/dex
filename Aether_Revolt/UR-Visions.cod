@@ -15,21 +15,23 @@
         <card number="2" price="0" name="Hungry Flames"/>
         <card number="4" price="0" name="Stormchaser Mage"/>
         <card number="3" price="0" name="Niblis of Frost"/>
-        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="3" price="0" name="Fiery Temper"/>
         <card number="2" price="0" name="Lightning Axe"/>
         <card number="4" price="0" name="Thermo-Alchemist"/>
         <card number="2" price="0" name="Chandra, Torch of Defiance"/>
-        <card number="1" price="0" name="Mercurial Geists"/>
+        <card number="2" price="0" name="Akoum Firebird"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Negate"/>
         <card number="2" price="0" name="Disallow"/>
-        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
         <card number="2" price="0" name="Ceremonious Rejection"/>
         <card number="1" price="0" name="Lightning Axe"/>
         <card number="1" price="0" name="Baral's Expertise"/>
         <card number="1" price="0" name="Fall of the Titans"/>
         <card number="2" price="0" name="Release the Gremlins"/>
-        <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="1" price="0" name="Dispel"/>
     </zone>
 </cockatrice_deck>
