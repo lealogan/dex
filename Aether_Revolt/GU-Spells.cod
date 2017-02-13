@@ -11,14 +11,14 @@
         <card number="3" price="0" name="Rashmi, Eternities Crafter"/>
         <card number="3" price="0" name="Rishkar, Peema Renegade"/>
         <card number="4" price="0" name="Tireless Tracker"/>
-        <card number="2" price="0" name="Niblis of Frost"/>
+        <card number="1" price="0" name="Niblis of Frost"/>
         <card number="4" price="0" name="Baral's Expertise"/>
         <card number="4" price="0" name="Rishkar's Expertise"/>
         <card number="4" price="0" name="Sylvan Advocate"/>
         <card number="4" price="0" name="Servant of the Conduit"/>
-        <card number="1" price="0" name="Glimmer of Genius"/>
         <card number="2" price="0" name="Confiscation Coup"/>
         <card number="1" price="0" name="Anticipate"/>
+        <card number="2" price="0" name="Clutch of Currents"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Sphinx of the Final Word"/>
@@ -29,10 +29,11 @@
         <card number="1" price="0" name="Springsage Ritual"/>
         <card number="1" price="0" name="Clip Wings"/>
         <card number="1" price="0" name="Disallow"/>
-        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Negate"/>
         <card number="1" price="0" name="Part the Waterveil"/>
         <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
         <card number="1" price="0" name="Lifecrafter's Bestiary"/>
         <card number="1" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Glimmer of Genius"/>
     </zone>
 </cockatrice_deck>
