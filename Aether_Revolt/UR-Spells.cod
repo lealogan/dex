@@ -4,34 +4,34 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Curious Homunculus"/>
-        <card number="1" price="0" name="Collective Defiance"/>
         <card number="4" price="0" name="Incendiary Flow"/>
         <card number="4" price="0" name="Shock"/>
-        <card number="4" price="0" name="Take Inventory"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="4" price="0" name="Wandering Fumarole"/>
         <card number="9" price="0" name="Mountain"/>
         <card number="6" price="0" name="Island"/>
         <card number="4" price="0" name="Cathartic Reunion"/>
-        <card number="3" price="0" name="Niblis of Frost"/>
         <card number="2" price="0" name="Harness the Storm"/>
-        <card number="2" price="0" name="Baral, Chief of Compliance"/>
-        <card number="2" price="0" name="Negate"/>
-        <card number="3" price="0" name="Akoum Firebird"/>
-        <card number="1" price="0" name="Dispel"/>
-        <card number="1" price="0" name="Disallow"/>
         <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="2" price="0" name="Shreds of Sanity"/>
+        <card number="1" price="0" name="Fortune's Favor"/>
+        <card number="3" price="0" name="Epiphany at the Drownyard"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="4" price="0" name="Galvanic Bombardment"/>
+        <card number="1" price="0" name="Grip of the Roil"/>
+        <card number="4" price="0" name="Niblis of Frost"/>
     </zone>
     <zone name="side">
-        <card number="1" price="0" name="Ceremonious Rejection"/>
-        <card number="1" price="0" name="Negate"/>
+        <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="Revolutionary Rebuff"/>
-        <card number="1" price="0" name="Disallow"/>
-        <card number="1" price="0" name="Unsubstantiate"/>
+        <card number="2" price="0" name="Disallow"/>
         <card number="1" price="0" name="Hungry Flames"/>
-        <card number="3" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Baral's Expertise"/>
         <card number="1" price="0" name="Drag Under"/>
         <card number="2" price="0" name="Kozilek's Return"/>
         <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="1" price="0" name="Unsubstantiate"/>
     </zone>
 </cockatrice_deck>
