@@ -1,0 +1,46 @@
+1 Archangel Avacyn
+1 Ash Barrens
+1 Bedlam Reveler
+1 Blooming Marsh
+1 Botanical Sanctum
+1 Buried Alive
+1 Cathartic Reunion
+1 Chandra, Torch of Defiance
+1 Concealed Courtyard
+1 Decimator of the Provinces
+1 Declaration in Stone
+1 Disallow
+1 Duskwatch Recruiter
+1 Elder Deep-Fiend
+1 Eldritch Evolution
+1 Emrakul, the Promised End
+1 Fatal Push
+1 Fevered Visions
+1 Fragmentize
+1 Inspiring Vantage
+1 Spire of Industry
+1 Kaya, Ghost Assassin
+1 Liliana, the Last Hope
+1 Nahiri, the Harbinger
+1 Nissa, Vital Force
+1 Noxious Gearhulk
+1 Recruiter of the Guard
+1 Saheeli Rai
+1 Sanctum Prelate
+1 Selfless Spirit
+1 Smuggler's Copter
+1 Spell Queller
+1 Spirebluff Canal
+1 Subterranean Tremors
+1 Thalia, Heretic Cathar
+1 Thraben Inspector
+1 Torrential Gearhulk
+1 Traverse the Ulvenwald
+1 Unburial Rites
+1 Verdurous Gearhulk
+1 Vial Smasher the Fierce
+1 Volatile Chimera
+1 Westvale Abbey
+1 Whir of Invention
+1 Windfall
+1 Yahenni's Expertise
