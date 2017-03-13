@@ -7,8 +7,6 @@
         <card number="1" price="0" name="Verdurous Gearhulk"/>
         <card number="1" price="0" name="Noxious Gearhulk"/>
         <card number="4" price="0" name="Fatal Push"/>
-        <card number="1" price="0" name="Walking Ballista"/>
-        <card number="1" price="0" name="World Breaker"/>
         <card number="2" price="0" name="Liliana, the Last Hope"/>
         <card number="4" price="0" name="Blooming Marsh"/>
         <card number="4" price="0" name="Botanical Sanctum"/>
@@ -19,14 +17,16 @@
         <card number="1" price="0" name="Choked Estuary"/>
         <card number="3" price="0" name="Island"/>
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
-        <card number="4" price="0" name="Prized Amalgam"/>
+        <card number="3" price="0" name="Prized Amalgam"/>
         <card number="4" price="0" name="Oath of Nissa"/>
         <card number="1" price="0" name="Ishkanah, Grafwidow"/>
         <card number="2" price="0" name="Ruinous Path"/>
         <card number="1" price="0" name="Deepfathom Skulker"/>
         <card number="1" price="0" name="The Gitrog Monster"/>
         <card number="4" price="0" name="Servant of the Conduit"/>
-        <card number="4" price="0" name="Scrapheap Scrounger"/>
+        <card number="3" price="0" name="Scrapheap Scrounger"/>
+        <card number="1" price="0" name="Bristling Hydra"/>
+        <card number="3" price="0" name="Rogue Refiner"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Oath of Liliana"/>
@@ -40,5 +40,7 @@
         <card number="1" price="0" name="Shielded Aether Thief"/>
         <card number="1" price="0" name="Ruinous Path"/>
         <card number="1" price="0" name="Eldritch Evolution"/>
+        <card number="1" price="0" name="Servant of the Conduit"/>
+        <card number="1" price="0" name="Walking Ballista"/>
     </zone>
 </cockatrice_deck>
