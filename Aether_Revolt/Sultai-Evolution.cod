@@ -21,26 +21,25 @@
         <card number="4" price="0" name="Oath of Nissa"/>
         <card number="1" price="0" name="Ishkanah, Grafwidow"/>
         <card number="2" price="0" name="Ruinous Path"/>
-        <card number="1" price="0" name="Deepfathom Skulker"/>
         <card number="1" price="0" name="The Gitrog Monster"/>
         <card number="4" price="0" name="Servant of the Conduit"/>
         <card number="3" price="0" name="Scrapheap Scrounger"/>
         <card number="1" price="0" name="Bristling Hydra"/>
         <card number="3" price="0" name="Rogue Refiner"/>
+        <card number="1" price="0" name="Greenwarden of Murasa"/>
+        <card number="1" price="0" name="Demon of Dark Schemes"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Oath of Liliana"/>
-        <card number="1" price="0" name="Metallic Rebuke"/>
-        <card number="4" price="0" name="Yahenni's Expertise"/>
-        <card number="1" price="0" name="Battle at the Bridge"/>
+        <card number="2" price="0" name="Yahenni's Expertise"/>
         <card number="1" price="0" name="Void Winnower"/>
         <card number="3" price="0" name="Pulse of Murasa"/>
         <card number="1" price="0" name="Rashmi, Eternities Crafter"/>
         <card number="2" price="0" name="Natural Obsolescence"/>
         <card number="1" price="0" name="Shielded Aether Thief"/>
         <card number="1" price="0" name="Ruinous Path"/>
-        <card number="1" price="0" name="Eldritch Evolution"/>
-        <card number="1" price="0" name="Servant of the Conduit"/>
         <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Aethersquall Ancient"/>
+        <card number="1" price="0" name="Deepfathom Skulker"/>
     </zone>
 </cockatrice_deck>
