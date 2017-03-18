@@ -19,7 +19,6 @@
         <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
         <card number="3" price="0" name="Prized Amalgam"/>
         <card number="4" price="0" name="Oath of Nissa"/>
-        <card number="1" price="0" name="Ishkanah, Grafwidow"/>
         <card number="2" price="0" name="Ruinous Path"/>
         <card number="1" price="0" name="The Gitrog Monster"/>
         <card number="4" price="0" name="Servant of the Conduit"/>
@@ -28,6 +27,7 @@
         <card number="3" price="0" name="Rogue Refiner"/>
         <card number="1" price="0" name="Greenwarden of Murasa"/>
         <card number="1" price="0" name="Demon of Dark Schemes"/>
+        <card number="1" price="0" name="Aethersquall Ancient"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Oath of Liliana"/>
@@ -39,7 +39,7 @@
         <card number="1" price="0" name="Shielded Aether Thief"/>
         <card number="1" price="0" name="Ruinous Path"/>
         <card number="1" price="0" name="Walking Ballista"/>
-        <card number="1" price="0" name="Aethersquall Ancient"/>
         <card number="1" price="0" name="Deepfathom Skulker"/>
+        <card number="1" price="0" name="Ishkanah, Grafwidow"/>
     </zone>
 </cockatrice_deck>

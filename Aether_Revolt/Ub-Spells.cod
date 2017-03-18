@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ub-Spells</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Baral, Chief of Compliance"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Take Inventory"/>
+        <card number="4" price="0" name="Pore Over the Pages"/>
+        <card number="1" price="0" name="Compelling Deterrence"/>
+        <card number="18" price="0" name="Island"/>
+        <card number="2" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="2" price="0" name="Grip of the Roil"/>
+        <card number="1" price="0" name="Spell Shrivel"/>
+        <card number="4" price="0" name="Niblis of Frost"/>
+        <card number="4" price="0" name="Fatal Push"/>
+        <card number="4" price="0" name="Choked Estuary"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="1" price="0" name="Disallow"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Epiphany at the Drownyard"/>
+        <card number="1" price="0" name="Select for Inspection"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Spell Shrivel"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Torrential Gearhulk"/>
+        <card number="4" price="0" name="Transgress the Mind"/>
+        <card number="3" price="0" name="Confiscation Coup"/>
+    </zone>
+</cockatrice_deck>
