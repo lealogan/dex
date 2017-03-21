@@ -3,7 +3,7 @@
     <deckname>Ur-TurboFrost</deckname>
     <comments>last pore can turn into shock</comments>
     <zone name="main">
-        <card number="4" price="0" name="Baral, Chief of Compliance"/>
+        <card number="3" price="0" name="Baral, Chief of Compliance"/>
         <card number="4" price="0" name="Curious Homunculus"/>
         <card number="4" price="0" name="Anticipate"/>
         <card number="4" price="0" name="Take Inventory"/>
@@ -18,18 +18,21 @@
         <card number="4" price="0" name="Harnessed Lightning"/>
         <card number="4" price="0" name="Glimmer of Genius"/>
         <card number="2" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Dynavolt Tower"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Disallow"/>
         <card number="2" price="0" name="Dispel"/>
-        <card number="2" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
         <card number="1" price="0" name="Compelling Deterrence"/>
-        <card number="2" price="0" name="Baral's Expertise"/>
+        <card number="1" price="0" name="Baral's Expertise"/>
         <card number="1" price="0" name="Select for Inspection"/>
         <card number="1" price="0" name="Negate"/>
         <card number="2" price="0" name="Torrential Gearhulk"/>
         <card number="1" price="0" name="Grip of the Roil"/>
         <card number="1" price="0" name="Shock"/>
         <card number="1" price="0" name="Pore Over the Pages"/>
+        <card number="1" price="0" name="Akoum Firebird"/>
+        <card number="1" price="0" name="Dynavolt Tower"/>
     </zone>
 </cockatrice_deck>
