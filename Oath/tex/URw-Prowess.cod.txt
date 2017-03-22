@@ -1,0 +1,31 @@
+4 Monastery Swiftspear
+4 Stormchaser Mage
+4 Abbot of Keral Keep
+4 Mantis Rider
+
+2 Clutch of Currents
+2 Fiery Impulse
+4 Jeskai Charm
+4 Slip Through Space
+4 Temur Battle Rage
+4 Titan's Strength
+2 Treasure Cruise
+
+5 Mountain
+3 Battlefield Forge
+4 Flooded Strand
+2 Island
+2 Plains
+2 Prairie Stream
+3 Shivan Reef
+1 Wandering Fumarole
+
+SB: 2 Disdainful Stroke
+SB: 1 Dragonmaster Outcast
+SB: 2 Goblin Dark-Dwellers
+SB: 1 Negate
+SB: 2 Roast
+SB: 2 Seeker of the Way
+SB: 2 Stasis Snare
+SB: 2 Valorous Stance
+SB: 1 Dispel

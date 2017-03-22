@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UB Discard</deckname>
+    <comments>this deck is the suhx</comments>
+    <zone name="main">
+        <card number="3" price="0" name="Hover Barrier"/>
+        <card number="4" price="0" name="Wall of Frost"/>
+        <card number="3" price="0" name="Phenax, God of Deception"/>
+        <card number="4" price="0" name="Ashiok, Nightmare Weaver"/>
+        <card number="2" price="0" name="Jace, Memory Adept"/>
+        <card number="4" price="0" name="Omenspeaker"/>
+        <card number="4" price="0" name="Hero's Downfall"/>
+        <card number="4" price="0" name="Soul Ransom"/>
+        <card number="4" price="0" name="Watery Grave"/>
+        <card number="4" price="0" name="Temple of Deceit"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="7" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Lazav, Dimir Mastermind"/>
+        <card number="1" price="0" name="Duskmantle Guildmage"/>
+        <card number="1" price="0" name="Consuming Aberration"/>
+        <card number="1" price="0" name="Mirko Vosk, Mind Drinker"/>
+        <card number="2" price="0" name="Claustrophobia"/>
+        <card number="1" price="0" name="Nighthowler"/>
+        <card number="1" price="0" name="Nightveil Specter"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Drown in Sorrow"/>
+        <card number="3" price="0" name="Annul"/>
+        <card number="4" price="0" name="Swan Song"/>
+        <card number="2" price="0" name="Whelming Wave"/>
+        <card number="2" price="0" name="Sudden Storm"/>
+        <card number="1" price="0" name="Doorkeeper"/>
+        <card number="1" price="0" name="Returned Phalanx"/>
+        <card number="1" price="0" name="Whispering Madness"/>
+        <card number="1" price="0" name="Pilfered Plans"/>
+        <card number="1" price="0" name="Notion Thief"/>
+        <card number="1" price="0" name="Coerced Confession"/>
+        <card number="1" price="0" name="Bane Alley Broker"/>
+        <card number="3" price="0" name="Tidebinder Mage"/>
+        <card number="1" price="0" name="Underworld Connections"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Artisan of Forms</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Artisan of Forms"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Karametra's Acolyte"/>
+        <card number="4" price="0" name="Aqueous Form"/>
+        <card number="4" price="0" name="Voyaging Satyr"/>
+        <card number="4" price="0" name="Agoraphobia"/>
+        <card number="4" price="0" name="Giant Adephage"/>
+        <card number="4" price="0" name="Garruk, Caller of Beasts"/>
+        <card number="4" price="0" name="Kalonian Hydra"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Breeding Pool"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
+    </zone>
+</cockatrice_deck>

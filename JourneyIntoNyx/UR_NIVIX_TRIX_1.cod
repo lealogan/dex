@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR_NIVIX_TRIX_1</deckname>
+    <comments>blistercoil + retraxn helix ??</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Nivmagus Elemental"/>
+        <card number="4" price="0" name="Young Pyromancer"/>
+        <card number="4" price="0" name="Steam Vents"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="9" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Hands of Binding"/>
+        <card number="4" price="0" name="Magma Jet"/>
+        <card number="4" price="0" name="Shock"/>
+        <card number="4" price="0" name="Hidden Strings"/>
+        <card number="4" price="0" name="Chandra's Phoenix"/>
+        <card number="3" price="0" name="Bident of Thassa"/>
+        <card number="4" price="0" name="Master of Waves"/>
+        <card number="3" price="0" name="Thassa, God of the Sea"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Negate"/>
+        <card number="4" price="0" name="Retraction Helix"/>
+        <card number="3" price="0" name="Gainsay"/>
+        <card number="4" price="0" name="Demolish"/>
+        <card number="3" price="0" name="Flames of the Firebrand"/>
+        <card number="3" price="0" name="Peak Eruption"/>
+    </zone>
+</cockatrice_deck>

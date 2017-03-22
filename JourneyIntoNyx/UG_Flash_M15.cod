@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_Flash_M15</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="AEtherspouts"/>
+        <card number="4" price="0" name="Syncopate"/>
+        <card number="4" price="0" name="Dissolve"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Breeding Pool"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="4" price="0" name="Sphinx's Revelation"/>
+        <card number="4" price="0" name="Temple of Enlightenment"/>
+        <card number="4" price="0" name="Temple of Plenty"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Advent of the Wurm"/>
+        <card number="4" price="0" name="Selesnya Charm"/>
+        <card number="3" price="0" name="Kiora, the Crashing Wave"/>
+        <card number="4" price="0" name="Voice of Resurgence"/>
+        <card number="1" price="0" name="Dissipate"/>
+        <card number="2" price="0" name="Plains"/>
+        <card number="2" price="0" name="Hallowed Fountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Jace, the Living Guildpact"/>
+        <card number="1" price="0" name="Kiora's Dismissal"/>
+        <card number="1" price="0" name="Peel from Reality"/>
+        <card number="1" price="0" name="Quickling"/>
+        <card number="1" price="0" name="Retraction Helix"/>
+        <card number="1" price="0" name="Simic Charm"/>
+        <card number="1" price="0" name="Voyage's End"/>
+        <card number="1" price="0" name="Whelming Wave"/>
+        <card number="1" price="0" name="Sudden Storm"/>
+        <card number="1" price="0" name="Jace's Ingenuity"/>
+        <card number="1" price="0" name="Gainsay"/>
+        <card number="1" price="0" name="Mystic Genesis"/>
+        <card number="1" price="0" name="Perplexing Chimera"/>
+        <card number="1" price="0" name="Skyline Predator"/>
+        <card number="1" price="0" name="Skylasher"/>
+        <card number="1" price="0" name="Shambleshark"/>
+        <card number="1" price="0" name="Prophet of Kruphix"/>
+        <card number="1" price="0" name="Briarpack Alpha"/>
+        <card number="1" price="0" name="Nephalia Seakite"/>
+        <card number="1" price="0" name="Selesnya Charm"/>
+        <card number="1" price="0" name="Cancel"/>
+        <card number="1" price="0" name="Dissipate"/>
+    </zone>
+</cockatrice_deck>

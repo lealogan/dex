@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ur-visions-3</deckname>
+    <comments>https://www.reddit.com/r/spikes/comments/53xi7e/standard_fateful_visions_aka_ur_burn/d7xa5vv</comments>
+    <zone name="main">
+        <card number="4" price="0" name="fevered visions"/>
+        <card number="2" price="0" name="lightning axe"/>
+        <card number="4" price="0" name="fiery temper"/>
+        <card number="3" price="0" name="chandra, torch of defiance"/>
+        <card number="4" price="0" name="Harnessed Lightning"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="4" price="0" name="incendiary flow"/>
+        <card number="2" price="0" name="Cathartic Reunion"/>
+        <card number="2" price="0" name="Collective Defiance"/>
+        <card number="3" price="0" name="Fateful Showdown"/>
+        <card number="2" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="1" price="0" name="Spell Shrivel"/>
+        <card number="1" price="0" name="Summary Dismissal"/>
+        <card number="1" price="0" name="Shreds of Sanity"/>
+    </zone>
+</cockatrice_deck>

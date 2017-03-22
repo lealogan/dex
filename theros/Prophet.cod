@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Prophet</deckname>
+    <comments>UG prophet tempo</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Prophet of Kruphix"/>
+        <card number="4" price="0" name="Garruk, Caller of Beasts"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Prime Speaker Zegana"/>
+        <card number="1" price="0" name="Arbor Colossus"/>
+        <card number="2" price="0" name="Polukranos, World Eater"/>
+        <card number="2" price="0" name="Cyclonic Rift"/>
+        <card number="4" price="0" name="Kalonian Tusker"/>
+        <card number="4" price="0" name="Witchstalker"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Breeding Pool"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="4" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" price="0" name="Burning-Tree Emissary"/>
+        <card number="2" price="0" name="Voyaging Satyr"/>
+        <card number="1" price="0" name="Nylea, God of the Hunt"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Progenitor Mimic"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Kalonian Hydra"/>
+        <card number="2" price="0" name="Drakewing Krasis"/>
+        <card number="1" price="0" name="Deadbridge Goliath"/>
+        <card number="1" price="0" name="Biomass Mutation"/>
+        <card number="1" price="0" name="Commune with the Gods"/>
+    </zone>
+</cockatrice_deck>

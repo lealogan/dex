@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>timewalker_bant</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Medomai the Ageless"/>
+        <card number="4" price="0" name="Banishing Light"/>
+        <card number="1" price="0" name="Temporal Trespass"/>
+        <card number="2" price="0" name="Dig Through Time"/>
+        <card number="1" price="0" name="Elspeth, Sun's Champion"/>
+        <card number="2" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="Ugin, the Spirit Dragon"/>
+        <card number="2" price="0" name="Dragonlord Ojutai"/>
+        <card number="3" price="0" name="Prophet of Kruphix"/>
+        <card number="2" price="0" name="Kiora, the Crashing Wave"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+        <card number="2" price="0" name="Polukranos, World Eater"/>
+        <card number="3" price="0" name="Surrak, the Hunt Caller"/>
+        <card number="3" price="0" name="Stubborn Denial"/>
+        <card number="2" price="0" name="Dromoka's Command"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Narset, Enlightened Master"/>
+        <card number="4" price="0" name="Temple of Enlightenment"/>
+        <card number="4" price="0" name="Yavimaya Coast"/>
+        <card number="4" price="0" name="Tranquil Cove"/>
+        <card number="2" price="0" name="Mana Confluence"/>
+        <card number="2" price="0" name="Mystic Monastery"/>
+        <card number="2" price="0" name="Frontier Bivouac"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Glare of Heresy"/>
+        <card number="2" price="0" name="Nyx-Fleece Ram"/>
+        <card number="2" price="0" name="Revoke Existence"/>
+        <card number="2" price="0" name="Valorous Stance"/>
+        <card number="1" price="0" name="Wall of Essence"/>
+        <card number="1" price="0" name="Into the Void"/>
+        <card number="1" price="0" name="Narset Transcendent"/>
+        <card number="1" price="0" name="End Hostilities"/>
+        <card number="2" price="0" name="Void Snare"/>
+        <card number="1" price="0" name="Resolute Archangel"/>
+    </zone>
+</cockatrice_deck>

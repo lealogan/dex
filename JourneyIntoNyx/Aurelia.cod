@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Aurelia</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Ajani, Caller of the Pride"/>
+        <card number="4" price="0" name="Akroan Hoplite"/>
+        <card number="4" price="0" name="Aurelia, the Warleader"/>
+        <card number="3" price="0" name="Aurelia's Fury"/>
+        <card number="4" price="0" name="Boros Charm"/>
+        <card number="4" price="0" name="Boros Reckoner"/>
+        <card number="4" price="0" name="Boros Keyrune"/>
+        <card number="3" price="0" name="Brimaz, King of Oreskos"/>
+        <card number="4" price="0" name="Warleader's Helix"/>
+        <card number="4" price="0" name="Felhide Spiritbinder"/>
+        <card number="4" price="0" name="Sacred Foundry"/>
+        <card number="4" price="0" name="Temple of Triumph"/>
+        <card number="8" price="0" name="Mountain"/>
+        <card number="8" price="0" name="Plains"/>
+    </zone>
+</cockatrice_deck>

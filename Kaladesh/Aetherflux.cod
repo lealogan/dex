@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Aetherflux</deckname>
+    <comments>Phaff -- cockatrice username</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Herald of Kozilek"/>
+        <card number="4" price="0" name="Prophetic Prism"/>
+        <card number="3" price="0" name="Metalspinner's Puzzleknot"/>
+        <card number="4" price="0" name="Glassblower's Puzzleknot"/>
+        <card number="4" price="0" name="Woodweaver's Puzzleknot"/>
+        <card number="4" price="0" name="Foundry Inspector"/>
+        <card number="2" price="0" name="Paradoxical Outcome"/>
+        <card number="4" price="0" name="Spirebluff Canal"/>
+        <card number="2" price="0" name="Inventors' Fair"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Incendiary Sabotage"/>
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="4" price="0" name="Aetherflux Reservoir"/>
+        <card number="2" price="0" name="Filigree Familiar"/>
+        <card number="1" price="0" name="Metalwork Colossus"/>
+        <card number="2" price="0" name="Ghirapur Orrery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Crush of Tentacles"/>
+        <card number="3" price="0" name="Revolutionary Rebuff"/>
+        <card number="2" price="0" name="Metalwork Colossus"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="1" price="0" name="Saheeli Rai"/>
+        <card number="1" price="0" name="Aligned Hedron Network"/>
+        <card number="1" price="0" name="Deadlock Trap"/>
+        <card number="1" price="0" name="Dynavolt Tower"/>
+        <card number="1" price="0" name="Multiform Wonder"/>
+        <card number="1" price="0" name="Panharmonicon"/>
+    </zone>
+</cockatrice_deck>

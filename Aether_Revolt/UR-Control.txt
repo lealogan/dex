@@ -1,0 +1,27 @@
+4 Disallow
+4 Torrential Gearhulk
+4 Aether Hub
+2 Dynavolt Tower
+4 Spirebluff Canal
+3 Revolutionary Rebuff
+4 Glimmer of Genius
+4 Harnessed Lightning
+1 Highland Lake
+1 Jace, Unraveler of Secrets
+4 Wandering Fumarole
+1 Brutal Expulsion
+4 Anticipate
+3 Negate
+4 Mountain
+9 Island
+4 Shock
+
+Sideboard
+2 Ceremonious Rejection
+2 Summary Dismissal
+1 Jace, Unraveler of Secrets
+3 Kozilek's Return
+1 Brutal Expulsion
+2 Dispel
+3 Dragonmaster Outcast
+1 Negate

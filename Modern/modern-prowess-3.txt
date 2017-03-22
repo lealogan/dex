@@ -1,0 +1,30 @@
+4	Abbot of Keral Keep
+3	Flooded Strand
+1	Forked Bolt
+4	Gitaxian Probe
+2	Goblin Guide
+3	Island
+4	Lightning Bolt
+4	Mishra's Bauble
+4	Monastery Swiftspear
+2	Mountain
+4	Mutagenic Growth
+4	Scalding Tarn
+4	Serum Visions
+1	Snapcaster Mage
+4	Steam Vents
+4	Stormchaser Mage
+3	Twisted Image
+4	Vapor Snag
+1	Wooded Foothills
+
+Sideboard: 
+3	Dragon's Claw
+1	Forked Bolt
+1	Grim Lavamancer
+1	Izzet Staticaster
+3	Molten Rain
+1	Rending Volley
+2	Smash to Smithereens
+1	Spell Pierce
+2	Temur Battle Rage

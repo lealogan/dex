@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sultai-Control</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Grasp of Darkness"/>
+        <card number="1" price="0" name="Essence Extraction"/>
+        <card number="1" price="0" name="Diabolic Tutor"/>
+        <card number="1" price="0" name="Seasons Past"/>
+        <card number="2" price="0" name="Transgress the Mind"/>
+        <card number="2" price="0" name="Ruinous Path"/>
+        <card number="1" price="0" name="Anticipate"/>
+        <card number="1" price="0" name="Kalitas, Traitor of Ghet"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="4" price="0" name="Blooming Marsh"/>
+        <card number="4" price="0" name="Choked Estuary"/>
+        <card number="4" price="0" name="Hissing Quagmire"/>
+        <card number="4" price="0" name="Sunken Hollow"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="2" price="0" name="Ob Nixilis Reignited"/>
+        <card number="1" price="0" name="To the Slaughter"/>
+        <card number="2" price="0" name="Liliana, the Last Hope"/>
+        <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="3" price="0" name="Oath of Nissa"/>
+        <card number="1" price="0" name="Nissa, Voice of Zendikar"/>
+        <card number="1" price="0" name="Oath of Jace"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Spell Shrivel"/>
+        <card number="1" price="0" name="Disallow"/>
+        <card number="2" price="0" name="Harsh Scrutiny"/>
+        <card number="1" price="0" name="Nissa, Vital Force"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="2" price="0" name="Yahenni's Expertise"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Lost Legacy"/>
+        <card number="1" price="0" name="Natural State"/>
+        <card number="2" price="0" name="Creeping Mold"/>
+        <card number="2" price="0" name="Yahenni's Expertise"/>
+        <card number="1" price="0" name="Essence Extraction"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="1" price="0" name="Noxious Gearhulk"/>
+        <card number="1" price="0" name="Remorseless Punishment"/>
+        <card number="1" price="0" name="Nissa's Renewal"/>
+        <card number="1" price="0" name="Collective Brutality"/>
+        <card number="1" price="0" name="Battle at the Bridge"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Negate"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RG_Hammer test</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="4" price="0" name="Boon Satyr"/>
+        <card number="4" price="0" name="Deadbridge Goliath"/>
+        <card number="4" price="0" name="Domri Rade"/>
+        <card number="4" price="0" name="Hammer of Purphoros"/>
+        <card number="4" price="0" name="Ghor-Clan Rampager"/>
+        <card number="9" price="0" name="Mountain"/>
+        <card number="9" price="0" name="Forest"/>
+        <card number="4" price="0" name="Stomping Ground"/>
+        <card number="2" price="0" name="Temple of Abandon"/>
+        <card number="3" price="0" name="Voyaging Satyr"/>
+        <card number="1" price="0" name="Sylvan Caryatid"/>
+        <card number="4" price="0" name="Witchstalker"/>
+        <card number="4" price="0" name="Wrecking Ogre"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Mistcutter Hydra"/>
+        <card number="3" price="0" name="Bramblecrush"/>
+        <card number="4" price="0" name="Flames of the Firebrand"/>
+        <card number="4" price="0" name="Ruric Thar, the Unbowed"/>
+    </zone>
+</cockatrice_deck>

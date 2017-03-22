@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UW_Flyers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Always Watching"/>
+        <card number="4" price="0" name="Archangel of Tithes"/>
+        <card number="3" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Dragonlord Ojutai"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="11" price="0" name="Plains"/>
+        <card number="4" price="0" name="Port Town"/>
+        <card number="4" price="0" name="Prairie Stream"/>
+        <card number="4" price="0" name="Reflector Mage"/>
+        <card number="4" price="0" name="Thunderclap Wyvern"/>
+        <card number="3" price="0" name="Archangel Avacyn"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Stasis Snare"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="4" price="0" name="Knight of the White Orchid"/>
+        <card number="1" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="2" price="0" name="Ongoing Investigation"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Linvala, the Preserver"/>
+        <card number="1" price="0" name="Stasis Snare"/>
+        <card number="1" price="0" name="Topplegeist"/>
+        <card number="2" price="0" name="Talent of the Telepath"/>
+        <card number="2" price="0" name="Quarantine Field"/>
+        <card number="1" price="0" name="Rattlechains"/>
+        <card number="3" price="0" name="Planar Outburst"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Gideon, Ally of Zendikar"/>
+    </zone>
+</cockatrice_deck>

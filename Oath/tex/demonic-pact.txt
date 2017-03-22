@@ -1,0 +1,30 @@
+4 Bloodstained Mire
+3 Dismal Backwater
+4 Flooded Strand
+4 Island
+4 Polluted Delta
+2 Sunken Hollow
+5 Swamp
+2 Crush of Tentacles
+4 Duress
+2 Ruinous Path
+4 Transgress the Mind
+1 Treasure Cruise
+2 Anticipate
+2 Dig Through Time
+2 Dispel
+2 Disperse
+1 Empty the Pits
+2 Grasp of Darkness
+3 Silumgar's Command
+4 Demonic Pact
+3 Oath of Jace
+
+SB:2 Dispel
+SB:2 Flaying Tendrils
+SB:2 Infinite Obliteration
+SB:2 Languish
+SB:2 Negate
+SB:2 Ob Nixilis Reignited
+SB:1 Shifting Loyalties
+SB:2 Ultimate Price

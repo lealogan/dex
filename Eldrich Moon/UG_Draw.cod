@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_Draw</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Epic Confrontation"/>
+        <card number="9" price="0" name="Forest"/>
+        <card number="3" price="0" name="Hermit of the Natterknolls"/>
+        <card number="10" price="0" name="Island"/>
+        <card number="2" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="4" price="0" name="Lumbering Falls"/>
+        <card number="4" price="0" name="Managorger Hydra"/>
+        <card number="3" price="0" name="Negate"/>
+        <card number="3" price="0" name="Oath of Nissa"/>
+        <card number="3" price="0" name="Sage of Ancient Lore"/>
+        <card number="3" price="0" name="Slip Through Space"/>
+        <card number="3" price="0" name="Spontaneous Mutation"/>
+        <card number="3" price="0" name="Traverse the Ulvenwald"/>
+        <card number="3" price="0" name="Turn Aside"/>
+        <card number="2" price="0" name="Unsubstantiate"/>
+        <card number="3" price="0" name="Void Grafter"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Summary Dismissal"/>
+        <card number="2" price="0" name="Niblis of Frost"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Nissa, Voice of Zendikar"/>
+        <card number="2" price="0" name="Sylvan Advocate"/>
+        <card number="3" price="0" name="Tireless Tracker"/>
+    </zone>
+</cockatrice_deck>

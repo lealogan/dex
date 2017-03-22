@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Enbantments</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="1.99" name="Gladecover Scout"/>
+        <card number="4" price="0" name="Witchstalker"/>
+        <card number="4" price="0" name="Artisan of Forms"/>
+        <card number="4" price="0.36" name="Ethereal Armor"/>
+        <card number="2" price="0" name="Bident of Thassa"/>
+        <card number="4" price="0.67" name="Gift of Orzhova"/>
+        <card number="4" price="0" name="Unflinching Courage"/>
+        <card number="4" price="0" name="Aqueous Form"/>
+        <card number="4" price="0.41" name="Arrest"/>
+        <card number="4" price="0.25" name="Pacifism"/>
+        <card number="4" price="9.25" name="Hallowed Fountain"/>
+        <card number="4" price="9.87" name="Temple Garden"/>
+        <card number="4" price="9.02" name="Breeding Pool"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="2" price="0.83" name="Island"/>
+        <card number="2" price="0.93" name="Plains"/>
+        <card number="2" price="21.49" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="3.86" name="Detention Sphere"/>
+    </zone>
+</cockatrice_deck>

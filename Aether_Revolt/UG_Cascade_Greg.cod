@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>AER_UG_Rashmi</deckname>
+    <comments>60 Maindeck
+19 Creature
+</comments>
+    <zone name="main">
+        <card number="4" price="0" name="Sylvan Advocate"/>
+        <card number="2" price="0" name="Niblis of Frost"/>
+        <card number="2" price="0" name="Rashmi, Eternities Crafter"/>
+        <card number="3" price="0" name="Rishkar, Peema Renegade"/>
+        <card number="4" price="0" name="Servant of the Conduit"/>
+        <card number="4" price="0" name="Tireless Tracker"/>
+        <card number="4" price="0" name="Blossoming Defense"/>
+        <card number="4" price="0" name="Lumbering Falls"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="6" price="0" name="Forest"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Nissa, Vital Force"/>
+        <card number="3" price="0" name="Rishkar's Expertise"/>
+        <card number="4" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Confiscation Coup"/>
+        <card number="2" price="0" name="Clutch of Currents"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Lifecrafter's Bestiary"/>
+        <card number="1" price="0" name="Sphinx of the Final Word"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="2" price="0" name="Clip Wings"/>
+        <card number="2" price="0" name="Ceremonious Rejection"/>
+        <card number="2" price="0" name="Natural State"/>
+        <card number="1" price="0" name="Negate"/>
+        <card number="2" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Summary Dismissal"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Confiscation Coup"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mike Flores Blue</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Cyclonic Rift"/>
+        <card number="4" price="0" name="Dissolve"/>
+        <card number="4" price="0" name="Divination"/>
+        <card number="3" price="0" name="Master of Waves"/>
+        <card number="4" price="0" name="Nullify"/>
+        <card number="3" price="0" name="Opportunity"/>
+        <card number="4" price="0" name="Prognostic Sphinx"/>
+        <card number="1" price="0" name="Syncopate"/>
+        <card number="2" price="0" name="Encroaching Wastes"/>
+        <card number="13" price="0" name="Island"/>
+        <card number="4" price="0" name="Mutavault"/>
+        <card number="4" price="0" name="Temple of Deceit"/>
+        <card number="4" price="0" name="Temple of Enlightenment"/>
+        <card number="1" price="0" name="AEtherling"/>
+        <card number="3" price="0" name="Voyage's End"/>
+        <card number="4" price="0" name="Ratchet Bomb"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Staff of the Mind Magus"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="3" price="0" name="Jace, Memory Adept"/>
+        <card number="1" price="0" name="Master of Waves"/>
+        <card number="4" price="0" name="Negate"/>
+        <card number="4" price="0" name="Tidebinder Mage"/>
+    </zone>
+</cockatrice_deck>

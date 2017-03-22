@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>tinker</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="2" price="0" name="Ghostfire Blade"/>
+        <card number="4" price="0" name="Ensoul Artifact"/>
+        <card number="4" price="0" name="Shrapnel Blast"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="4" price="0" name="Temple of Epiphany"/>
+        <card number="4" price="0" name="Chief Engineer"/>
+        <card number="2" price="0" name="Haunted Plate Mail"/>
+        <card number="4" price="0" name="Renowned Weaponsmith"/>
+        <card number="4" price="0" name="Juggernaut"/>
+        <card number="4" price="0" name="Phyrexian Revoker"/>
+        <card number="4" price="0" name="Scuttling Doom Engine"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Traveler's Amulet"/>
+        <card number="1" price="0" name="Tormod's Crypt"/>
+        <card number="1" price="0" name="Heart-Piercer Bow"/>
+        <card number="1" price="0" name="Omenspeaker"/>
+        <card number="2" price="0" name="Briber's Purse"/>
+        <card number="1" price="0" name="Hammer of Purphoros"/>
+        <card number="1" price="0" name="Gold-Forged Sentinel"/>
+        <card number="1" price="0" name="Witness of the Ages"/>
+        <card number="1" price="0" name="Akroan Horse"/>
+        <card number="1" price="0" name="Soul of New Phyrexia"/>
+        <card number="1" price="0" name="Hewed Stone Retainers"/>
+        <card number="1" price="0" name="Tomb of the Spirit Dragon"/>
+        <card number="1" price="0" name="Colossus of Akros"/>
+    </zone>
+</cockatrice_deck>

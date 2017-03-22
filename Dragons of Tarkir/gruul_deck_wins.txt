@@ -1,0 +1,29 @@
+// Deck file for Magic Workstation created with mtgtop8.com
+// NAME : Gruul DeckWins
+// CREATOR : Martin Dang 
+// FORMAT : Standard
+        1 [UNH] Forest
+        1 [THS] Temple of Abandon
+        4 [JOU] Mana Confluence
+        4 [KTK] Wooded Foothills
+        10 [UNH] Mountain
+        1 [M15] Frenzied Goblin
+        1 [DTK] Lightning Berserker
+        2 [M15] Goblin Rabblemaster
+        3 [DTK] Zurgo Bellstriker
+        4 [M15] Foundry Street Denizen
+        4 [KTK] Monastery Swiftspear
+        1 [KTK] Become Immense
+        4 [DTK] Atarka's Command
+        4 [M15] Lightning Strike
+        4 [M15] Stoke the Flames
+        4 [FRF] Wild Slash
+        4 [DTK] Dragon Fodder
+        4 [KTK] Hordeling Outburst
+SB:  1 [BNG] Scouring Sands
+SB:  2 [JOU] Hall of Triumph
+SB:  1 [THS] Destructive Revelry
+SB:  1 [FRF] Goblin Heelcutter
+SB:  4 [DTK] Roast
+SB:  4 [JOU] Eidolon of the Great Revel
+SB:  2 [M15] Goblin Rabblemaster

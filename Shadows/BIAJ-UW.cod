@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UW-BIAJ</deckname>
+    <comments>Need to do lands still.
+All the wraths.</comments>
+    <zone name="main">
+        <card number="6" price="0" name="Island"/>
+        <card number="4" price="0" name="Brain in a Jar"/>
+        <card number="4" price="0" name="Pieces of the Puzzle"/>
+        <card number="4" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Mage-Ring Network"/>
+        <card number="4" price="0" name="Part the Waterveil"/>
+        <card number="4" price="0" name="Descend upon the Sinful"/>
+        <card number="4" price="0" name="Planar Outburst"/>
+        <card number="4" price="0" name="Declaration in Stone"/>
+        <card number="4" price="0" name="Prairie Stream"/>
+        <card number="4" price="0" name="Port Town"/>
+        <card number="6" price="0" name="Plains"/>
+        <card number="4" price="0" name="Narset Transcendent"/>
+        <card number="4" price="0" name="Immolating Glare"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Negate"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Epiphany at the Drownyard"/>
+        <card number="3" price="0" name="Clash of Wills"/>
+        <card number="3" price="0" name="Talent of the Telepath"/>
+        <card number="1" price="0" name="Thing in the Ice"/>
+        <card number="2" price="0" name="Ojutai's Command"/>
+    </zone>
+</cockatrice_deck>

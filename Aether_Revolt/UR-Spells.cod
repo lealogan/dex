@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR-Spells</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Incendiary Flow"/>
+        <card number="4" price="0" name="Shock"/>
+        <card number="4" price="0" name="Spirebluff Canal"/>
+        <card number="4" price="0" name="Wandering Fumarole"/>
+        <card number="9" price="0" name="Mountain"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+        <card number="2" price="0" name="Shreds of Sanity"/>
+        <card number="1" price="0" name="Fortune's Favor"/>
+        <card number="3" price="0" name="Epiphany at the Drownyard"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="4" price="0" name="Galvanic Bombardment"/>
+        <card number="3" price="0" name="Niblis of Frost"/>
+        <card number="1" price="0" name="Baral, Chief of Compliance"/>
+        <card number="4" price="0" name="Akoum Firebird"/>
+        <card number="2" price="0" name="Harness the Storm"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
+        <card number="2" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Drag Under"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="2" price="0" name="Confiscation Coup"/>
+        <card number="2" price="0" name="Baral's Expertise"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+    </zone>
+</cockatrice_deck>

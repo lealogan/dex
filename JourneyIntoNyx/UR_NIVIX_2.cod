@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR_NIVIX_TRIX_2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Nivmagus Elemental"/>
+        <card number="4" price="0" name="Shock"/>
+        <card number="4" price="0" name="Mizzium Skin"/>
+        <card number="4" price="0" name="Retraction Helix"/>
+        <card number="4" price="0" name="Titan's Strength"/>
+        <card number="4" price="0" name="Young Pyromancer"/>
+        <card number="4" price="0" name="Steam Vents"/>
+        <card number="7" price="0" name="Island"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Nivix Cyclops"/>
+        <card number="4" price="0" name="Swan Song"/>
+        <card number="2" price="0" name="Mutavault"/>
+        <card number="4" price="0" name="Armed // Dangerous"/>
+        <card number="4" price="0" name="Akroan Crusader"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Teleportal"/>
+        <card number="1" price="0" name="Hidden Strings"/>
+        <card number="2" price="0" name="Hands of Binding"/>
+        <card number="4" price="0" name="Negate"/>
+        <card number="2" price="0" name="Fall of the Hammer"/>
+        <card number="2" price="0" name="Wavecrash Triton"/>
+        <card number="1" price="0" name="Spark Jolt"/>
+        <card number="2" price="0" name="Triton Tactics"/>
+        <card number="1" price="0" name="Inaction Injunction"/>
+        <card number="1" price="0" name="Last Thoughts"/>
+        <card number="1" price="0" name="Stymied Hopes"/>
+        <card number="1" price="0" name="Magma Jet"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+2 Bounding Krasis
+2 Canopy Vista
+4 Collected Company
+4 Deathmist Raptor
+3 Den Protector
+3 Dromoka's Command
+4 Eldrazi Skyspawner
+4 Flooded Strand
+2 Forest
+1 Island
+3 Jace, Vryn's Prodigy
+4 Lumbering Falls
+3 Plains
+2 Prairie Stream
+4 Reflector Mage
+2 Stratus Dancer
+4 Sylvan Advocate
+4 Windswept Heath
+2 Wingmate Roc
+1 Wooded Foothills
+2 Yavimaya Coast
+
+SB:2 Arashin Cleric
+SB:3 Disdainful Stroke
+SB:3 Dispel
+SB:1 Harbinger of the Tides
+SB:1 Hidden Dragonslayer
+SB:1 Silkwrap
+SB:1 Stratus Dancer
+SB:1 Surge of Righteousness
+SB:2 Valorous Stance

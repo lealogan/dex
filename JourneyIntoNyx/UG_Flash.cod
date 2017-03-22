@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UG_Flash</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Horizon Chimera"/>
+        <card number="3" price="0" name="Fleetfeather Cockatrice"/>
+        <card number="3" price="0" name="Boon Satyr"/>
+        <card number="4" price="0" name="Dissolve"/>
+        <card number="2" price="0" name="Stymied Hopes"/>
+        <card number="3" price="0" name="Syncopate"/>
+        <card number="1" price="0" name="Opportunity"/>
+        <card number="3" price="0" name="Inspiration"/>
+        <card number="1" price="0" name="Cyclonic Rift"/>
+        <card number="1" price="0" name="Voyage's End"/>
+        <card number="3" price="0" name="Essence Scatter"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Breeding Pool"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="2" price="0" name="Triton Tactics"/>
+        <card number="3" price="0" name="Briarpack Alpha"/>
+        <card number="4" price="0" name="Sylvan Caryatid"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Cyclonic Rift"/>
+        <card number="4" price="0" name="Annul"/>
+        <card number="1" price="0" name="Disperse"/>
+        <card number="2" price="0" name="Swan Song"/>
+        <card number="1" price="0" name="Essence Scatter"/>
+        <card number="2" price="0" name="Nullify"/>
+        <card number="2" price="0" name="Curse of the Swine"/>
+        <card number="2" price="0" name="Briarpack Alpha"/>
+        <card number="2" price="0" name="Skylasher"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,18 @@
+[[ creatures ]]
+1 swiftspear
+2 abbot
+3 frostwalker
+4 mantis rider
+
+[[ trix ]]
+5 titan str
+6 wild slash
+7 firecraft
+8 send to sleep
+
+[[ maybe ]]
+collateral damage
+atarka's command
+jeskai charm
+unsummon
+new 3 mana eidolon of revel
