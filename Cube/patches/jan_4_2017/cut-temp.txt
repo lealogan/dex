@@ -1,0 +1,197 @@
+x Abhorrent Overlord
+x Absorb
+x Abyssal Persecutor
+x Aeon Chronicler
+x Ajani Goldmane
+x Aluren
+x Anafenza, the Foremost
+x Ankh of Mishra
+x Anthousa, Setessian Hero
+x Aphetto Alchemist
+x Arashi, the Sky Asunder
+x Arbiter of the Ideal
+x Armada Wurm
+x Ashes to Ashes
+x Astral Slide
+x Awaken the Ancient
+x Awakening Zone
+x Bane of the Living
+x Black Vise
+x Blistering Firecat
+x Bloodgift Demon
+x Bone Splitter
+x Bow of Nylea
+x Browbeat
+x Call of the Herd
+x Champion of Stray Souls
+x Champion of the Parish
+x Chandra Nalaar
+x Chandra's Phoenix
+x Chasm Skulker
+x Cloudgoat Ranger
+x Concordant Crossroads
+x Confiscate
+x Conundrum Sphinx
+x Countryside Crusher
+x Crackling Doom
+x Creeping Mold
+x Crush of Tentacles
+x Dakkon Blackblade
+x Dauthi Horror
+x Daxos of Meletis
+x Day's Undoing
+x Demonic Pact
+x Desolate Lighthouse
+x Desolation Angel
+x Duskmantle Seer
+x Earthquake
+x Eldrazi Obligator
+x Elspeth Tirel
+x Elspeth, Knight-Errant
+x Empyrial Armor
+x Enchanted Evening
+x Ephara, God of the Polis
+x Fire Imp
+x Fireslinger
+x Galepowder Mage
+x Garruk, Apex Predator
+x Garruk, Caller of Beasts
+x Garruk, Primal Hunter
+x Generator Servant
+x Genesis
+x Geralf's Messenger
+x Glorious Anthem
+x Goblin Lackey
+x Goblin Piledriver
+x Goblin Settler
+x Gods Willing
+x Gore-House Chainwalker
+x Hammer of Purphoros
+x Hatred
+x Hellspark Elemental
+x High Tide
+x Mayor of Avbruk/Howlpack Alpha
+x Hunter's Prowess
+x Hypersonic Dragon
+x Increasing Vengeance
+x Jace Beleren
+x Jackal Pup
+x Jiwari, the Earth Aflame
+x Kalonian Tusker
+x Karametra, God of Harvests
+x Kargan Dragonlord
+x Keldon Champion
+x Keldon Vandals
+x Kird Ape
+x Knight of Meadowgrain
+x Launch the Fleet
+x Loam Lion
+x Manabarbs
+x Mantis Rider
+x Master of The Feast
+x Might of the Oaks
+x Mirri the Cursed
+x Mirrorpool
+x Mogis, God of Slaughter
+x Mold Shambler
+x Molten-Tail Masticore
+x Murderous Cut
+x Nantuko Vigilante
+x Necrotic Ooze
+x Nightveil Specter
+x Nissa, Worldwaker
+x Niv-Mizzet, Dracogenius
+x Nylea, God of the Hunt
+x Ojutai's Command
+x Omenspeaker
+x Pain Seer
+x Paladin en-Vec
+x Palinchron
+x Part the Waterveil
+x Phenax, God of Deception
+x Plated Geopede
+x Price of Progress
+x Profane Command
+x Prognostic Sphinx
+x Prophet of Kruphix
+x Psychatog
+x Psychic Vortex
+x Reassembling Skeleton
+x Reckless Bushwhacker
+x Reckless Charge
+x Reckless Waif
+x Replenish
+x Ring of Gix
+x Ryusei, the Falling Star
+x Sarcomancer
+x Satyr Firedancer
+x Savage Knuckleblade
+x Savannah Lions
+x Seismic Assault
+x Serendib Efreet
+x Shadowmage Infiltrator
+x Shrapnel Blast
+x Siege Rhino
+x Silumgar's Command
+x Simic Charm
+x Simic Sky Swallower
+x Soltari Champion
+x Soltari Monk
+x Soltari Priest
+x Soltari Trooper
+x Somberwald Sage
+x Sorin Markov
+x Soul Ransom
+x Spectral Procession
+x Sphinx of the Steel Wind
+x Spikeshot Elder
+x Spirit Link
+x Squee, Goblin Nabob
+x Staggershock
+x Steppe Lynx
+x Stormblood Berserker
+x Student of Warfare
+x Surrak Dragonclaw
+x Tattermunge Maniac
+x Teferi's Veil
+x Temur Ascendancy
+x Tithe
+x Tombstalker
+x Training Grounds
+x Trancendent Master
+x Triton Fortune Hunter
+x Troll Ascetic
+x Urza's Blueprints
+x Vinelasher Kudzu
+x Wall of Reverence
+x Whim of Volrath
+x Wickerbough Elder
+x Wild Dogs
+x Wild Nactl
+x Willbender
+x Wolfbitten Captive
+x Worldfire
+x Xenagos, God of Revels
+x Athreos, God of Passage
+x Bident of Thassa
+x Black Knight
+x Butcher of the Horde
+x Cloistered Youth
+x Clone
+x Ertai, Wizard Adept
+x Exalted Angel
+x Iroas, God of Victory
+x Kozilek, Butcher of Truth
+x Liliana of the Dark Realms
+x Mindswipe
+x Narset, Enlightened Master
+x Opalescence
+x Plumveil
+x Rattleclaw Mystic
+x Sarkhan, the Dragonspeaker
+x Scuttling Doom Engine
+x Serra's Sanctum
+x Temporal Trespass
+x Thorn Elemental
+x Viridian Shaman
+x Wild Mongrel
