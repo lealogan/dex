@@ -20,11 +20,12 @@
         <card number="1" price="0" name="Renegade Tactics"/>
     </zone>
     <zone name="side">
-        <card number="3" price="0" name="Censor"/>
-        <card number="2" price="0" name="Collective Defiance"/>
-        <card number="3" price="0" name="Winds of Rebuke"/>
+        <card number="2" price="0" name="Censor"/>
+        <card number="1" price="0" name="Collective Defiance"/>
+        <card number="2" price="0" name="Winds of Rebuke"/>
         <card number="4" price="0" name="Fevered Visions"/>
-        <card number="2" price="0" name="Renegade Tactics"/>
+        <card number="1" price="0" name="Renegade Tactics"/>
         <card number="1" price="0" name="Bedlam Reveler"/>
+        <card number="4" price="0" name="Kari Zev's Expertise"/>
     </zone>
 </cockatrice_deck>
