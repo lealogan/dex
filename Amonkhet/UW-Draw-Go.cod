@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UW-Draw-Go</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Censor"/>
+        <card number="4" price="0" name="Spell Queller"/>
+        <card number="4" price="0" name="Disallow"/>
+        <card number="4" price="0" name="Torrential Gearhulk"/>
+        <card number="2" price="0" name="Archangel Avacyn"/>
+        <card number="3" price="0" name="Commit // Memory"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="3" price="0" name="Anticipate"/>
+        <card number="2" price="0" name="Stasis Snare"/>
+        <card number="2" price="0" name="Cast Out"/>
+        <card number="4" price="0" name="Irrigated Farmland"/>
+        <card number="2" price="0" name="Prairie Stream"/>
+        <card number="2" price="0" name="Port Town"/>
+        <card number="11" price="0" name="Island"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="1" price="0" name="Pull from Tomorrow"/>
+        <card number="3" price="0" name="Immolating Glare"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Negate"/>
+        <card number="2" price="0" name="Fumigate"/>
+        <card number="3" price="0" name="Forsake the Worldly"/>
+        <card number="1" price="0" name="Angel of Sanctions"/>
+        <card number="1" price="0" name="Baral, Chief of Compliance"/>
+        <card number="1" price="0" name="Blessed Alliance"/>
+        <card number="1" price="0" name="Immolating Glare"/>
+        <card number="1" price="0" name="Commit // Memory"/>
+        <card number="2" price="0" name="Shielded Aether Thief"/>
+        <card number="2" price="0" name="Aven Mindcensor"/>
+    </zone>
+</cockatrice_deck>

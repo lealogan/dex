@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>4c-Saheeli</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Game Trail"/>
+        <card number="2" price="0" name="Spirebluff Canal"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="4" price="0" name="Felidar Guardian"/>
+        <card number="2" price="0" name="Glorybringer"/>
+        <card number="4" price="0" name="Rogue Refiner"/>
+        <card number="4" price="0" name="Servant of the Conduit"/>
+        <card number="3" price="0" name="Whirler Virtuoso"/>
+        <card number="4" price="0" name="Attune with Aether"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Nahiri, the Harbinger"/>
+        <card number="2" price="0" name="Nissa, Steward of Elements"/>
+        <card number="4" price="0" name="Saheeli Rai"/>
+        <card number="4" price="0" name="Harnessed Lightning"/>
+        <card number="2" price="0" name="Oath of Chandra"/>
+        <card number="4" price="0" name="Oath of Nissa"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Oath of Chandra"/>
+        <card number="2" price="0" name="Authority of the Consuls"/>
+        <card number="2" price="0" name="Bristling Hydra"/>
+        <card number="2" price="0" name="Manglehorn"/>
+        <card number="1" price="0" name="Natural Obsolescence"/>
+        <card number="3" price="0" name="Negate"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="1" price="0" name="Skysovereign, Consul Flagship"/>
+        <card number="2" price="0" name="Tireless Tracker"/>
+    </zone>
+</cockatrice_deck>

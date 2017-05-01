@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>JUND-Discard</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Scrapheap Scrounger"/>
+        <card number="4" price="0" name="Flameblade Adept"/>
+        <card number="4" price="0" name="Noose Constrictor"/>
+        <card number="4" price="0" name="Haunted Dead"/>
+        <card number="4" price="0" name="Prized Amalgam"/>
+        <card number="2" price="0" name="Horror of the Broken Lands"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="4" price="0" name="Ghirapur Orrery"/>
+        <card number="3" price="0" name="Lightning Axe"/>
+        <card number="2" price="0" name="Shadow of the Grave"/>
+        <card number="4" price="0" name="Sheltered Thicket"/>
+        <card number="4" price="0" name="Game Trail"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Canyon Slough"/>
+        <card number="4" price="0" name="Blooming Marsh"/>
+        <card number="4" price="0" name="Foreboding Ruins"/>
+    </zone>
+</cockatrice_deck>

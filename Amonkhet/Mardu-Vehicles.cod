@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mardu-Vehicles</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Inspiring Vantage"/>
+        <card number="4" price="0" name="Concealed Courtyard"/>
+        <card number="4" price="0" name="Spire of Industry"/>
+        <card number="3" price="0" name="Canyon Slough"/>
+        <card number="1" price="0" name="Needle Spires"/>
+        <card number="1" price="0" name="Shambling Vent"/>
+        <card number="4" price="0" name="Plains"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Thraben Inspector"/>
+        <card number="4" price="0" name="Toolcraft Exemplar"/>
+        <card number="4" price="0" name="Scrapheap Scrounger"/>
+        <card number="4" price="0" name="Veteran Motorist"/>
+        <card number="2" price="0" name="Pia Nalaar"/>
+        <card number="2" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="2" price="0" name="Glorybringer"/>
+        <card number="4" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="4" price="0" name="Heart of Kiran"/>
+        <card number="4" price="0" name="Unlicensed Disintegration"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="1" price="0" name="Fatal Push"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Lay Bare the Heart"/>
+        <card number="2" price="0" name="Release the Gremlins"/>
+        <card number="1" price="0" name="Painful Truths"/>
+        <card number="1" price="0" name="Anguished Unmaking"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Shock"/>
+        <card number="2" price="0" name="Fatal Push"/>
+        <card number="2" price="0" name="Walking Ballista"/>
+        <card number="2" price="0" name="Dusk // Dawn"/>
+    </zone>
+</cockatrice_deck>
