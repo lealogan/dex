@@ -10,14 +10,14 @@
         <card number="7" price="0" name="Island"/>
         <card number="9" price="0" name="Mountain"/>
         <card number="4" price="0" name="Shock"/>
-        <card number="3" price="0" name="Slip Through Space"/>
+        <card number="2" price="0" name="Slip Through Space"/>
         <card number="4" price="0" name="Soul-Scar Mage"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="4" price="0" name="Stormchaser Mage"/>
         <card number="2" price="0" name="Wandering Fumarole"/>
         <card number="4" price="0" name="Expedite"/>
-        <card number="3" price="0" name="Insult // Injury"/>
         <card number="1" price="0" name="Renegade Tactics"/>
+        <card number="4" price="0" name="Insult"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Censor"/>
