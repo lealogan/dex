@@ -3,30 +3,29 @@
     <deckname>rdw</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" price="0" name="Glorious End"/>
         <card number="4" price="0" name="Soul-Scar Mage"/>
-        <card number="2" price="0" name="Kari Zev, Skyship Raider"/>
-        <card number="1" price="0" name="Hazoret the Fervent"/>
-        <card number="4" price="0" name="Bloodrage Brawler"/>
+        <card number="2" price="0" name="Bloodrage Brawler"/>
         <card number="4" price="0" name="Falkenrath Gorger"/>
         <card number="4" price="0" name="Insolent Neonate"/>
-        <card number="4" price="0" name="Built to Smash"/>
+        <card number="2" price="0" name="Built to Smash"/>
         <card number="4" price="0" name="Fiery Temper"/>
-        <card number="3" price="0" name="Shock"/>
+        <card number="4" price="0" name="Shock"/>
         <card number="2" price="0" name="Renegade Tactics"/>
         <card number="4" price="0" name="Consuming Fervor"/>
         <card number="18" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Village Messenger"/>
+        <card number="2" price="0" name="Lupine Prototype"/>
+        <card number="4" price="0" name="Furyblade Vampire"/>
+        <card number="4" price="0" name="Bomat Courier"/>
+        <card number="2" price="0" name="Reckless Bushwhacker"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Harsh Mentor"/>
         <card number="1" price="0" name="Boiling Earth"/>
         <card number="3" price="0" name="By Force"/>
-        <card number="1" price="0" name="Mountain"/>
         <card number="2" price="0" name="Lathnu Hellion"/>
         <card number="1" price="0" name="Magmatic Chasm"/>
+        <card number="1" price="0" name="Chandra's Pyrohelix"/>
+        <card number="2" price="0" name="Lightning Axe"/>
         <card number="1" price="0" name="Reckless Bushwhacker"/>
-        <card number="1" price="0" name="Bomat Courier"/>
-        <card number="1" price="0" name="Inventor's Apprentice"/>
     </zone>
 </cockatrice_deck>
