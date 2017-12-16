@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>UR-Prowess</deckname>
-    <comments></comments>
+    <comments>+2 land</comments>
     <zone name="main">
         <card number="4" price="0" name="Curious Homunculus"/>
         <card number="4" price="0" name="Enigma Drake"/>

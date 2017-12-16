@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="As Foretold"/>
-        <card number="3" price="0" name="Commit // Memory"/>
         <card number="1" price="0" name="Rhonas the Indomitable"/>
         <card number="4" price="0" name="Channeler Initiate"/>
         <card number="3" price="0" name="Sylvan Advocate"/>
@@ -21,6 +20,7 @@
         <card number="2" price="0" name="Glyph Keeper"/>
         <card number="1" price="0" name="Rishkar's Expertise"/>
         <card number="1" price="0" name="Baral's Expertise"/>
+        <card number="3" price="0" name="Commit"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Stinging Shot"/>

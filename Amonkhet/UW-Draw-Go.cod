@@ -8,7 +8,6 @@
         <card number="4" price="0" name="Disallow"/>
         <card number="4" price="0" name="Torrential Gearhulk"/>
         <card number="2" price="0" name="Archangel Avacyn"/>
-        <card number="3" price="0" name="Commit // Memory"/>
         <card number="2" price="0" name="Negate"/>
         <card number="3" price="0" name="Anticipate"/>
         <card number="2" price="0" name="Stasis Snare"/>
@@ -20,6 +19,7 @@
         <card number="7" price="0" name="Plains"/>
         <card number="1" price="0" name="Pull from Tomorrow"/>
         <card number="3" price="0" name="Immolating Glare"/>
+        <card number="3" price="0" name="Commit"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Negate"/>

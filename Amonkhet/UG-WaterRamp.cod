@@ -3,26 +3,25 @@
     <deckname>UG-WaterRamp</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Botanical Sanctum"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
         <card number="1" price="0" name="Cascading Cataracts"/>
         <card number="4" price="0" name="Elder Deep-Fiend"/>
         <card number="7" price="0" name="Forest"/>
-        <card number="3" price="0" name="Island"/>
+        <card number="6" price="0" name="Island"/>
         <card number="4" price="0" name="Lumbering Falls"/>
-        <card number="4" price="0" name="Matter Reshaper"/>
-        <card number="3" price="0" name="Nissa, Steward of Elements"/>
+        <card number="2" price="0" name="Nissa, Steward of Elements"/>
         <card number="4" price="0" name="Part the Waterveil"/>
-        <card number="2" price="0" name="Pilgrim's Eye"/>
-        <card number="3" price="0" name="Sanctum of Ugin"/>
-        <card number="4" price="0" name="Servant of the Conduit"/>
-        <card number="4" price="0" name="Shefet Monitor"/>
-        <card number="2" price="0" name="Spell Shrivel"/>
-        <card number="3" price="0" name="Spring // Mind"/>
-        <card number="2" price="0" name="Sunscorched Desert"/>
+        <card number="4" price="0" name="Sanctum of Ugin"/>
+        <card number="2" price="0" name="Shefet Monitor"/>
         <card number="4" price="0" name="Sylvan Advocate"/>
-        <card number="2" price="0" name="Unsubstantiate"/>
-        <card number="1" price="0" name="Wastes"/>
         <card number="1" price="0" name="Wretched Gryff"/>
+        <card number="4" price="0" name="Spring"/>
+        <card number="4" price="0" name="Pyramid of the Pantheon"/>
+        <card number="4" price="0" name="Maulfist Revolutionary"/>
+        <card number="1" price="0" name="Censor"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="2" price="0" name="Commit"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Haze of Pollen"/>
@@ -30,8 +29,8 @@
         <card number="2" price="0" name="Narnam Renegade"/>
         <card number="2" price="0" name="Negate"/>
         <card number="2" price="0" name="Thought-Knot Seer"/>
-        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
         <card number="2" price="0" name="Walking Ballista"/>
         <card number="1" price="0" name="World Breaker"/>
+        <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
     </zone>
 </cockatrice_deck>
