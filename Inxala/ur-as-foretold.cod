@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ur-as-foretold</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="As Foretold"/>
+        <card number="3" price="0" name="Chart a Course"/>
+        <card number="4" price="0" name="Crash Through"/>
+        <card number="3" price="0" name="Cryptic Serpent"/>
+        <card number="3" price="0" name="Dive Down"/>
+        <card number="4" price="0" name="Enigma Drake"/>
+        <card number="9" price="0" name="Island"/>
+        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="7" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Opt"/>
+        <card number="4" price="0" name="Riddleform"/>
+        <card number="4" price="0" name="Shock"/>
+        <card number="4" price="0" name="Soul-Scar Mage"/>
+        <card number="4" price="0" name="Spirebluff Canal"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Magma Spray"/>
+        <card number="3" price="0" name="Negate"/>
+        <card number="2" price="0" name="Perilous Voyage"/>
+        <card number="4" price="0" name="Spell Pierce"/>
+        <card number="3" price="0" name="Unsummon"/>
+    </zone>
+</cockatrice_deck>

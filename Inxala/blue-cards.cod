@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>blue-cards</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Skyship Plunderer"/>
+        <card number="4" price="0" name="As Foretold"/>
+        <card number="4" price="0" name="Pyramid of the Pantheon"/>
+        <card number="2" price="0" name="Shielded Aether Thief"/>
+        <card number="1" price="0" name="Memory"/>
+        <card number="1" price="0" name="Metallurgic Summonings"/>
+        <card number="2" price="0" name="Baral, Chief of Compliance"/>
+        <card number="1" price="0" name="Dreamcaller Siren"/>
+        <card number="1" price="0" name="Enigma Drake"/>
+        <card number="1" price="0" name="Entrancing Melody"/>
+        <card number="1" price="0" name="Glimmer of Genius"/>
+        <card number="1" price="0" name="Kefnet the Mindful"/>
+        <card number="1" price="0" name="Pull from Tomorrow"/>
+        <card number="1" price="0" name="Riddleform"/>
+        <card number="1" price="0" name="Siren Stormtamer"/>
+        <card number="1" price="0" name="Sphinx of Magosi"/>
+        <card number="1" price="0" name="Supreme Will"/>
+        <card number="1" price="0" name="Unsummon"/>
+    </zone>
+</cockatrice_deck>
