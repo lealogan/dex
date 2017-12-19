@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="4" price="0" name="Chart a Course"/>
         <card number="4" price="0" name="Crash Through"/>
-        <card number="3" price="0" name="Cryptic Serpent"/>
+        <card number="1" price="0" name="Cryptic Serpent"/>
         <card number="4" price="0" name="Enigma Drake"/>
         <card number="3" price="0" name="Ipnu Rivulet"/>
         <card number="6" price="0" name="Island"/>
@@ -15,21 +15,25 @@
         <card number="4" price="0" name="Ramunap Ruins"/>
         <card number="4" price="0" name="Riddleform"/>
         <card number="2" price="0" name="Shock"/>
-        <card number="3" price="0" name="Siren Stormtamer"/>
+        <card number="2" price="0" name="Siren Stormtamer"/>
         <card number="2" price="0" name="Spell Pierce"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="2" price="0" name="Supreme Will"/>
         <card number="1" price="0" name="Unsummon"/>
         <card number="2" price="0" name="Insult"/>
+        <card number="1" price="0" name="Curator of Mysteries"/>
+        <card number="2" price="0" name="Glorybringer"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Fiery Cannonade"/>
-        <card number="2" price="0" name="Glorybringer"/>
+        <card number="1" price="0" name="Glorybringer"/>
         <card number="2" price="0" name="Magma Spray"/>
-        <card number="4" price="0" name="Negate"/>
+        <card number="2" price="0" name="Negate"/>
         <card number="1" price="0" name="River's Rebuke"/>
         <card number="2" price="0" name="Sweltering Suns"/>
         <card number="1" price="0" name="Unsummon"/>
         <card number="2" price="0" name="Vance's Blasting Cannons"/>
+        <card number="1" price="0" name="Glyph Keeper"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
     </zone>
 </cockatrice_deck>
