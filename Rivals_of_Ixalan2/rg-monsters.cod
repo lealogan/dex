@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>rg-monsters</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Abrade"/>
+        <card number="4" price="0" name="Blooming Marsh"/>
+        <card number="1" price="0" name="Deathgorge Scavenger"/>
+        <card number="1" price="0" name="Dragonskull Summit"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="1" price="0" name="Ghalta, Primal Hunger"/>
+        <card number="4" price="0" name="Glorybringer"/>
+        <card number="3" price="0" name="Heart of Kiran"/>
+        <card number="4" price="0" name="Jadelight Ranger"/>
+        <card number="2" price="0" name="Magma Spray"/>
+        <card number="4" price="0" name="Merfolk Branchwalker"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Pia Nalaar"/>
+        <card number="4" price="0" name="Rekindling Phoenix"/>
+        <card number="2" price="0" name="Rhonas the Indomitable"/>
+        <card number="4" price="0" name="Rootbound Crag"/>
+        <card number="4" price="0" name="Scrapheap Scrounger"/>
+        <card number="4" price="0" name="Sheltered Thicket"/>
+        <card number="1" price="0" name="Thrashing Brontodon"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Chandra's Defeat"/>
+        <card number="3" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="2" price="0" name="Deathgorge Scavenger"/>
+        <card number="1" price="0" name="Dire Fleet Daredevil"/>
+        <card number="2" price="0" name="Naturalize"/>
+        <card number="2" price="0" name="Struggle"/>
+        <card number="2" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Thrashing Brontodon"/>
+    </zone>
+</cockatrice_deck>
