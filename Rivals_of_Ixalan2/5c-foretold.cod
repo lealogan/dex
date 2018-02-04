@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5c-foretold</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="As Foretold"/>
+        <card number="4" price="0" name="Pyramid of the Pantheon"/>
+        <card number="4" price="0" name="Maulfist Revolutionary"/>
+        <card number="1" price="0" name="Nicol Bolas, God-Pharaoh"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="4" price="0" name="Opt"/>
+        <card number="2" price="0" name="Supreme Will"/>
+        <card number="1" price="0" name="Vraska, Relic Seeker"/>
+        <card number="2" price="0" name="Fatal Push"/>
+        <card number="2" price="0" name="Unlicensed Disintegration"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="2" price="0" name="Abrade"/>
+        <card number="2" price="0" name="Glorybringer"/>
+        <card number="3" price="0" name="Rootbound Crag"/>
+        <card number="3" price="0" name="Botanical Sanctum"/>
+        <card number="3" price="0" name="Blooming Marsh"/>
+        <card number="4" price="0" name="Spire of Industry"/>
+        <card number="3" price="0" name="Spirebluff Canal"/>
+        <card number="3" price="0" name="Drowned Catacomb"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Ajani Unyielding"/>
+        <card number="3" price="0" name="Channeler Initiate"/>
+        <card number="1" price="0" name="Skyship Plunderer"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Spell Pierce"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="4" price="0" name="Magma Spray"/>
+        <card number="2" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Overflowing Insight"/>
+        <card number="2" price="0" name="Fiery Cannonade"/>
+        <card number="1" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Glyph Keeper"/>
+    </zone>
+</cockatrice_deck>

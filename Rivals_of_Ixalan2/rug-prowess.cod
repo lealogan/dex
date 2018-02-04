@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>rug-prowess</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="4" price="0" name="Blossoming Defense"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Censor"/>
+        <card number="4" price="0" name="Chart a Course"/>
+        <card number="1" price="0" name="Cryptic Serpent"/>
+        <card number="4" price="0" name="Deeproot Champion"/>
+        <card number="4" price="0" name="Enigma Drake"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Invigorated Rampage"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="4" price="0" name="Lightning Strike"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Opt"/>
+        <card number="3" price="0" name="Shock"/>
+        <card number="4" price="0" name="Soul-Scar Mage"/>
+        <card number="3" price="0" name="Spirebluff Canal"/>
+        <card number="3" price="0" name="Unsummon"/>
+        <card number="2" price="0" name="Insult"/>
+        <card number="1" price="0" name="Riddleform"/>
+        <card number="1" price="0" name="Rekindling Phoenix"/>
+        <card number="1" price="0" name="Spell Pierce"/>
+        <card number="1" price="0" name="Bloodwater Entity"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Abrade"/>
+        <card number="2" price="0" name="Chandra's Defeat"/>
+        <card number="1" price="0" name="Magma Spray"/>
+        <card number="3" price="0" name="Negate"/>
+        <card number="3" price="0" name="Siren Stormtamer"/>
+        <card number="3" price="0" name="Spell Pierce"/>
+        <card number="1" price="0" name="Unsummon"/>
+    </zone>
+</cockatrice_deck>

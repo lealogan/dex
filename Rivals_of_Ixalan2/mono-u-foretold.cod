@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>mono-u-foretold</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Pull from Tomorrow"/>
+        <card number="3" price="0" name="Disallow"/>
+        <card number="3" price="0" name="Waterknot"/>
+        <card number="4" price="0" name="As Foretold"/>
+        <card number="2" price="0" name="Kefnet the Mindful"/>
+        <card number="3" price="0" name="Supreme Will"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="3" price="0" name="Kumena's Awakening"/>
+        <card number="1" price="0" name="Kefnet's Last Word"/>
+        <card number="4" price="0" name="Commit"/>
+        <card number="4" price="0" name="Censor"/>
+        <card number="1" price="0" name="Spell Swindle"/>
+        <card number="2" price="0" name="Confiscation Coup"/>
+        <card number="3" price="0" name="Spell Pierce"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="1" price="0" name="Scavenger Grounds"/>
+        <card number="1" price="0" name="Endless Sands"/>
+        <card number="1" price="0" name="Field of Ruin"/>
+        <card number="1" price="0" name="Desert of the Mindful"/>
+        <card number="2" price="0" name="Arch of Orazca"/>
+        <card number="17" price="0" name="Island"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Crafty Cutpurse"/>
+        <card number="2" price="0" name="Confiscation Coup"/>
+        <card number="2" price="0" name="Hornswoggle"/>
+        <card number="1" price="0" name="Insidious Will"/>
+        <card number="1" price="0" name="Spell Pierce"/>
+    </zone>
+</cockatrice_deck>
