@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ug-draw</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Vizier of the Menagerie"/>
+        <card number="3" name="Rashmi, Eternities Crafter"/>
+        <card number="4" name="Blossoming Defense"/>
+        <card number="4" name="Channeler Initiate"/>
+        <card number="3" name="Nature's Way"/>
+        <card number="3" name="Jadelight Ranger"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="2" name="Verdurous Gearhulk"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="2" name="Commit // Memory"/>
+        <card number="2" name="Rishkar's Expertise"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="12" name="Forest"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="2" name="Rhonas the Indomitable"/>
+        <card number="2" name="Kefnet the Mindful"/>
+        <card number="2" name="Waterknot"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Shapers' Sanctuary"/>
+        <card number="1" name="Dissenter's Deliverance"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="2" name="Prowling Serpopard"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="2" name="Negate"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Carnage Tyrant"/>
+        <card number="1" name="Waterknot"/>
+    </zone>
+</cockatrice_deck>

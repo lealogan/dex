@@ -7,7 +7,6 @@
         <card number="4" name="Pyramid of the Pantheon"/>
         <card number="4" name="Maulfist Revolutionary"/>
         <card number="1" name="Nicol Bolas, God-Pharaoh"/>
-        <card number="1" name="Nicol Bolas, the Deceiver"/>
         <card number="2" name="Chandra, Torch of Defiance"/>
         <card number="4" name="Attune with Aether"/>
         <card number="2" name="Opt"/>
@@ -15,20 +14,23 @@
         <card number="1" name="Vraska, Relic Seeker"/>
         <card number="2" name="Fatal Push"/>
         <card number="2" name="Unlicensed Disintegration"/>
-        <card number="2" name="Torrential Gearhulk"/>
         <card number="2" name="Abrade"/>
         <card number="2" name="Glorybringer"/>
-        <card number="2" name="Champion of Wits"/>
         <card number="3" name="Rootbound Crag"/>
         <card number="3" name="Botanical Sanctum"/>
         <card number="3" name="Blooming Marsh"/>
         <card number="4" name="Spire of Industry"/>
-        <card number="3" name="Spirebluff Canal"/>
-        <card number="3" name="Drowned Catacomb"/>
+        <card number="2" name="Spirebluff Canal"/>
+        <card number="2" name="Drowned Catacomb"/>
         <card number="1" name="Island"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Forest"/>
         <card number="1" name="Mountain"/>
+        <card number="4" name="Approach of the Second Sun"/>
+        <card number="2" name="Glimmer of Genius"/>
+        <card number="1" name="Skyship Plunderer"/>
+        <card number="2" name="Sunpetal Grove"/>
+        <card number="1" name="Plains"/>
     </zone>
     <zone name="side">
         <card number="2" name="Spell Pierce"/>

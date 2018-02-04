@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UR-Fliers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Rekindling Phoenix"/>
+        <card number="4" name="Glorybringer"/>
+        <card number="4" name="Favorable Winds"/>
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="1" name="Skyship Plunderer"/>
+        <card number="1" name="Warkite Marauder"/>
+        <card number="1" name="Enigma Drake"/>
+        <card number="1" name="Kefnet the Mindful"/>
+        <card number="2" name="The Locust God"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cartouche of Knowledge"/>
+        <card number="1" name="Glint-Nest Crane"/>
+        <card number="1" name="Riddleform"/>
+        <card number="1" name="Storm Fleet Aerialist"/>
+        <card number="1" name="Bloodwater Entity"/>
+        <card number="1" name="Whirler Virtuoso"/>
+        <card number="1" name="Pia Nalaar"/>
+        <card number="1" name="Nimble Obstructionist"/>
+        <card number="1" name="Siren Lookout"/>
+        <card number="1" name="Curator of Mysteries"/>
+        <card number="1" name="Dreamcaller Siren"/>
+        <card number="1" name="Siren Reaver"/>
+        <card number="1" name="Glyph Keeper"/>
+        <card number="1" name="Soul of the Rapids"/>
+        <card number="1" name="Unesh, Criosphinx Sovereign"/>
+    </zone>
+</cockatrice_deck>

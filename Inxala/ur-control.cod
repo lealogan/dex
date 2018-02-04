@@ -3,20 +3,15 @@
     <deckname>ur-control</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Skyship Plunderer"/>
-        <card number="1" name="Abrade"/>
+        <card number="2" name="Abrade"/>
         <card number="3" name="Pyramid of the Pantheon"/>
-        <card number="3" name="As Foretold"/>
-        <card number="1" name="Wildfire Eternal"/>
-        <card number="2" name="Torrential Gearhulk"/>
+        <card number="1" name="Torrential Gearhulk"/>
         <card number="2" name="Glorybringer"/>
-        <card number="1" name="Overflowing Insight"/>
         <card number="1" name="Confiscation Coup"/>
         <card number="2" name="Chandra, Torch of Defiance"/>
         <card number="1" name="Insidious Will"/>
         <card number="1" name="Supreme Will"/>
         <card number="1" name="Disallow"/>
-        <card number="1" name="Repeating Barrage"/>
         <card number="2" name="Censor"/>
         <card number="4" name="Harnessed Lightning"/>
         <card number="2" name="Opt"/>
@@ -24,14 +19,18 @@
         <card number="1" name="Metallurgic Summonings"/>
         <card number="2" name="Ramunap Ruins"/>
         <card number="4" name="Spirebluff Canal"/>
-        <card number="7" name="Mountain"/>
+        <card number="8" name="Mountain"/>
         <card number="11" name="Island"/>
         <card number="2" name="Commit // Memory"/>
+        <card number="2" name="Pull from Tomorrow"/>
+        <card number="2" name="Riddleform"/>
+        <card number="2" name="Hour of Devastation"/>
+        <card number="2" name="Sweltering Suns"/>
+        <card number="1" name="The Locust God"/>
     </zone>
     <zone name="side">
         <card number="1" name="Torrential Gearhulk"/>
         <card number="2" name="Hungry Flames"/>
-        <card number="3" name="Sweltering Suns"/>
         <card number="1" name="Essence Scatter"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Release the Gremlins"/>
@@ -41,5 +40,6 @@
         <card number="1" name="Flame Lash"/>
         <card number="1" name="Hour of Devastation"/>
         <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Repeating Barrage"/>
     </zone>
 </cockatrice_deck>
