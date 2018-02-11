@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>dimir-artifacts</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Filigree Familiar"/>
+        <card number="4" price="0" name="Syndicate Trafficker"/>
+        <card number="4" price="0" name="Herald of Anguish"/>
+        <card number="4" price="0" name="Implement of Ferocity"/>
+        <card number="4" price="0" name="Implement of Improvement"/>
+        <card number="4" price="0" name="Implement of Combustion"/>
+        <card number="4" price="0" name="Battle at the Bridge"/>
+        <card number="4" price="0" name="Metallic Rebuke"/>
+        <card number="4" price="0" name="Tezzeret's Touch"/>
+        <card number="4" price="0" name="Key to the City"/>
+    </zone>
+</cockatrice_deck>

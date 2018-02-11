@@ -5,31 +5,32 @@
 21 creature
 </comments>
     <zone name="main">
-        <card number="4" name="Skymarcher Aspirant"/>
-        <card number="4" name="Adanto Vanguard"/>
-        <card number="3" name="Sacred Cat"/>
-        <card number="4" name="Sram, Senior Edificer"/>
-        <card number="4" name="Adorned Pouncer"/>
-        <card number="2" name="Siren Stormtamer"/>
-        <card number="3" name="Legion's Landing"/>
-        <card number="4" name="Cartouche of Solidarity"/>
-        <card number="4" name="Cartouche of Knowledge"/>
-        <card number="2" name="Trial of Solidarity"/>
-        <card number="3" name="Curious Obsession"/>
-        <card number="2" name="Baffling End"/>
-        <card number="4" name="Glacial Fortress"/>
-        <card number="4" name="Irrigated Farmland"/>
-        <card number="5" name="Island"/>
-        <card number="5" name="Plains"/>
-        <card number="3" name="Shefet Dunes"/>
+        <card number="4" price="0" name="Skymarcher Aspirant"/>
+        <card number="4" price="0" name="Adanto Vanguard"/>
+        <card number="3" price="0" name="Sacred Cat"/>
+        <card number="4" price="0" name="Sram, Senior Edificer"/>
+        <card number="4" price="0" name="Adorned Pouncer"/>
+        <card number="2" price="0" name="Siren Stormtamer"/>
+        <card number="3" price="0" name="Legion's Landing"/>
+        <card number="4" price="0" name="Cartouche of Solidarity"/>
+        <card number="4" price="0" name="Cartouche of Knowledge"/>
+        <card number="2" price="0" name="Trial of Solidarity"/>
+        <card number="3" price="0" name="Curious Obsession"/>
+        <card number="2" price="0" name="Baffling End"/>
+        <card number="4" price="0" name="Glacial Fortress"/>
+        <card number="4" price="0" name="Irrigated Farmland"/>
+        <card number="5" price="0" name="Island"/>
+        <card number="5" price="0" name="Plains"/>
+        <card number="3" price="0" name="Shefet Dunes"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Authority of the Consuls"/>
-        <card number="1" name="Baffling End"/>
-        <card number="3" name="Spell Pierce"/>
-        <card number="2" name="Sheltering Light"/>
-        <card number="4" name="Negate"/>
-        <card number="1" name="Dive Down"/>
-        <card number="2" name="Fragmentize"/>
+        <card number="2" price="0" name="Authority of the Consuls"/>
+        <card number="1" price="0" name="Baffling End"/>
+        <card number="2" price="0" name="Spell Pierce"/>
+        <card number="2" price="0" name="Sheltering Light"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="1" price="0" name="Dive Down"/>
+        <card number="2" price="0" name="Fragmentize"/>
+        <card number="3" price="0" name="Slash of Talons"/>
     </zone>
 </cockatrice_deck>
