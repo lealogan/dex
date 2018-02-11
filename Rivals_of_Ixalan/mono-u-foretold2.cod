@@ -3,36 +3,37 @@
     <deckname>mono-u-foretold</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Pull from Tomorrow"/>
-        <card number="3" name="Disallow"/>
-        <card number="2" name="Waterknot"/>
-        <card number="4" name="As Foretold"/>
-        <card number="2" name="Kefnet the Mindful"/>
-        <card number="3" name="Supreme Will"/>
-        <card number="2" name="Kumena's Awakening"/>
+        <card number="2" name="Supreme Will"/>
+        <card number="4" name="Kumena's Awakening"/>
         <card number="1" name="Kefnet's Last Word"/>
         <card number="4" name="Censor"/>
-        <card number="2" name="Confiscation Coup"/>
-        <card number="2" name="Spell Pierce"/>
-        <card number="3" name="Torrential Gearhulk"/>
+        <card number="1" name="Confiscation Coup"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="4" name="Torrential Gearhulk"/>
         <card number="1" name="Scavenger Grounds"/>
         <card number="1" name="Endless Sands"/>
         <card number="1" name="Field of Ruin"/>
         <card number="1" name="Desert of the Mindful"/>
         <card number="2" name="Arch of Orazca"/>
         <card number="17" name="Island"/>
-        <card number="3" name="Commit // Memory"/>
-        <card number="3" name="Opt"/>
-        <card number="2" name="Hornswoggle"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="4" name="Opt"/>
+        <card number="1" name="Hornswoggle"/>
+        <card number="4" name="Timestream Navigator"/>
+        <card number="3" name="Spell Swindle"/>
+        <card number="2" name="Baral, Chief of Compliance"/>
+        <card number="2" name="Baral's Expertise"/>
+        <card number="3" name="Unsummon"/>
     </zone>
     <zone name="side">
         <card number="2" name="Crafty Cutpurse"/>
         <card number="2" name="Confiscation Coup"/>
         <card number="3" name="Insidious Will"/>
         <card number="2" name="Spell Pierce"/>
-        <card number="1" name="Opt"/>
         <card number="1" name="Kefnet's Last Word"/>
-        <card number="1" name="Torrential Gearhulk"/>
-        <card number="2" name="Spell Swindle"/>
+        <card number="1" name="Disallow"/>
+        <card number="2" name="Kefnet the Mindful"/>
+        <card number="1" name="Pull from Tomorrow"/>
+        <card number="1" name="Hornswoggle"/>
     </zone>
 </cockatrice_deck>

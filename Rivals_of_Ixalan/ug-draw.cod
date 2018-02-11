@@ -35,5 +35,6 @@
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Carnage Tyrant"/>
         <card number="1" name="Waterknot"/>
+        <card number="1" name="Nature's Way"/>
     </zone>
 </cockatrice_deck>
