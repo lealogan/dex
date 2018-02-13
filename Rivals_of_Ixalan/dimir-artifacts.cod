@@ -3,7 +3,7 @@
     <deckname>dimir-artifacts</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Filigree Familiar"/>
+        <card number="1" name="Filigree Familiar"/>
         <card number="4" name="Syndicate Trafficker"/>
         <card number="4" name="Herald of Anguish"/>
         <card number="4" name="Implement of Ferocity"/>
@@ -11,25 +11,25 @@
         <card number="4" name="Implement of Combustion"/>
         <card number="4" name="Battle at the Bridge"/>
         <card number="3" name="Metallic Rebuke"/>
-        <card number="4" name="Tezzeret's Touch"/>
+        <card number="2" name="Tezzeret's Touch"/>
         <card number="2" name="Key to the City"/>
         <card number="1" name="Servo Schematic"/>
-        <card number="1" name="Scrap Trawler"/>
+        <card number="4" name="Scrap Trawler"/>
         <card number="1" name="Reverse Engineer"/>
         <card number="4" name="Spire of Industry"/>
         <card number="4" name="Drowned Catacomb"/>
-        <card number="6" name="Island"/>
-        <card number="6" name="Swamp"/>
+        <card number="7" name="Island"/>
+        <card number="7" name="Swamp"/>
     </zone>
     <zone name="side">
         <card number="1" name="Deadeye Plunderers"/>
         <card number="2" name="The Scarab God"/>
-        <card number="2" name="Sly Requisitioner"/>
+        <card number="1" name="Sly Requisitioner"/>
         <card number="2" name="Reverse Engineer"/>
-        <card number="2" name="Bastion Inventor"/>
-        <card number="1" name="Barricade Breaker"/>
+        <card number="1" name="Bastion Inventor"/>
         <card number="2" name="Fatal Push"/>
         <card number="2" name="Spell Pierce"/>
         <card number="1" name="Spell Swindle"/>
+        <card number="3" name="Vraska's Contempt"/>
     </zone>
 </cockatrice_deck>
