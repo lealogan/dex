@@ -3,8 +3,6 @@
     <deckname>favorable-winds-2</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" price="0" name="Pia Nalaar"/>
-        <card number="3" price="0" name="Whirler Virtuoso"/>
         <card number="4" price="0" name="Favorable Winds"/>
         <card number="3" price="0" name="Drake Haven"/>
         <card number="2" price="0" name="The Locust God"/>
@@ -13,27 +11,29 @@
         <card number="2" price="0" name="Abandoned Sarcophagus"/>
         <card number="4" price="0" name="Censor"/>
         <card number="2" price="0" name="Countervailing Winds"/>
-        <card number="2" price="0" name="Hieroglyphic Illumination"/>
+        <card number="3" price="0" name="Hieroglyphic Illumination"/>
         <card number="4" price="0" name="Harnessed Lightning"/>
-        <card number="1" price="0" name="Chart a Course"/>
-        <card number="1" price="0" name="Pull from Tomorrow"/>
         <card number="4" price="0" name="Spirebluff Canal"/>
         <card number="2" price="0" name="Canyon Slough"/>
         <card number="2" price="0" name="Sheltered Thicket"/>
         <card number="2" price="0" name="Fetid Pools"/>
-        <card number="7" price="0" name="Island"/>
-        <card number="5" price="0" name="Mountain"/>
-        <card number="2" price="0" name="Rekindling Phoenix"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Jace, Cunning Castaway"/>
+        <card number="3" price="0" name="Sweltering Suns"/>
+        <card number="2" price="0" name="Glorybringer"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Abrade"/>
-        <card number="1" price="0" name="Warkite Marauder"/>
-        <card number="2" price="0" name="Siren Stormtamer"/>
+        <card number="1" price="0" name="Siren Stormtamer"/>
         <card number="1" price="0" name="Vizier of Tumbling Sands"/>
         <card number="1" price="0" name="Unesh, Criosphinx Sovereign"/>
         <card number="1" price="0" name="Ominous Sphinx"/>
-        <card number="2" price="0" name="Aether Swooper"/>
         <card number="2" price="0" name="Nimble Obstructionist"/>
-        <card number="3" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Sweltering Suns"/>
+        <card number="1" price="0" name="Pia Nalaar"/>
+        <card number="1" price="0" name="Whirler Virtuoso"/>
+        <card number="3" price="0" name="Commit"/>
+        <card number="2" price="0" name="Rekindling Phoenix"/>
     </zone>
 </cockatrice_deck>
