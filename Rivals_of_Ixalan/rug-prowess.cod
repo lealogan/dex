@@ -3,33 +3,33 @@
     <deckname>rug-prowess</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Blossoming Defense"/>
-        <card number="4" price="0" name="Botanical Sanctum"/>
-        <card number="4" price="0" name="Deeproot Champion"/>
-        <card number="2" price="0" name="Enigma Drake"/>
-        <card number="1" price="0" name="Forest"/>
-        <card number="3" price="0" name="Island"/>
-        <card number="2" price="0" name="Lightning Strike"/>
-        <card number="3" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Opt"/>
-        <card number="4" price="0" name="Shock"/>
-        <card number="4" price="0" name="Soul-Scar Mage"/>
-        <card number="4" price="0" name="Spirebluff Canal"/>
-        <card number="4" price="0" name="Unsummon"/>
-        <card number="2" price="0" name="Insult"/>
-        <card number="4" price="0" name="Riddleform"/>
-        <card number="4" price="0" name="Bomat Courier"/>
-        <card number="2" price="0" name="Siren Stormtamer"/>
-        <card number="3" price="0" name="Rootbound Crag"/>
-        <card number="2" price="0" name="Magma Spray"/>
+        <card number="4" name="Blossoming Defense"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="4" name="Deeproot Champion"/>
+        <card number="2" name="Enigma Drake"/>
+        <card number="1" name="Forest"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="3" name="Mountain"/>
+        <card number="3" name="Opt"/>
+        <card number="4" name="Shock"/>
+        <card number="3" name="Soul-Scar Mage"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="4" name="Unsummon"/>
+        <card number="4" name="Riddleform"/>
+        <card number="4" name="Bomat Courier"/>
+        <card number="3" name="Siren Stormtamer"/>
+        <card number="3" name="Rootbound Crag"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="4" name="Curious Obsession"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Abrade"/>
-        <card number="2" price="0" name="Chandra's Defeat"/>
-        <card number="3" price="0" name="Negate"/>
-        <card number="3" price="0" name="Spell Pierce"/>
-        <card number="1" price="0" name="Siren Stormtamer"/>
-        <card number="2" price="0" name="Cryptic Serpent"/>
-        <card number="2" price="0" name="Lightning Strike"/>
+        <card number="2" name="Abrade"/>
+        <card number="2" name="Chandra's Defeat"/>
+        <card number="3" name="Negate"/>
+        <card number="3" name="Spell Pierce"/>
+        <card number="1" name="Siren Stormtamer"/>
+        <card number="2" name="Cryptic Serpent"/>
+        <card number="2" name="Lightning Strike"/>
     </zone>
 </cockatrice_deck>
