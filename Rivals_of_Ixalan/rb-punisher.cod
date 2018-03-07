@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>rb-punisher-v1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Angrath, the Flame-Chained"/>
+        <card number="4" name="Glint-Sleeve Siphoner"/>
+        <card number="3" name="Torment of Hailfire"/>
+        <card number="4" name="Sword-Point Diplomacy"/>
+        <card number="4" name="Torment of Scarabs"/>
+        <card number="2" name="Neheb, the Eternal"/>
+        <card number="3" name="Wildfire Eternal"/>
+        <card number="3" name="Combustible Gearhulk"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="3" name="Vraska's Contempt"/>
+        <card number="10" name="Mountain"/>
+        <card number="14" name="Swamp"/>
+        <card number="2" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Duress"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Nicol Bolas, the Deceiver"/>
+        <card number="1" name="Wildfire Eternal"/>
+        <card number="1" name="Aethersphere Harvester"/>
+        <card number="2" name="Dead Man's Chest"/>
+        <card number="2" name="Gonti, Lord of Luxury"/>
+        <card number="2" name="Duress"/>
+        <card number="2" name="Essence Extraction"/>
+        <card number="2" name="Moment of Craving"/>
+        <card number="1" name="Vraska's Contempt"/>
+    </zone>
+</cockatrice_deck>

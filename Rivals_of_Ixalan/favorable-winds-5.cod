@@ -3,28 +3,28 @@
     <deckname>favorable-winds-5</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Siren Stormtamer"/>
-        <card number="4" price="0" name="Hope of Ghirapur"/>
-        <card number="4" price="0" name="Favorable Winds"/>
-        <card number="4" price="0" name="Shock"/>
-        <card number="4" price="0" name="Spirebluff Canal"/>
-        <card number="12" price="0" name="Island"/>
-        <card number="6" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Warkite Marauder"/>
-        <card number="4" price="0" name="Riddleform"/>
-        <card number="4" price="0" name="Magma Spray"/>
-        <card number="4" price="0" name="Insult"/>
-        <card number="4" price="0" name="Curious Obsession"/>
-        <card number="1" price="0" name="Chart a Course"/>
-        <card number="1" price="0" name="Opt"/>
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="4" name="Hope of Ghirapur"/>
+        <card number="4" name="Favorable Winds"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="12" name="Island"/>
+        <card number="6" name="Mountain"/>
+        <card number="4" name="Warkite Marauder"/>
+        <card number="4" name="Riddleform"/>
+        <card number="4" name="Magma Spray"/>
+        <card number="4" name="Curious Obsession"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Opt"/>
+        <card number="4" name="Insult // Injury"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Chandra's Defeat"/>
-        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
-        <card number="3" price="0" name="Abrade"/>
-        <card number="3" price="0" name="Spell Pierce"/>
-        <card number="1" price="0" name="Field of Ruin"/>
-        <card number="3" price="0" name="Unsummon"/>
-        <card number="2" price="0" name="Perilous Voyage"/>
+        <card number="2" name="Chandra's Defeat"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="3" name="Abrade"/>
+        <card number="3" name="Spell Pierce"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="3" name="Unsummon"/>
+        <card number="2" name="Perilous Voyage"/>
     </zone>
 </cockatrice_deck>
