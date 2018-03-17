@@ -4,18 +4,17 @@
     <comments></comments>
     <zone name="main">
         <card number="2" name="Nissa, Vital Force"/>
-        <card number="2" name="Nissa, Steward of Elements"/>
-        <card number="2" name="Saheeli Rai"/>
+        <card number="3" name="Nissa, Steward of Elements"/>
+        <card number="3" name="Saheeli Rai"/>
         <card number="1" name="Samut, the Tested"/>
-        <card number="2" name="Chandra, Torch of Defiance"/>
-        <card number="4" name="Maulfist Revolutionary"/>
-        <card number="2" name="Combustible Gearhulk"/>
+        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Maulfist Revolutionary"/>
+        <card number="3" name="Combustible Gearhulk"/>
         <card number="2" name="Torrential Gearhulk"/>
         <card number="4" name="Harnessed Lightning"/>
         <card number="2" name="Confiscation Coup"/>
         <card number="2" name="Verdurous Gearhulk"/>
         <card number="2" name="Abrade"/>
-        <card number="1" name="Spell Pierce"/>
         <card number="4" name="Servant of the Conduit"/>
         <card number="4" name="Rootbound Crag"/>
         <card number="4" name="Spirebluff Canal"/>
@@ -24,7 +23,8 @@
         <card number="4" name="Forest"/>
         <card number="3" name="Mountain"/>
         <card number="3" name="Island"/>
-        <card number="4" name="Pyramid of the Pantheon"/>
+        <card number="1" name="Skyship Plunderer"/>
+        <card number="2" name="Vizier of the Menagerie"/>
     </zone>
     <zone name="side">
         <card number="2" name="Spell Pierce"/>
