@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5c-foretold2-ideas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Despair"/>
+        <card number="2" name="Survive"/>
+        <card number="1" name="Authority"/>
+        <card number="1" name="Fame"/>
+        <card number="1" name="Ribbons"/>
+        <card number="1" name="Finish"/>
+        <card number="1" name="Rubble"/>
+        <card number="1" name="Injury"/>
+        <card number="1" name="Market"/>
+        <card number="1" name="Cooperate"/>
+        <card number="1" name="Victory"/>
+        <card number="1" name="Return"/>
+        <card number="1" name="Feed"/>
+        <card number="1" name="Fight"/>
+        <card number="1" name="Lead"/>
+        <card number="1" name="Dust"/>
+        <card number="1" name="Oblivion"/>
+        <card number="1" name="Believe"/>
+        <card number="1" name="Memory"/>
+        <card number="1" name="Mind"/>
+        <card number="1" name="Rhonas's Last Stand"/>
+        <card number="1" name="Bontu's Last Reckoning"/>
+        <card number="1" name="Oketra's Last Mercy"/>
+        <card number="1" name="Struggle"/>
+        <card number="1" name="Kefnet's Last Word"/>
+        <card number="1" name="Awakened Amalgam"/>
+        <card number="1" name="Hazoret's Undying Fury"/>
+        <card number="1" name="Carnage Tyrant"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dawn"/>
+    </zone>
+</cockatrice_deck>
