@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>rix_uw_cartouche</deckname>
+    <deckname>rix_bant_cartouche</deckname>
     <comments>60 maindeck
 21 creature
 </comments>
     <zone name="main">
-        <card number="4" name="Skymarcher Aspirant"/>
         <card number="4" name="Adanto Vanguard"/>
         <card number="4" name="Sram, Senior Edificer"/>
         <card number="4" name="Adorned Pouncer"/>
-        <card number="3" name="Siren Stormtamer"/>
-        <card number="3" name="Legion's Landing"/>
-        <card number="4" name="Cartouche of Solidarity"/>
+        <card number="4" name="Siren Stormtamer"/>
         <card number="4" name="Cartouche of Knowledge"/>
-        <card number="2" name="Trial of Solidarity"/>
+        <card number="1" name="Trial of Solidarity"/>
         <card number="4" name="Curious Obsession"/>
-        <card number="1" name="Baffling End"/>
         <card number="4" name="Glacial Fortress"/>
-        <card number="4" name="Irrigated Farmland"/>
-        <card number="5" name="Island"/>
-        <card number="4" name="Plains"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Plains"/>
         <card number="4" name="Shefet Dunes"/>
-        <card number="2" name="Unquenchable Thirst"/>
+        <card number="4" name="Sixth Sense"/>
+        <card number="2" name="Oakenform"/>
+        <card number="4" name="Cartouche of Strength"/>
+        <card number="4" name="Deeproot Champion"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="4" name="Forest"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Authority of the Consuls"/>
         <card number="1" name="Baffling End"/>
         <card number="2" name="Spell Pierce"/>
         <card number="2" name="Sheltering Light"/>
-        <card number="2" name="Negate"/>
-        <card number="1" name="Dive Down"/>
+        <card number="1" name="Negate"/>
         <card number="2" name="Fragmentize"/>
         <card number="3" name="Slash of Talons"/>
+        <card number="2" name="Saving Grace"/>
+        <card number="2" name="Blossoming Defense"/>
     </zone>
 </cockatrice_deck>
