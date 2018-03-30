@@ -16,7 +16,7 @@
         <card number="4" name="Curious Obsession"/>
         <card number="1" name="Chart a Course"/>
         <card number="1" name="Opt"/>
-        <card number="4" name="Insult // Injury"/>
+        <card number="4" name="Insult"/>
     </zone>
     <zone name="side">
         <card number="2" name="Chandra's Defeat"/>

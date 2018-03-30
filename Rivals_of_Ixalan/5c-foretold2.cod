@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5c-foretold2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ribbons"/>
+        <card number="2" name="Rubble"/>
+        <card number="1" name="Memory"/>
+        <card number="4" name="As Foretold"/>
+        <card number="2" name="Skyship Plunderer"/>
+        <card number="4" name="Deeproot Champion"/>
+        <card number="3" name="Maulfist Revolutionary"/>
+        <card number="2" name="Prepare"/>
+        <card number="4" name="Aether Hub"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="2" name="Rootbound Crag"/>
+        <card number="2" name="Sunpetal Grove"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="4" name="Reason"/>
+        <card number="2" name="Farm"/>
+        <card number="3" name="Never"/>
+        <card number="4" name="Channeler Initiate"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Blooming Marsh"/>
+        <card number="4" name="Treasure Map"/>
+        <card number="4" name="Spire of Industry"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dawn"/>
+        <card number="1" name="Bontu's Last Reckoning"/>
+        <card number="1" name="Dust"/>
+        <card number="1" name="Fame"/>
+        <card number="1" name="Despair"/>
+        <card number="1" name="Hazoret's Undying Fury"/>
+        <card number="1" name="Oketra's Last Mercy"/>
+        <card number="1" name="Authority"/>
+        <card number="1" name="Struggle"/>
+        <card number="1" name="Cooperate"/>
+        <card number="1" name="Oblivion"/>
+        <card number="1" name="Finish"/>
+        <card number="1" name="Kefnet's Last Word"/>
+        <card number="1" name="Carnage Tyrant"/>
+        <card number="1" name="Feed"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>favorable-winds-6-ub</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="4" name="Favorable Winds"/>
+        <card number="10" name="Island"/>
+        <card number="4" name="Warkite Marauder"/>
+        <card number="4" name="Riddleform"/>
+        <card number="4" name="Curious Obsession"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Opt"/>
+        <card number="4" name="Kitesail Freebooter"/>
+        <card number="4" name="Bone Picker"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="9" name="Swamp"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="1" name="Moment of Craving"/>
+        <card number="2" name="Skulduggery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Spell Pierce"/>
+        <card number="2" name="Field of Ruin"/>
+        <card number="3" name="Unsummon"/>
+        <card number="1" name="Perilous Voyage"/>
+        <card number="2" name="Twilight Prophet"/>
+        <card number="3" name="Harsh Scrutiny"/>
+        <card number="3" name="Duress"/>
+    </zone>
+</cockatrice_deck>

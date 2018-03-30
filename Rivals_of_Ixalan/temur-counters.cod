@@ -3,38 +3,36 @@
     <deckname>temur-counters</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" name="Nissa, Vital Force"/>
-        <card number="3" name="Nissa, Steward of Elements"/>
-        <card number="3" name="Saheeli Rai"/>
-        <card number="1" name="Samut, the Tested"/>
-        <card number="3" name="Chandra, Torch of Defiance"/>
-        <card number="2" name="Maulfist Revolutionary"/>
-        <card number="3" name="Combustible Gearhulk"/>
-        <card number="2" name="Torrential Gearhulk"/>
-        <card number="4" name="Harnessed Lightning"/>
-        <card number="2" name="Confiscation Coup"/>
-        <card number="2" name="Verdurous Gearhulk"/>
-        <card number="2" name="Abrade"/>
-        <card number="4" name="Servant of the Conduit"/>
-        <card number="4" name="Rootbound Crag"/>
-        <card number="4" name="Spirebluff Canal"/>
-        <card number="2" name="Sheltered Thicket"/>
-        <card number="4" name="Botanical Sanctum"/>
-        <card number="4" name="Forest"/>
-        <card number="3" name="Mountain"/>
-        <card number="3" name="Island"/>
-        <card number="1" name="Skyship Plunderer"/>
-        <card number="2" name="Vizier of the Menagerie"/>
+        <card number="2" price="0" name="Nissa, Vital Force"/>
+        <card number="3" price="0" name="Nissa, Steward of Elements"/>
+        <card number="3" price="0" name="Saheeli Rai"/>
+        <card number="2" price="0" name="Samut, the Tested"/>
+        <card number="3" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="3" price="0" name="Maulfist Revolutionary"/>
+        <card number="2" price="0" name="Combustible Gearhulk"/>
+        <card number="2" price="0" name="Torrential Gearhulk"/>
+        <card number="4" price="0" name="Harnessed Lightning"/>
+        <card number="3" price="0" name="Verdurous Gearhulk"/>
+        <card number="2" price="0" name="Abrade"/>
+        <card number="4" price="0" name="Servant of the Conduit"/>
+        <card number="4" price="0" name="Rootbound Crag"/>
+        <card number="3" price="0" name="Spirebluff Canal"/>
+        <card number="1" price="0" name="Sheltered Thicket"/>
+        <card number="3" price="0" name="Botanical Sanctum"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="2" price="0" name="Skyship Plunderer"/>
+        <card number="3" price="0" name="Aether Hub"/>
+        <card number="1" price="0" name="Search for Azcanta"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Spell Pierce"/>
-        <card number="1" name="Confiscation Coup"/>
-        <card number="2" name="Perilous Voyage"/>
-        <card number="2" name="Abrade"/>
-        <card number="3" name="Voltaic Brawler"/>
-        <card number="1" name="Samut, the Tested"/>
-        <card number="2" name="As Foretold"/>
-        <card number="2" name="Glimmer of Genius"/>
-        <card number="2" name="Blossoming Defense"/>
+        <card number="3" price="0" name="Spell Pierce"/>
+        <card number="3" price="0" name="Confiscation Coup"/>
+        <card number="1" price="0" name="Perilous Voyage"/>
+        <card number="2" price="0" name="Abrade"/>
+        <card number="2" price="0" name="As Foretold"/>
+        <card number="2" price="0" name="Blossoming Defense"/>
+        <card number="2" price="0" name="Sweltering Suns"/>
     </zone>
 </cockatrice_deck>
