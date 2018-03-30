@@ -10,18 +10,19 @@
         <card number="4" name="Adorned Pouncer"/>
         <card number="4" name="Siren Stormtamer"/>
         <card number="4" name="Cartouche of Knowledge"/>
-        <card number="1" name="Trial of Solidarity"/>
         <card number="4" name="Curious Obsession"/>
         <card number="4" name="Glacial Fortress"/>
         <card number="3" name="Island"/>
-        <card number="2" name="Plains"/>
-        <card number="4" name="Shefet Dunes"/>
+        <card number="3" name="Plains"/>
+        <card number="2" name="Shefet Dunes"/>
         <card number="4" name="Sixth Sense"/>
         <card number="2" name="Oakenform"/>
-        <card number="4" name="Cartouche of Strength"/>
+        <card number="2" name="Cartouche of Strength"/>
         <card number="4" name="Deeproot Champion"/>
         <card number="4" name="Botanical Sanctum"/>
-        <card number="4" name="Forest"/>
+        <card number="2" name="Forest"/>
+        <card number="4" name="Sunpetal Grove"/>
+        <card number="2" name="Squire's Devotion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Baffling End"/>
@@ -29,8 +30,10 @@
         <card number="2" name="Sheltering Light"/>
         <card number="1" name="Negate"/>
         <card number="2" name="Fragmentize"/>
-        <card number="3" name="Slash of Talons"/>
-        <card number="2" name="Saving Grace"/>
+        <card number="1" name="Slash of Talons"/>
+        <card number="1" name="Saving Grace"/>
         <card number="2" name="Blossoming Defense"/>
+        <card number="1" name="Squire's Devotion"/>
+        <card number="2" name="Cartouche of Strength"/>
     </zone>
 </cockatrice_deck>
