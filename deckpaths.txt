@@ -1,0 +1,401 @@
+Aether_Revolt/BR-Control.cod
+Aether_Revolt/G-Paradox.cod
+Aether_Revolt/GW-Control.cod
+Aether_Revolt/Improvise-U2.cod
+Aether_Revolt/ImproviseUB.cod
+Aether_Revolt/Jund-Turboland.cod
+Aether_Revolt/Sultai-Control.cod
+Aether_Revolt/Sultai-Evolution.cod
+Aether_Revolt/U-Improvise.cod
+Aether_Revolt/U-TurboFrost.cod
+Aether_Revolt/UG_Cascade.cod
+Aether_Revolt/UG_Cascade_Greg.cod
+Aether_Revolt/UGr-Ramp-Greg.cod
+Aether_Revolt/UR-Control.cod
+Aether_Revolt/UR-Spells-ideas.cod
+Aether_Revolt/UR-Spells.cod
+Aether_Revolt/UR-Thopter-Servos.cod
+Aether_Revolt/UR-Thopters.cod
+Aether_Revolt/UR-Visions-2.cod
+Aether_Revolt/UR-Visions.cod
+Aether_Revolt/UR-Zombies.cod
+Aether_Revolt/Ub-TurboFrost.cod
+Aether_Revolt/Ur-TurboFrost.cod
+Aether_Revolt/Urw-Improvise.cod
+Aether_Revolt/biaj-snake-ideas.cod
+Aether_Revolt/biaj-snake.cod
+Aether_Revolt/improvise-U.cod
+Amonkhet/4c-Saheeli.cod
+Amonkhet/AKH_Big_RG.cod
+Amonkhet/AKH_UG_Fortelling.cod
+Amonkhet/As-Foretold-Gerg.cod
+Amonkhet/B-Aggro.cod
+Amonkhet/JUND-Discard.cod
+Amonkhet/Mardu-Vehicles.cod
+Amonkhet/UG-EldraziRamp.cod
+Amonkhet/UG-WaterRamp.cod
+Amonkhet/UR-Control.cod
+Amonkhet/UR-Prowess.cod
+Amonkhet/UR-TurboFrost.cod
+Amonkhet/UW-Draw-Go.cod
+Amonkhet/as_foretold_sultai.cod
+Amonkhet/rdw.cod
+BattleForZendikar/Avarice.cod
+BattleForZendikar/G-Eldrazi-Ramp.cod
+BattleForZendikar/GR-Landfall.cod
+BattleForZendikar/Naya-Aggro.cod
+BattleForZendikar/Ringbreaker-2.cod
+BattleForZendikar/Ringbreaker-R.cod
+BattleForZendikar/Temur-Bigmur.cod
+BattleForZendikar/Temur-Bigmur2.cod
+BattleForZendikar/atarka-red.cod
+BattleForZendikar/collected-company-midrange.cod
+BattleForZendikar/convgerge.cod
+BattleForZendikar/goggles.cod
+BattleForZendikar/jeskai-aggro.cod
+BattleForZendikar/monoR-galli.cod
+BattleForZendikar/ringbreaker.cod
+BattleForZendikar/temur-black.cod
+BattleForZendikar/temur-gerg.cod
+BattleForZendikar/temur-sligh.cod
+BattleForZendikar/temur1.cod
+BattleForZendikar/temur_aggro_readercolin.cod
+BattleForZendikar/temur_megamorph_galli.cod
+BattleForZendikar/timewalker-jeskai.cod
+Dragons of Tarkir/B-Devotion.cod
+Dragons of Tarkir/Jeskai_Midrange.cod
+Dragons of Tarkir/bant_megamorph.cod
+Dragons of Tarkir/collected_company.cod
+Dragons of Tarkir/countertempo2.cod
+Dragons of Tarkir/dtk_burn-ideas.cod
+Dragons of Tarkir/dtk_burn.cod
+Dragons of Tarkir/green_b_devotion.cod
+Dragons of Tarkir/green_devotion.cod
+Dragons of Tarkir/green_u_devotion.cod
+Dragons of Tarkir/gu_morph.cod
+Dragons of Tarkir/gw_aggro.cod
+Dragons of Tarkir/monogreen_aggro.cod
+Dragons of Tarkir/outpost_burn.cod
+Dragons of Tarkir/sultai_whip.cod
+Dragons of Tarkir/temur_alpha_strike.cod
+Dragons of Tarkir/temur_ascendency.cod
+Dragons of Tarkir/temur_ascendent_company.cod
+Dragons of Tarkir/temur_control.cod
+Dragons of Tarkir/temur_countertempo.cod
+Dragons of Tarkir/timewalker_bant.cod
+Dragons of Tarkir/timewalker_dtk.cod
+Dragons of Tarkir/ur_counter_burn_tempo.cod
+Dragons of Tarkir/ur_counterburn.cod
+Dragons of Tarkir/ur_dragons.cod
+Dragons of Tarkir/warrior_tempo.cod
+DragonsOfTarkir/Jeskai_Midrange.cod
+DragonsOfTarkir/bant_megamorph.cod
+DragonsOfTarkir/collected_company.cod
+DragonsOfTarkir/countertempo2.cod
+DragonsOfTarkir/dtk_burn-ideas.cod
+DragonsOfTarkir/dtk_burn.cod
+DragonsOfTarkir/green_b_devotion.cod
+DragonsOfTarkir/green_devotion.cod
+DragonsOfTarkir/green_u_devotion.cod
+DragonsOfTarkir/gu_morph.cod
+DragonsOfTarkir/gw_aggro.cod
+DragonsOfTarkir/monogreen_aggro.cod
+DragonsOfTarkir/outpost_burn.cod
+DragonsOfTarkir/sultai_whip.cod
+DragonsOfTarkir/temur_ascendency.cod
+DragonsOfTarkir/temur_ascendent_company.cod
+DragonsOfTarkir/temur_control.cod
+DragonsOfTarkir/temur_countertempo.cod
+DragonsOfTarkir/timewalker_bant.cod
+DragonsOfTarkir/timewalker_dtk.cod
+DragonsOfTarkir/ur_counter_burn_tempo.cod
+DragonsOfTarkir/ur_counterburn.cod
+DragonsOfTarkir/ur_dragons.cod
+DragonsOfTarkir/warrior_tempo.cod
+Eldrich Moon/RU_Harness.cod
+Eldrich Moon/R_Sligh.cod
+Eldrich Moon/R_Sligh2.cod
+Eldrich Moon/Superfriends.cod
+Eldrich Moon/U-BIAJ.cod
+Eldrich Moon/UB_Zombies.cod
+Eldrich Moon/UG_Draw.cod
+Eldrich Moon/UG_Greg.cod
+Eldrich Moon/UR_Horrors.cod
+Eldrich Moon/UR_Machinegun.cod
+Eldrich Moon/UR_Spells.cod
+Eldrich Moon/UR_Spells2.cod
+Eldrich Moon/UW_Thopters.cod
+Eldrich Moon/WR_Tremors.cod
+Fate_Reforged/BIG UR COUTERBURN.cod
+Fate_Reforged/Fires.cod
+Fate_Reforged/Fires2.cod
+Fate_Reforged/FiresFRF.cod
+Fate_Reforged/Jeskai_Burn.cod
+Fate_Reforged/Jestkai_Tempo.cod
+Fate_Reforged/RDW_FRF.cod
+Fate_Reforged/RG_Monsters.cod
+Fate_Reforged/Riddle.cod
+Fate_Reforged/Riddle_Narset.cod
+Fate_Reforged/Sultai Reanimator by Shahar Shenhar.cod
+Fate_Reforged/UG Flash.cod
+Fate_Reforged/UR COUNTERBURN 2.cod
+Fate_Reforged/UR COUNTERBURN proactive.cod
+Fate_Reforged/UR smash.cod
+Fate_Reforged/blue-devotion.cod
+Fate_Reforged/green_machine.cod
+Fate_Reforged/green_machine_GR.cod
+Fate_Reforged/monored devotion - brad nelson.cod
+Fate_Reforged/monored devotion - huey jensen.cod
+Fate_Reforged/obelisk tinker.cod
+Fate_Reforged/sly_tinker.cod
+Fate_Reforged/sly_tinker2.cod
+Fate_Reforged/sly_tinkerFRF.cod
+Fate_Reforged/sultai_control.cod
+Fate_Reforged/timewalker.cod
+Fate_Reforged/tinker-ideas.cod
+Fate_Reforged/tinker.cod
+Inxala/esper-gift-pascal-maynard.cod
+Inxalan/5c-foretold.cod
+Inxalan/blue-cards.cod
+Inxalan/monoblack.cod
+Inxalan/ramunap-red.cod
+Inxalan/riddleform-tempo.cod
+Inxalan/ug-draw.cod
+Inxalan/ur-as-foretold.cod
+Inxalan/ur-control.cod
+Inxalan/ur-control2.cod
+Inxalan/ur-locust-god.cod
+JourneyIntoNyx/Ashiok Control.cod
+JourneyIntoNyx/Aurelia.cod
+JourneyIntoNyx/BG_Graveyard.cod
+JourneyIntoNyx/BR Beats.cod
+JourneyIntoNyx/BUG_Control.cod
+JourneyIntoNyx/BW_Baron_Angel.cod
+JourneyIntoNyx/BW_Humans.cod
+JourneyIntoNyx/Bant Control.cod
+JourneyIntoNyx/Blood Bairn.cod
+JourneyIntoNyx/Blood Bairn2.cod
+JourneyIntoNyx/CMC2.cod
+JourneyIntoNyx/Cyclops.cod
+JourneyIntoNyx/Deathrites.cod
+JourneyIntoNyx/GODMODE_U.cod
+JourneyIntoNyx/GR_Land_Destruction.cod
+JourneyIntoNyx/Godmode_G.cod
+JourneyIntoNyx/Godmode_R.cod
+JourneyIntoNyx/Izzet Midrange.cod
+JourneyIntoNyx/JOLLY GREEN 2.cod
+JourneyIntoNyx/JOLLY GREEN 3.cod
+JourneyIntoNyx/JOLLY GREEN GIANT.cod
+JourneyIntoNyx/MONOBLUE_TRIX.cod
+JourneyIntoNyx/Mike Flores Blue.cod
+JourneyIntoNyx/Monoblack.cod
+JourneyIntoNyx/Monoblack2.cod
+JourneyIntoNyx/RDW.cod
+JourneyIntoNyx/Sligh3.cod
+JourneyIntoNyx/Sligh_Burn.cod
+JourneyIntoNyx/Sligh_Red.cod
+JourneyIntoNyx/Sligh_heroic.cod
+JourneyIntoNyx/Trizzix.cod
+JourneyIntoNyx/Twin_Flame.cod
+JourneyIntoNyx/Twin_Flame_RG.cod
+JourneyIntoNyx/UB Discard.cod
+JourneyIntoNyx/UB_Trix.cod
+JourneyIntoNyx/UG_Flash.cod
+JourneyIntoNyx/UG_Flash_2.cod
+JourneyIntoNyx/UG_Flash_M15.cod
+JourneyIntoNyx/UG_TIME.cod
+JourneyIntoNyx/UR_Ember.cod
+JourneyIntoNyx/UR_GODS.cod
+JourneyIntoNyx/UR_NIVIX.cod
+JourneyIntoNyx/UR_NIVIX_2.cod
+JourneyIntoNyx/UR_NIVIX_TRIX.cod
+JourneyIntoNyx/UR_NIVIX_TRIX_1.cod
+JourneyIntoNyx/UW_Sligh.cod
+JourneyIntoNyx/Volatile_Rig.cod
+JourneyIntoNyx/Volatile_Rig2.cod
+JourneyIntoNyx/Voltron - Bant.cod
+JourneyIntoNyx/Voltron - Naiya.cod
+JourneyIntoNyx/fires.cod
+JourneyIntoNyx/monoblack_skillrats.cod
+Kaladesh/Aetherflux.cod
+Kaladesh/Aetherworks_Marvel.cod
+Kaladesh/BIAJ-U.cod
+Kaladesh/Bluedrazi.cod
+Kaladesh/Madcap_Marvel.cod
+Kaladesh/Madcap_Marvel1.cod
+Kaladesh/Temur_Titanworks.cod
+Kaladesh/UR-Dynavolt.cod
+Kaladesh/UR-Virtuoso.cod
+Kaladesh/UR-Virtuoso2.cod
+Kaladesh/UR-Visions1.cod
+Kaladesh/UR-Visions2.cod
+Kaladesh/UR-Visions3.cod
+Kaladesh/Uw-Prison.cod
+Kaladesh/biaj-ideas.cod
+Kaladesh/urtower.cod
+Khaladesh/UG-Splendid-Ramplemation.cod
+Khaladesh/UR-Visions.cod
+Khaladesh/ur-visions-2.cod
+Khans/Godmode_U.cod
+Khans/Khans_Tinker_cory.cod
+Khans/Quickling.cod
+Khans/oldKhans_Tinker1.cod
+Khans/oldkhan_tinker.cod
+Legacy/21.cod
+Legacy/TheDarkness-ideas.cod
+Legacy/TheDarkness.cod
+Legacy/hatred_legacy.cod
+Legacy/noLands.cod
+Modern/Ensoul.cod
+Modern/burn.cod
+Oath/Demonic-Pact.cod
+Oath/UR-Control-burn.cod
+Oath/UR-Control.cod
+Oath/UR-Prowess-LayaMonarez.cod
+Oath/UR-Prowess-RossMeriam.cod
+Oath/UR-Prowess.cod
+Oath/URb-Prowess.cod
+Oath/URg-Prowess.cod
+Oath/URg-Prowess1.cod
+Oath/URw-Prowess.cod
+Oath/bant-coco.cod
+Oath/coco-bant.cod
+Oath/control.cod
+Origins/B-Devotion.cod
+Origins/GR_Devotion.cod
+Origins/R_Control.cod
+Origins/SphinxTutelage.cod
+Origins/U R-TinkerSligh.cod
+Origins/U-Tinker.cod
+Origins/UG-Flash-Greg.cod
+Origins/UG-Flash.cod
+Origins/UG-Flash2.cod
+Origins/UG-Flash3.cod
+Origins/UG_Days.cod
+Origins/UR-Tinker.cod
+Origins/UR-engineer.cod
+Origins/UR_Burn.cod
+Origins/UR_Burn2.cod
+Origins/U_Days.cod
+Origins/Wb_Devotion.cod
+Origins/act-of-the-husk.cod
+Origins/boros_aggro.cod
+Origins/goggle_ideas.cod
+Origins/goggles.cod
+Origins/goggles_5c.cod
+Origins/goggles_rw.cod
+Origins/goggles_temur.cod
+Origins/jund_delve.cod
+Origins/origins bombs.cod
+Origins/temur1.cod
+Origins/temur_gerg.cod
+Origins/temur_reddit.cod
+Origins/timewalker_jeskai.cod
+Origins/ur-chimera.cod
+Rivals_of_Ixalan/5c-foretold.cod
+Rivals_of_Ixalan/5c-foretold2-ideas.cod
+Rivals_of_Ixalan/5c-foretold2.cod
+Rivals_of_Ixalan/UR-Fliers.cod
+Rivals_of_Ixalan/dimir-artifacts.cod
+Rivals_of_Ixalan/favorable-winds-2.cod
+Rivals_of_Ixalan/favorable-winds-3.cod
+Rivals_of_Ixalan/favorable-winds-4.cod
+Rivals_of_Ixalan/favorable-winds-5.cod
+Rivals_of_Ixalan/favorable-winds-6.cod
+Rivals_of_Ixalan/favorable-winds.cod
+Rivals_of_Ixalan/god-pharohs-gift.cod
+Rivals_of_Ixalan/god-pharohs.cod
+Rivals_of_Ixalan/grixis-amulet.cod
+Rivals_of_Ixalan/metalwork.cod
+Rivals_of_Ixalan/metalwork2.cod
+Rivals_of_Ixalan/mono-u-foretold.cod
+Rivals_of_Ixalan/mono-u-foretold2.cod
+Rivals_of_Ixalan/rb-punisher-v1.cod
+Rivals_of_Ixalan/rb-punisher-v2.cod
+Rivals_of_Ixalan/rb-punisher-v3.cod
+Rivals_of_Ixalan/rb-punisher.cod
+Rivals_of_Ixalan/rg-monsters.cod
+Rivals_of_Ixalan/rix_bant_cartouche.cod
+Rivals_of_Ixalan/rix_uw_cartouche.cod
+Rivals_of_Ixalan/rug-prowess.cod
+Rivals_of_Ixalan/sultai-constrictor.cod
+Rivals_of_Ixalan/sultai.cod
+Rivals_of_Ixalan/temur-counters.cod
+Rivals_of_Ixalan/ug-draw.cod
+Shadows/BIAJ-B.cod
+Shadows/BIAJ-GR.cod
+Shadows/BIAJ-RB.cod
+Shadows/BIAJ-U.cod
+Shadows/BIAJ-UB.cod
+Shadows/BIAJ-UR.cod
+Shadows/BIAJ-UW.cod
+Shadows/BIAJ-esper.cod
+Shadows/BUG-Frog.cod
+Shadows/Eldrazi.cod
+Shadows/GR-Goggles-tokens.cod
+Shadows/MonoBlack.cod
+Shadows/RG-Eldrazi.cod
+Shadows/RW-Goggles.cod
+Shadows/Spirits.cod
+Shadows/TurboTits.cod
+Shadows/U-Eldrazi.cod
+Shadows/UG-Evoleap.cod
+Shadows/UR-BIAJ-LD.cod
+Shadows/UR-Control-Anderson.cod
+Shadows/UR-Fevered-Visions.cod
+Shadows/UR-Flyers-Saito.cod
+Shadows/UR-Flyers-Tomoharu-Saito.cod
+Shadows/UR-Goggles-2.cod
+Shadows/UR-Goggles-Tod-Anderson.cod
+Shadows/UR-Goggles-tokens.cod
+Shadows/UR-Googles.cod
+Shadows/UR-Madness.cod
+Shadows/UR-True-Madness.cod
+Shadows/UR-Visions.cod
+Shadows/URW-Visions-Control.cod
+Shadows/UW_Flyers.cod
+Shadows/Waterveil-Ramp.cod
+Shadows/Willbreaker.cod
+Shadows/brain in a jar.cod
+Shadows/sultai-frog.cod
+Theros/Artisan of Forms.cod
+Theros/BIG RED.cod
+Theros/Big Green.cod
+Theros/Enbantments.cod
+Theros/Esper Control.cod
+Theros/Ethereal_Armor.cod
+Theros/Evolve.cod
+Theros/EvolveOmancer - theros.cod
+Theros/Greg's RU.cod
+Theros/Master of the Elements.cod
+Theros/MonoBlueDevotion.cod
+Theros/Niv-mizzet.cod
+Theros/Obsedot Whip.cod
+Theros/Obsedot whip2.cod
+Theros/Prophet.cod
+Theros/RED - Midrange - theros.cod
+Theros/RG_Hammer IRL.cod
+Theros/RG_Hammer Test.cod
+Theros/Red Deck Ties - theros.cod
+Theros/Red Deck Wins -internet.cod
+Theros/Red devotion - pt dublin theros.cod
+Theros/Rg hammer aggro.cod
+Theros/WW - theros.cod
+Theros/Young Pyromancer 5.cod
+Theros/Young Pyromancer.cod
+Theros/Younger Pyromancer2.cod
+Theros/Youngest Pyromancer 3.cod
+Theros/boros avenger.cod
+Theros/monoblack necro.cod
+Theros/necro 2.cod
+Theros/necro cycle.cod
+Theros/rackdos ideas.cod
+Theros/theros red ideas.cod
+Theros/young pyromancer 4.cod
+old/BR Fliers ideas.cod
+old/BR Fliers.cod
+old/BR Fliers2.cod
+old/GloryCombo.cod
+old/Pay the Price.cod
+old/Sly.cod
+old/jund.cod
