@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>big-red</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Abrade"/>
+        <card number="2" name="Aethersphere Harvester"/>
+        <card number="1" name="Captain Lannery Storm"/>
+        <card number="2" name="Chandra, Torch of Defiance"/>
+        <card number="3" name="Dire Fleet Daredevil"/>
+        <card number="3" name="Earthshaker Khenra"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="4" name="Glorybringer"/>
+        <card number="2" name="Grasping Dunes"/>
+        <card number="1" name="Hazoret the Fervent"/>
+        <card number="4" name="Magma Spray"/>
+        <card number="19" name="Mountain"/>
+        <card number="3" name="Pia Nalaar"/>
+        <card number="4" name="Rekindling Phoenix"/>
+        <card number="3" name="Scavenger Grounds"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="3" name="Walking Ballista"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Chandra's Defeat"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="1" name="Crook of Condemnation"/>
+        <card number="1" name="Fiery Cannonade"/>
+        <card number="2" name="Hour of Devastation"/>
+        <card number="3" name="Puncturing Blow"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="2" name="Soul-Scar Mage"/>
+        <card number="2" name="Sweltering Suns"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="2" name="Vance's Blasting Cannons"/>
+    </zone>
+</cockatrice_deck>
