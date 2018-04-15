@@ -35,5 +35,6 @@
         <card number="2" name="Unwind"/>
         <card number="1" name="Timestream Navigator"/>
         <card number="1" name="Merfolk Trickster"/>
+        <card number="2" name="Abrade"/>
     </zone>
 </cockatrice_deck>
