@@ -3,39 +3,38 @@
     <deckname>wizards</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" name="Adeliz, the Cinder Wind"/>
+        <card number="4" name="Adeliz, the Cinder Wind"/>
         <card number="2" name="Fight with Fire"/>
-        <card number="3" name="Naban, Dean of Iteration"/>
-        <card number="3" name="Naru Meha, Master Wizard"/>
-        <card number="1" name="Precognition Field"/>
-        <card number="4" name="Shivan Fire"/>
-        <card number="2" name="Syncopate"/>
-        <card number="2" name="Unwind"/>
-        <card number="2" name="Vodalian Arcanist"/>
+        <card number="2" name="Naru Meha, Master Wizard"/>
+        <card number="2" name="Precognition Field"/>
+        <card number="3" name="Shivan Fire"/>
+        <card number="1" name="Syncopate"/>
+        <card number="3" name="Vodalian Arcanist"/>
         <card number="4" name="Wizard's Lightning"/>
         <card number="2" name="Wizard's Retort"/>
         <card number="4" name="Spirebluff Canal"/>
         <card number="4" name="Ipnu Rivulet"/>
         <card number="9" name="Island"/>
         <card number="7" name="Mountain"/>
-        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="3" name="Baral, Chief of Compliance"/>
         <card number="2" name="Seeker of Insight"/>
-        <card number="3" name="Soul-Scar Mage"/>
-        <card number="1" name="Merfolk Trickster"/>
-        <card number="4" name="Champion of Wits"/>
+        <card number="3" name="Champion of Wits"/>
         <card number="1" name="Nimble Obstructionist"/>
+        <card number="3" name="Pull from Tomorrow"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fight with Fire"/>
-        <card number="2" name="Karn's Temporal Sundering"/>
-        <card number="2" name="Syncopate"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Syncopate"/>
         <card number="2" name="Wizard's Retort"/>
-        <card number="3" name="Blink of an Eye"/>
-        <card number="2" name="Academy Journeymage"/>
-        <card number="3" name="Ghitu Lavarunner"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="1" name="Academy Journeymage"/>
         <card number="2" name="Siren Stormtamer"/>
         <card number="1" name="Firefist Adept"/>
         <card number="2" name="Unwind"/>
         <card number="1" name="Timestream Navigator"/>
+        <card number="1" name="Merfolk Trickster"/>
+        <card number="2" name="Abrade"/>
     </zone>
 </cockatrice_deck>
