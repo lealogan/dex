@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>wizards-naban</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Naban, Dean of Iteration"/>
+        <card number="4" name="Metallic Mimic"/>
+        <card number="3" name="Panharmonicon"/>
+        <card number="2" name="Merfolk Trickster"/>
+        <card number="4" name="Silvergill Adept"/>
+        <card number="4" name="Riverwise Augur"/>
+        <card number="4" name="Watertrap Weaver"/>
+        <card number="4" name="Wizard's Retort"/>
+        <card number="14" name="Island"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="1" name="Search for Azcanta"/>
+        <card number="2" name="Saheeli Rai"/>
+        <card number="3" name="Spirebluff Canal"/>
+        <card number="4" name="Wizard's Lightning"/>
+        <card number="3" name="Sulfur Falls"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Seafloor Oracle"/>
+        <card number="2" name="Champion of Wits"/>
+        <card number="4" name="Syncopate"/>
+        <card number="2" name="Commit // Memory"/>
+    </zone>
+</cockatrice_deck>
