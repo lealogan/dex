@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>timewarp</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Karn's Temporal Sundering"/>
+        <card number="2" name="Timestream Navigator"/>
+        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="3" name="Saheeli Rai"/>
+        <card number="3" name="Treasure Map"/>
+        <card number="4" name="Supreme Will"/>
+        <card number="2" name="Fight with Fire"/>
+        <card number="2" name="The Mirari Conjecture"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="11" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="4" name="Harnessed Lightning"/>
+        <card number="2" name="Confiscation Coup"/>
+        <card number="3" name="Baral, Chief of Compliance"/>
+        <card number="4" name="Mox Amber"/>
+        <card number="1" name="Neheb, the Eternal"/>
+        <card number="1" name="The Locust God"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Insidious Will"/>
+        <card number="3" name="Sweltering Suns"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="2" name="Hour of Devastation"/>
+        <card number="2" name="Commit // Memory"/>
+        <card number="3" name="Abrade"/>
+        <card number="1" name="Confiscation Coup"/>
+    </zone>
+</cockatrice_deck>
