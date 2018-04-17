@@ -13,24 +13,24 @@
         <card number="4" name="Wizard's Lightning"/>
         <card number="2" name="Wizard's Retort"/>
         <card number="4" name="Spirebluff Canal"/>
-        <card number="4" name="Ipnu Rivulet"/>
+        <card number="2" name="Ipnu Rivulet"/>
         <card number="9" name="Island"/>
         <card number="7" name="Mountain"/>
         <card number="3" name="Baral, Chief of Compliance"/>
         <card number="2" name="Seeker of Insight"/>
         <card number="3" name="Champion of Wits"/>
-        <card number="1" name="Nimble Obstructionist"/>
         <card number="3" name="Pull from Tomorrow"/>
         <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="3" name="Mox Amber"/>
     </zone>
     <zone name="side">
         <card number="1" name="Fight with Fire"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Syncopate"/>
-        <card number="2" name="Wizard's Retort"/>
+        <card number="1" name="Wizard's Retort"/>
         <card number="2" name="Blink of an Eye"/>
         <card number="1" name="Academy Journeymage"/>
-        <card number="2" name="Siren Stormtamer"/>
+        <card number="1" name="Siren Stormtamer"/>
         <card number="1" name="Firefist Adept"/>
         <card number="2" name="Unwind"/>
         <card number="1" name="Timestream Navigator"/>
