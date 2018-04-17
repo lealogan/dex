@@ -64,6 +64,7 @@ def extract_mana_from_deck(deckname, deck, dall):
 
     cmc_avg = sum(djoin.num * djoin.cmc) / nonlands
     cmc_dist = djoin.groupby(djoin.cmc).sum().transpose()
+    cmc_dist[0] = cmc_dist[0] - numlands
     # Calc cmc_avg from the histogram
     # del cmc_dist[0]
     # cmc_dist = cmc_dist.transpose()
@@ -75,11 +76,13 @@ def extract_mana_from_deck(deckname, deck, dall):
     return (0, cmc_dist)
 
 
+'''
 decks_to_parse = [
-        'Rivals_of_Ixalan/rug-prowess.cod',
-        # 'Rivals_of_Ixalan/ug-draw.cod'
-        'Rivals_of_Ixalan/rg-monsters.cod'
-    ]
+    # 'Rivals_of_Ixalan/rug-prowess.cod',
+    'Rivals_of_Ixalan/metalwork.cod',
+    # 'Rivals_of_Ixalan/ug-draw.cod'
+    # 'Rivals_of_Ixalan/rg-monsters.cod'
+] '''
 decks_to_parse = open('deckpaths.txt')
 decks_to_parse = decks_to_parse.readlines()
 dall = pd.read_json('allcards.json').transpose()
@@ -104,5 +107,5 @@ dmana.set_index('deckname', inplace=True)
 cols = ['numlands', 'cmc_avg'] + \
        [i for i in set(dmana.columns) - set(['cmc_avg', 'numlands'])]
 dmana = dmana[cols]
-print(dmana)
+# print(dmana)
 dmana.to_csv('manacosts.csv')
