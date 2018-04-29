@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>storm</deckname>
+    <comments>https://www.reddit.com/r/spikes/comments/8fnyvs/standard_ur_storm_im_not_drunk_trust_me/</comments>
+    <zone name="main">
+        <card number="2" name="Abrade"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="2" name="Disallow"/>
+        <card number="2" name="Field of Ruin"/>
+        <card number="2" name="Fight with Fire"/>
+        <card number="2" name="Hungry Flames"/>
+        <card number="7" name="Island"/>
+        <card number="1" name="Jaya Ballard"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="7" name="Mountain"/>
+        <card number="4" name="Opt"/>
+        <card number="2" name="Primal Amulet"/>
+        <card number="2" name="Search for Azcanta"/>
+        <card number="4" name="Secrets of the Golden City"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="2" name="The Mirari Conjecture"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Mox Amber"/>
+        <card number="3" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="2" name="Spell Swindle"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Sweltering Suns"/>
+        <card number="2" name="Hour of Devastation"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="2" name="Negate"/>
+        <card number="1" name="Refuse // Cooperate"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Disallow"/>
+        <card number="2" name="Hungry Flames"/>
+        <card number="1" name="Jaya's Immolating Inferno"/>
+        <card number="2" name="Magma Spray"/>
+    </zone>
+</cockatrice_deck>

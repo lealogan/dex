@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>historic</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Metalwork Colossus"/>
+        <card number="2" name="Karn, Scion of Urza"/>
+        <card number="4" name="Powerstone Shard"/>
+        <card number="1" name="Paradox Engine"/>
+        <card number="2" name="Pull from Tomorrow"/>
+        <card number="2" name="Jhoira, Weatherlight Captain"/>
+        <card number="2" name="Weatherlight"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="2" name="Treasure Map"/>
+        <card number="4" name="Prophetic Prism"/>
+        <card number="4" name="Traxos, Scourge of Kroog"/>
+        <card number="3" name="Voltaic Servant"/>
+        <card number="4" name="Deep Freeze"/>
+        <card number="15" name="Island"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="4" name="Spire of Industry"/>
+        <card number="2" name="Arch of Orazca"/>
+        <card number="2" name="Field of Ruin"/>
+        <card number="2" name="The Scarab God"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Unwind"/>
+        <card number="1" name="Karn's Temporal Sundering"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Negate"/>
+        <card number="2" name="Scavenger Grounds"/>
+        <card number="4" name="Essence Scatter"/>
+        <card number="1" name="Cogwork Assembler"/>
+        <card number="2" name="Grasping Dunes"/>
+    </zone>
+</cockatrice_deck>
