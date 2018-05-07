@@ -15,19 +15,20 @@
         <card number="4" name="Opt"/>
         <card number="3" name="Ghitu Lavarunner"/>
         <card number="2" name="Siren Stormtamer"/>
-        <card number="4" name="Mox Amber"/>
+        <card number="3" name="Mox Amber"/>
         <card number="2" name="Kari Zev, Skyship Raider"/>
         <card number="2" name="Chandra, Torch of Defiance"/>
         <card number="4" name="Sulfur Falls"/>
+        <card number="1" name="Champion of Wits"/>
     </zone>
     <zone name="side">
         <card number="2" name="Chandra's Defeat"/>
-        <card number="1" name="Unsummon"/>
+        <card number="2" name="Unsummon"/>
         <card number="2" name="Spell Pierce"/>
-        <card number="3" name="Negate"/>
         <card number="2" name="Merfolk Trickster"/>
         <card number="2" name="Chart a Course"/>
         <card number="2" name="Wizard's Retort"/>
-        <card number="1" name="Nimble Obstructionist"/>
+        <card number="2" name="Essence Scatter"/>
+        <card number="1" name="Champion of Wits"/>
     </zone>
 </cockatrice_deck>
