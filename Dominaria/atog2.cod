@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>atog2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Bomat Courier"/>
+        <card number="4" name="Chief of the Foundry"/>
+        <card number="2" name="Foundry Inspector"/>
+        <card number="3" name="Hope of Ghirapur"/>
+        <card number="4" name="Ravenous Intruder"/>
+        <card number="4" name="Scrapheap Scrounger"/>
+        <card number="4" name="Unlicensed Disintegration"/>
+        <card number="4" name="Fleetwheel Cruiser"/>
+        <card number="4" name="Key to the City"/>
+        <card number="4" name="Dragonskull Summit"/>
+        <card number="8" name="Mountain"/>
+        <card number="4" name="Sunscorched Desert"/>
+        <card number="7" name="Swamp"/>
+        <card number="4" name="Filigree Familiar"/>
+        <card number="4" name="Oviya Pashiri, Sage Lifecrafter"/>
+        <card number="4" name="Mox Amber"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Duress"/>
+        <card number="3" name="Lost Legacy"/>
+        <card number="4" name="Essence Extraction"/>
+        <card number="4" name="Lightning Strike"/>
+    </zone>
+</cockatrice_deck>
