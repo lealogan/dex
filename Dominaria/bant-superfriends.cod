@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Gideon of the Trials"/>
+        <card number="3" name="Nissa, Steward of Elements"/>
+        <card number="2" name="Teferi, Hero of Dominaria"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="3" name="Seal Away"/>
+        <card number="4" name="Oath of Teferi"/>
+        <card number="3" name="Unsummon"/>
+        <card number="4" name="Opt"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="4" name="Board the Weatherlight"/>
+        <card number="1" name="Grow from the Ashes"/>
+        <card number="3" name="Settle the Wreckage"/>
+        <card number="3" name="Fumigate"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="4" name="Glacial Fortress"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="3" name="Irrigated Farmland"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Forest"/>
+        <card number="6" name="Plains"/>
+        <card number="2" name="Karn, Scion of Urza"/>
+        <card number="1" name="Dovin Baan"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Authority of the Consuls"/>
+    </zone>
+</cockatrice_deck>

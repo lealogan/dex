@@ -4,9 +4,8 @@
     <comments></comments>
     <zone name="main">
         <card number="2" name="Karn's Temporal Sundering"/>
-        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Chandra, Torch of Defiance"/>
         <card number="4" name="Supreme Will"/>
-        <card number="2" name="Fight with Fire"/>
         <card number="2" name="The Mirari Conjecture"/>
         <card number="4" name="Spirebluff Canal"/>
         <card number="4" name="Sulfur Falls"/>
@@ -20,15 +19,18 @@
         <card number="4" name="Powerstone Shard"/>
         <card number="4" name="Rekindling Phoenix"/>
         <card number="1" name="Pull from Tomorrow"/>
-        <card number="1" name="Karn, Scion of Urza"/>
+        <card number="2" name="Karn, Scion of Urza"/>
+        <card number="1" name="Sunbird's Invocation"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Insidious Will"/>
+        <card number="1" name="Insidious Will"/>
         <card number="2" name="Lightning Strike"/>
-        <card number="2" name="Commit // Memory"/>
+        <card number="1" name="Commit // Memory"/>
         <card number="3" name="Abrade"/>
         <card number="1" name="Confiscation Coup"/>
         <card number="1" name="Hour of Devastation"/>
         <card number="1" name="Sweltering Suns"/>
+        <card number="3" name="Negate"/>
+        <card number="2" name="Fight with Fire"/>
     </zone>
 </cockatrice_deck>
