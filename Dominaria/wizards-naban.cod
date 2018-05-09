@@ -24,11 +24,12 @@
     </zone>
     <zone name="side">
         <card number="1" name="Seafloor Oracle"/>
-        <card number="2" name="Champion of Wits"/>
-        <card number="4" name="Syncopate"/>
+        <card number="1" name="Champion of Wits"/>
+        <card number="2" name="Syncopate"/>
         <card number="2" name="Commit // Memory"/>
-        <card number="3" name="Kopala, Warden of Waves"/>
+        <card number="2" name="Kopala, Warden of Waves"/>
         <card number="2" name="Abrade"/>
         <card number="1" name="Merfolk Trickster"/>
+        <card number="4" name="Puncturing Blow"/>
     </zone>
 </cockatrice_deck>
