@@ -4,29 +4,34 @@
     <comments></comments>
     <zone name="main">
         <card number="3" name="Precognition Field"/>
-        <card number="3" name="As Foretold"/>
+        <card number="4" name="As Foretold"/>
         <card number="4" name="Opt"/>
-        <card number="3" name="Negate"/>
-        <card number="3" name="Essence Scatter"/>
-        <card number="4" name="Unsummon"/>
-        <card number="2" name="Baral's Expertise"/>
-        <card number="4" name="Skyship Plunderer"/>
-        <card number="1" name="River's Rebuke"/>
-        <card number="1" name="Confiscation Coup"/>
-        <card number="2" name="Glimmer of Genius"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Essence Scatter"/>
+        <card number="3" name="Skyship Plunderer"/>
+        <card number="3" name="Confiscation Coup"/>
         <card number="1" name="Spell Pierce"/>
         <card number="2" name="Censor"/>
         <card number="18" name="Island"/>
         <card number="3" name="Field of Ruin"/>
-        <card number="3" name="Arch of Orazca"/>
-        <card number="3" name="Blink of an Eye"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="2" name="Torrential Gearhulk"/>
+        <card number="3" name="Entrancing Melody"/>
+        <card number="3" name="Strategic Planning"/>
+        <card number="2" name="Supreme Will"/>
+        <card number="2" name="Champion of Wits"/>
     </zone>
     <zone name="side">
-        <card number="3" name="River's Rebuke"/>
-        <card number="2" name="Confiscation Coup"/>
-        <card number="3" name="Spell Swindle"/>
+        <card number="2" name="River's Rebuke"/>
+        <card number="1" name="Confiscation Coup"/>
+        <card number="2" name="Spell Swindle"/>
         <card number="2" name="Spell Pierce"/>
         <card number="2" name="Baral's Expertise"/>
-        <card number="3" name="Entrancing Melody"/>
+        <card number="1" name="Entrancing Melody"/>
+        <card number="2" name="Unsummon"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Glimmer of Genius"/>
+        <card number="1" name="Negate"/>
     </zone>
 </cockatrice_deck>

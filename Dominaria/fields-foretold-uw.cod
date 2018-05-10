@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>fields-foretold-uw</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Precognition Field"/>
+        <card number="3" name="As Foretold"/>
+        <card number="4" name="Opt"/>
+        <card number="2" name="Negate"/>
+        <card number="3" name="Essence Scatter"/>
+        <card number="4" name="Unsummon"/>
+        <card number="4" name="Skyship Plunderer"/>
+        <card number="1" name="Confiscation Coup"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="2" name="Censor"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="4" name="Glacial Fortress"/>
+        <card number="9" name="Plains"/>
+        <card number="3" name="Settle the Wreckage"/>
+        <card number="3" name="Torrential Gearhulk"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="River's Rebuke"/>
+        <card number="2" name="Confiscation Coup"/>
+        <card number="1" name="Spell Swindle"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Entrancing Melody"/>
+        <card number="2" name="Fumigate"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="2" name="Invoke the Divine"/>
+        <card number="2" name="Fragmentize"/>
+        <card number="1" name="Farm // Market"/>
+    </zone>
+</cockatrice_deck>
