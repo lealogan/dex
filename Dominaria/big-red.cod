@@ -11,11 +11,11 @@
         <card number="4" name="Rekindling Phoenix"/>
         <card number="4" name="Fight with Fire"/>
         <card number="4" name="Abrade"/>
-        <card number="2" name="Gilded Lotus"/>
+        <card number="1" name="Gilded Lotus"/>
         <card number="3" name="Field of Ruin"/>
         <card number="2" name="Arch of Orazca"/>
         <card number="2" name="Grasping Dunes"/>
-        <card number="2" name="The Immortal Sun"/>
+        <card number="3" name="The Immortal Sun"/>
         <card number="2" name="Glorybringer"/>
         <card number="2" name="Treasure Map"/>
     </zone>
@@ -23,13 +23,11 @@
         <card number="1" name="Hour of Devastation"/>
         <card number="1" name="Sweltering Suns"/>
         <card number="3" name="Magma Spray"/>
-        <card number="1" name="Karn, Scion of Urza"/>
-        <card number="1" name="Form of the Dinosaur"/>
-        <card number="1" name="Chandra, Torch of Defiance"/>
         <card number="2" name="Lightning Strike"/>
-        <card number="1" name="The Immortal Sun"/>
         <card number="1" name="Glorybringer"/>
         <card number="1" name="Sunbird's Invocation"/>
-        <card number="2" name="Shivan Fire"/>
+        <card number="1" name="Shivan Fire"/>
+        <card number="2" name="Goblin Chainwhirler"/>
+        <card number="2" name="Walking Ballista"/>
     </zone>
 </cockatrice_deck>

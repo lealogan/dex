@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ur-legends</deckname>
+    <comments>pascal maynard
+https://www.massdrop.com/talk/7792/brewing-standard-with-dominaria?utm_source=mtg&amp;utm_medium=influencer&amp;utm_campaign=talkposts&amp;utm_term=15630</comments>
+    <zone name="main">
+        <card number="4" name="Chandra, Torch of Defiance"/>
+        <card number="3" name="Jaya Ballard"/>
+        <card number="2" name="Fight with Fire"/>
+        <card number="2" name="Jaya's Immolating Inferno"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="3" name="Adeliz, the Cinder Wind"/>
+        <card number="4" name="Baral, Chief of Compliance"/>
+        <card number="4" name="Syncopate"/>
+        <card number="2" name="Karn's Temporal Sundering"/>
+        <card number="4" name="Glimmer of Genius"/>
+        <card number="4" name="Harnessed Lightning"/>
+        <card number="4" name="Aether Hub"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="4" name="Island"/>
+        <card number="10" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Sweltering Suns"/>
+        <card number="4" name="Negate"/>
+        <card number="2" name="Search for Azcanta"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="2" name="Hour of Devastation"/>
+        <card number="3" name="Confiscation Coup"/>
+    </zone>
+</cockatrice_deck>
