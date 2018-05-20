@@ -28,5 +28,6 @@ https://www.massdrop.com/talk/7792/brewing-standard-with-dominaria?utm_source=mt
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="2" name="Hour of Devastation"/>
         <card number="3" name="Confiscation Coup"/>
+        <card number="1" name="Dynavolt Tower"/>
     </zone>
 </cockatrice_deck>

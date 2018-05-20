@@ -7,7 +7,6 @@
         <card number="2" name="Karn, Scion of Urza"/>
         <card number="4" name="Powerstone Shard"/>
         <card number="1" name="Paradox Engine"/>
-        <card number="2" name="Pull from Tomorrow"/>
         <card number="2" name="Jhoira, Weatherlight Captain"/>
         <card number="2" name="Weatherlight"/>
         <card number="1" name="Skysovereign, Consul Flagship"/>
@@ -24,6 +23,7 @@
         <card number="2" name="Arch of Orazca"/>
         <card number="2" name="Field of Ruin"/>
         <card number="2" name="The Scarab God"/>
+        <card number="2" name="Overflowing Insight"/>
     </zone>
     <zone name="side">
         <card number="3" name="Unwind"/>
