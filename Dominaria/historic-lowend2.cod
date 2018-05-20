@@ -6,8 +6,8 @@ Foundry Inspector
 
 Black for Unlicesnsed Disentigration</comments>
     <zone name="main">
-        <card number="2" name="Karn, Scion of Urza"/>
-        <card number="2" name="Traxos, Scourge of Kroog"/>
+        <card number="3" name="Karn, Scion of Urza"/>
+        <card number="3" name="Traxos, Scourge of Kroog"/>
         <card number="4" name="Spire of Industry"/>
         <card number="4" name="Zhalfirin Void"/>
         <card number="5" name="Mountain"/>
@@ -21,15 +21,13 @@ Black for Unlicesnsed Disentigration</comments>
         <card number="4" name="Unlicensed Disintegration"/>
         <card number="4" name="Dragonskull Summit"/>
         <card number="5" name="Swamp"/>
-        <card number="2" name="Heart of Kiran"/>
     </zone>
     <zone name="side">
         <card number="3" name="Abrade"/>
         <card number="2" name="Weatherlight"/>
         <card number="1" name="Karn, Scion of Urza"/>
         <card number="3" name="Aethersphere Harvester"/>
-        <card number="1" name="Heart of Kiran"/>
-        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="2" name="Heart of Kiran"/>
         <card number="3" name="Duress"/>
         <card number="1" name="Release the Gremlins"/>
     </zone>
