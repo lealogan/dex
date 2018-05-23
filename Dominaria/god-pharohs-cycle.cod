@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>god-pharohs-cycle</deckname>
+    <comments>Cockatrice user: Slippie
+</comments>
+    <zone name="main">
+        <card number="2" name="God-Pharaoh's Gift"/>
+        <card number="4" name="Gate to the Afterlife"/>
+        <card number="4" name="Horror of the Broken Lands"/>
+        <card number="4" name="Archfiend of Ifnir"/>
+        <card number="4" name="Lurching Rotbeast"/>
+        <card number="4" name="Hollow One"/>
+        <card number="4" name="Vile Manifestation"/>
+        <card number="4" name="Walking Ballista"/>
+        <card number="4" name="Banewhip Punisher"/>
+        <card number="2" name="Ruthless Sniper"/>
+        <card number="4" name="Vraska's Contempt"/>
+        <card number="4" name="Desert of the Glorified"/>
+        <card number="4" name="Ifnir Deadlands"/>
+        <card number="10" name="Swamp"/>
+        <card number="2" name="Grasping Dunes"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sorcerous Spyglass"/>
+        <card number="4" name="Kitesail Freebooter"/>
+        <card number="2" name="Deadeye Tracker"/>
+        <card number="2" name="Dreamstealer"/>
+        <card number="4" name="Gifted Aetherborn"/>
+        <card number="1" name="Ruthless Sniper"/>
+    </zone>
+</cockatrice_deck>
