@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>lichs-mastery-wb</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Archfiend of Ifnir"/>
+        <card number="3" name="Arguel's Blood Fast"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Demonlord Belzenlok"/>
+        <card number="4" name="Desert of the Glorified"/>
+        <card number="4" name="Desert of the True"/>
+        <card number="3" name="Doomfall"/>
+        <card number="3" name="Faith of the Devoted"/>
+        <card number="2" name="Isolated Chapel"/>
+        <card number="2" name="Lich's Mastery"/>
+        <card number="2" name="Memorial to Folly"/>
+        <card number="4" name="Moment of Craving"/>
+        <card number="3" name="Plains"/>
+        <card number="2" name="Profane Procession"/>
+        <card number="2" name="Razaketh, the Foulblooded"/>
+        <card number="2" name="Settle the Wreckage"/>
+        <card number="9" name="Swamp"/>
+        <card number="4" name="Vile Manifestation"/>
+        <card number="4" name="Vona, Butcher of Magan"/>
+        <card number="2" name="Vraska's Contempt"/>
+        <card number="4" name="Gifted Aetherborn"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Doomfall"/>
+        <card number="3" name="Duress"/>
+        <card number="2" name="Fatal Push"/>
+        <card number="2" name="Fumigate"/>
+        <card number="4" name="Invoke the Divine"/>
+        <card number="3" name="Lost Legacy"/>
+    </zone>
+</cockatrice_deck>
