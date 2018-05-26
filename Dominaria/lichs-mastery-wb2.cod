@@ -3,53 +3,40 @@
     <deckname>lichs-mastery-wb2</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" name="Arguel's Blood Fast"/>
+        <card number="1" name="Arguel's Blood Fast"/>
         <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Demonlord Belzenlok"/>
-        <card number="4" name="Desert of the Glorified"/>
-        <card number="4" name="Desert of the True"/>
         <card number="3" name="Doomfall"/>
-        <card number="2" name="Isolated Chapel"/>
+        <card number="4" name="Isolated Chapel"/>
         <card number="2" name="Lich's Mastery"/>
-        <card number="2" name="Memorial to Folly"/>
-        <card number="4" name="Moment of Craving"/>
-        <card number="3" name="Plains"/>
-        <card number="3" name="Profane Procession"/>
-        <card number="2" name="Razaketh, the Foulblooded"/>
-        <card number="2" name="Settle the Wreckage"/>
-        <card number="9" name="Swamp"/>
-        <card number="4" name="Vona, Butcher of Magan"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="2" name="Moment of Craving"/>
+        <card number="5" name="Plains"/>
+        <card number="2" name="Profane Procession"/>
+        <card number="14" name="Swamp"/>
+        <card number="3" name="Vona, Butcher of Magan"/>
         <card number="4" name="Vraska's Contempt"/>
         <card number="4" name="Gifted Aetherborn"/>
-        <card number="3" name="Battle at the Bridge"/>
         <card number="4" name="Glint-Sleeve Siphoner"/>
-        <card number="3" name="Knight of Malice"/>
-        <card number="2" name="Golden Demise"/>
-        <card number="2" name="Arterial Flow"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="2" name="Ravenous Chupacabra"/>
         <card number="2" name="Gonti, Lord of Luxury"/>
         <card number="4" name="Twilight Prophet"/>
-        <card number="1" name="Aryel, Knight of Windgrace"/>
+        <card number="3" name="Lyra Dawnbringer"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Doomfall"/>
-        <card number="3" name="Duress"/>
-        <card number="3" name="Fatal Push"/>
-        <card number="2" name="Fumigate"/>
-        <card number="4" name="Invoke the Divine"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Fatal Push"/>
+        <card number="1" name="Invoke the Divine"/>
         <card number="1" name="Lost Legacy"/>
-        <card number="2" name="Deadeye Tracker"/>
-        <card number="2" name="Harsh Scrutiny"/>
-        <card number="2" name="Rush of Vitality"/>
+        <card number="1" name="Deadeye Tracker"/>
         <card number="1" name="Knight of Malice"/>
-        <card number="3" name="Essence Extraction"/>
-        <card number="2" name="Arterial Flow"/>
-        <card number="2" name="Kambal, Consul of Allocation"/>
-        <card number="2" name="Dispossess"/>
-        <card number="2" name="Cartouche of Ambition"/>
-        <card number="2" name="Banewhip Punisher"/>
-        <card number="2" name="Yahenni's Expertise"/>
+        <card number="1" name="Essence Extraction"/>
+        <card number="1" name="Arterial Flow"/>
+        <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Dispossess"/>
+        <card number="1" name="Cartouche of Ambition"/>
         <card number="1" name="Hour of Glory"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Settle the Wreckage"/>
+        <card number="1" name="Battle at the Bridge"/>
     </zone>
 </cockatrice_deck>
