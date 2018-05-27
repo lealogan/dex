@@ -7,8 +7,8 @@
         <card number="1" name="Blackblade Reforged"/>
         <card number="3" name="Doomfall"/>
         <card number="4" name="Isolated Chapel"/>
-        <card number="2" name="Lich's Mastery"/>
-        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Lich's Mastery"/>
+        <card number="2" name="Memorial to Folly"/>
         <card number="2" name="Moment of Craving"/>
         <card number="5" name="Plains"/>
         <card number="2" name="Profane Procession"/>
@@ -19,8 +19,9 @@
         <card number="4" name="Glint-Sleeve Siphoner"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="2" name="Gonti, Lord of Luxury"/>
-        <card number="4" name="Twilight Prophet"/>
+        <card number="3" name="Twilight Prophet"/>
         <card number="3" name="Lyra Dawnbringer"/>
+        <card number="1" name="Liliana, Death's Majesty"/>
     </zone>
     <zone name="side">
         <card number="1" name="Duress"/>
@@ -33,10 +34,10 @@
         <card number="1" name="Arterial Flow"/>
         <card number="1" name="Kambal, Consul of Allocation"/>
         <card number="1" name="Dispossess"/>
-        <card number="1" name="Cartouche of Ambition"/>
         <card number="1" name="Hour of Glory"/>
         <card number="1" name="Ravenous Chupacabra"/>
         <card number="1" name="Settle the Wreckage"/>
         <card number="1" name="Battle at the Bridge"/>
+        <card number="1" name="Noxious Gearhulk"/>
     </zone>
 </cockatrice_deck>
