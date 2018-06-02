@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>dom_bu_improvise</deckname>
+    <comments>60 maindeck
+20 artifact
+</comments>
+    <zone name="main">
+        <card number="4" name="Renegade Map"/>
+        <card number="4" name="Prophetic Prism"/>
+        <card number="4" name="Servo Schematic"/>
+        <card number="2" name="Pacification Array"/>
+        <card number="3" name="Navigator's Compass"/>
+        <card number="3" name="Cogworker's Puzzleknot"/>
+        <card number="4" name="Herald of Anguish"/>
+        <card number="3" name="Zahid, Djinn of the Lamp"/>
+        <card number="3" name="The Antiquities War"/>
+        <card number="3" name="Metallic Rebuke"/>
+        <card number="3" name="Zhalfirin Void"/>
+        <card number="1" name="Island"/>
+        <card number="7" name="Swamp"/>
+        <card number="2" name="Drowned Catacomb"/>
+        <card number="2" name="Scavenger Grounds"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="4" name="Spire of Industry"/>
+        <card number="1" name="Grasping Dunes"/>
+        <card number="3" name="Karn, Scion of Urza"/>
+        <card number="3" name="Battle at the Bridge"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Aethersphere Harvester"/>
+        <card number="1" name="Crook of Condemnation"/>
+        <card number="1" name="The Antiquities War"/>
+        <card number="1" name="Metallic Rebuke"/>
+        <card number="4" name="Negate"/>
+        <card number="1" name="Fatal Push"/>
+        <card number="2" name="Tezzeret the Schemer"/>
+        <card number="2" name="Yahenni's Expertise"/>
+        <card number="2" name="Never // Return"/>
+    </zone>
+</cockatrice_deck>
