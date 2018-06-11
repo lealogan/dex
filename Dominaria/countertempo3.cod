@@ -7,17 +7,19 @@ http://www.starcitygames.com/articles/36947_Dominarias-Many-Gifts-To-Blue-Mages.
 modified</comments>
     <zone name="main">
         <card number="4" name="Tempest Djinn"/>
-        <card number="4" name="Blink of an Eye"/>
-        <card number="3" name="Censor"/>
+        <card number="3" name="Blink of an Eye"/>
+        <card number="2" name="Censor"/>
         <card number="3" name="Disallow"/>
         <card number="4" name="Torrential Gearhulk"/>
         <card number="2" name="Essence Scatter"/>
-        <card number="2" name="Negate"/>
+        <card number="3" name="Negate"/>
         <card number="25" name="Island"/>
         <card number="4" name="Nimble Obstructionist"/>
         <card number="2" name="Naru Meha, Master Wizard"/>
-        <card number="4" name="Unsummon"/>
+        <card number="2" name="Unsummon"/>
         <card number="3" name="Glimmer of Genius"/>
+        <card number="2" name="Opt"/>
+        <card number="1" name="Perilous Voyage"/>
     </zone>
     <zone name="side">
         <card number="1" name="River's Rebuke"/>
@@ -26,10 +28,10 @@ modified</comments>
         <card number="1" name="Supreme Will"/>
         <card number="2" name="Spell Pierce"/>
         <card number="1" name="Spell Swindle"/>
-        <card number="1" name="Pull from Tomorrow"/>
         <card number="1" name="Syncopate"/>
         <card number="1" name="Commit // Memory"/>
-        <card number="2" name="Perilous Voyage"/>
+        <card number="2" name="Unsummon"/>
         <card number="2" name="Search for Azcanta"/>
+        <card number="1" name="Baral's Expertise"/>
     </zone>
 </cockatrice_deck>
