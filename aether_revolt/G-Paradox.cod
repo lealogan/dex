@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G-Paradox</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Duskwatch Recruiter"/>
+        <card number="4" price="0" name="Longtusk Cub"/>
+        <card number="4" price="0" name="Servant of the Conduit"/>
+        <card number="4" price="0" name="Greenbelt Rampager"/>
+        <card number="4" price="0" name="Loam Dryad"/>
+        <card number="3" price="0" name="Walking Ballista"/>
+        <card number="4" price="0" name="Lifecrafter's Bestiary"/>
+        <card number="3" price="0" name="Paradox Engine"/>
+        <card number="4" price="0" name="Cryptolith Rite"/>
+        <card number="4" price="0" name="Blossoming Defense"/>
+        <card number="22" price="0" name="Forest"/>
+    </zone>
+</cockatrice_deck>

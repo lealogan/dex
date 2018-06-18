@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>U-Spells</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Baral, Chief of Compliance"/>
+        <card number="4" price="0" name="Curious Homunculus"/>
+        <card number="4" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Take Inventory"/>
+        <card number="4" price="0" name="Pore Over the Pages"/>
+        <card number="2" price="0" name="Compelling Deterrence"/>
+        <card number="23" price="0" name="Island"/>
+        <card number="2" price="0" name="Baral's Expertise"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="2" price="0" name="Grip of the Roil"/>
+        <card number="1" price="0" name="Select for Inspection"/>
+        <card number="2" price="0" name="Spell Shrivel"/>
+        <card number="1" price="0" name="Drag Under"/>
+        <card number="1" price="0" name="Clutch of Currents"/>
+        <card number="4" price="0" name="Niblis of Frost"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Disallow"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Drag Under"/>
+        <card number="2" price="0" name="Sweep Away"/>
+        <card number="2" price="0" name="Welcome to the Fold"/>
+        <card number="1" price="0" name="Ceremonious Rejection"/>
+        <card number="1" price="0" name="Epiphany at the Drownyard"/>
+        <card number="1" price="0" name="Select for Inspection"/>
+        <card number="1" price="0" name="Unsubstantiate"/>
+        <card number="1" price="0" name="Revolutionary Rebuff"/>
+        <card number="1" price="0" name="Spell Shrivel"/>
+        <card number="1" price="0" name="Jace, Unraveler of Secrets"/>
+        <card number="1" price="0" name="Torrential Gearhulk"/>
+    </zone>
+</cockatrice_deck>

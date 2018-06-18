@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UGr-Ramp-Greg</deckname>
+    <comments>2 Artifact
+</comments>
+    <zone name="main">
+        <card number="2" price="0" name="Pyramid of the Pantheon"/>
+        <card number="3" price="0" name="Oblivion Sower"/>
+        <card number="4" price="0" name="World Breaker"/>
+        <card number="2" price="0" name="Ulamog, the Ceaseless Hunger"/>
+        <card number="4" price="0" name="Vessel of Nascency"/>
+        <card number="2" price="0" name="Bounty of the Luxa"/>
+        <card number="3" price="0" name="Grapple with the Past"/>
+        <card number="3" price="0" name="Kozilek's Return"/>
+        <card number="4" price="0" name="Botanical Sanctum"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="4" price="0" name="Sanctum of Ugin"/>
+        <card number="2" price="0" name="Lumbering Falls"/>
+        <card number="1" price="0" name="Wandering Fumarole"/>
+        <card number="3" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Sheltered Thicket"/>
+        <card number="2" price="0" name="Nissa, Steward of Elements"/>
+        <card number="4" price="0" name="Traverse the Ulvenwald"/>
+        <card number="3" price="0" name="Spring"/>
+        <card number="4" price="0" name="Ruin in Their Wake"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Kozilek, the Great Distortion"/>
+        <card number="3" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Arborback Stomper"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Pulse of Murasa"/>
+        <card number="2" price="0" name="Commit"/>
+        <card number="2" price="0" name="Negate"/>
+        <card number="2" price="0" name="Radiant Flames"/>
+    </zone>
+</cockatrice_deck>

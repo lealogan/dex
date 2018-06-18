@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>countertempo2</deckname>
+    <comments>https://www.reddit.com/r/spikes/comments/8pgtz3/standard_decks_i_almost_played_at_pro_tour/</comments>
+    <zone name="main">
+        <card number="4" name="Baral, Chief of Compliance"/>
+        <card number="3" name="Merfolk Trickster"/>
+        <card number="4" name="Tempest Djinn"/>
+        <card number="2" name="Naru Meha, Master Wizard"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="4" name="Wizard's Retort"/>
+        <card number="2" name="Negate"/>
+        <card number="3" name="Blink of an Eye"/>
+        <card number="3" name="Unsummon"/>
+        <card number="4" name="Chart a Course"/>
+        <card number="3" name="Censor"/>
+        <card number="22" name="Island"/>
+        <card number="1" name="Glyph Keeper"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="3" name="Opt"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Cryptic Serpent"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Kefnet's Last Word"/>
+        <card number="3" name="Aether Meltdown"/>
+        <card number="2" name="River's Rebuke"/>
+        <card number="3" name="Sorcerous Spyglass"/>
+        <card number="1" name="Glyph Keeper"/>
+    </zone>
+</cockatrice_deck>
