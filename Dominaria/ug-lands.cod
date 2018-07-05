@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ug-lands</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="River's Rebuke"/>
+        <card number="3" name="Multani, Yavimaya's Avatar"/>
+        <card number="3" name="Tatyova, Benthic Druid"/>
+        <card number="4" name="Llanowar Scout"/>
+        <card number="4" name="Timestream Navigator"/>
+        <card number="4" name="Jadelight Ranger"/>
+        <card number="4" name="Merfolk Branchwalker"/>
+        <card number="4" name="Wayward Swordtooth"/>
+        <card number="4" name="Champion of Wits"/>
+        <card number="2" name="Vizier of the Menagerie"/>
+    </zone>
+</cockatrice_deck>

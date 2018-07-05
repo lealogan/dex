@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ur-tempo</deckname>
+    <comments>name : ur tempo
+creator : henry_berry
+format : standard
+</comments>
+    <zone name="main">
+        <card number="4" name="Chart a Course"/>
+        <card number="4" name="Harnessed Lightning"/>
+        <card number="5" name="Island"/>
+        <card number="6" name="Mountain"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="4" name="Spirebluff Canal"/>
+        <card number="2" name="Scavenger Grounds"/>
+        <card number="4" name="Aether Hub"/>
+        <card number="3" name="Kari Zev, Skyship Raider"/>
+        <card number="4" name="Glorybringer"/>
+        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Dire Fleet Daredevil"/>
+        <card number="4" name="Whirler Virtuoso"/>
+        <card number="3" name="Walking Ballista"/>
+        <card number="1" name="Pia Nalaar"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="2" name="Magma Spray"/>
+        <card number="3" name="Abrade"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Aethersphere Harvester"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="2" name="Sweltering Suns"/>
+        <card number="2" name="Glimmer of Genius"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="3" name="Negate"/>
+        <card number="1" name="Kari Zev's Expertise"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+        <card number="1" name="Magma Spray"/>
+    </zone>
+</cockatrice_deck>
