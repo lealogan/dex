@@ -13,10 +13,12 @@
         <card number="4" name="Wayward Swordtooth"/>
         <card number="4" name="Champion of Wits"/>
         <card number="2" name="Vizier of the Menagerie"/>
-        <card number="12" name="Forest"/>
-        <card number="8" name="Island"/>
-        <card number="2" name="Field of Ruin"/>
-        <card number="2" name="Scavenger Grounds"/>
+        <card number="8" name="Forest"/>
+        <card number="6" name="Island"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="1" name="Scavenger Grounds"/>
+        <card number="4" name="Hinterland Harbor"/>
+        <card number="4" name="Botanical Sanctum"/>
     </zone>
     <zone name="side">
         <card number="3" name="Baral's Expertise"/>
