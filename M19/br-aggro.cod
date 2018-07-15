@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>br-aggro</deckname>
+    <comments>name : rakdos aggro
+creator : owen_turtenwald
+format : standard
+</comments>
+    <zone name="main">
+        <card number="1" name="Swamp"/>
+        <card number="14" name="Mountain"/>
+        <card number="4" name="Dragonskull Summit"/>
+        <card number="4" name="Canyon Slough"/>
+        <card number="2" name="Aether Hub"/>
+        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="2" name="Unlicensed Disintegration"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="2" name="Abrade"/>
+        <card number="3" name="Heart of Kiran"/>
+        <card number="2" name="Soul-Scar Mage"/>
+        <card number="4" name="Scrapheap Scrounger"/>
+        <card number="2" name="Pia Nalaar"/>
+        <card number="2" name="Kari Zev, Skyship Raider"/>
+        <card number="3" name="Hazoret the Fervent"/>
+        <card number="4" name="Goblin Chainwhirler"/>
+        <card number="2" name="Glorybringer"/>
+        <card number="4" name="Bomat Courier"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Rekindling Phoenix"/>
+        <card number="3" name="Magma Spray"/>
+        <card number="4" name="Duress"/>
+        <card number="1" name="Doomfall"/>
+        <card number="2" name="Chandra's Defeat"/>
+        <card number="1" name="Unlicensed Disintegration"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Glorybringer"/>
+    </zone>
+</cockatrice_deck>

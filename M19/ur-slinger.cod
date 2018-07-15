@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
-    <comments></comments>
+    <deckname>ur-slinger</deckname>
+    <comments>roodslay</comments>
     <zone name="main">
         <card number="4" name="Nimble Obstructionist"/>
         <card number="4" name="Soul-Scar Mage"/>
-        <card number="4" name="Dismissive Pyromancer"/>
+        <card number="2" name="Dismissive Pyromancer"/>
         <card number="4" name="Riddleform"/>
         <card number="4" name="Wizard's Lightning"/>
         <card number="4" name="Lightning Strike"/>
         <card number="3" name="Magma Spray"/>
-        <card number="4" name="Opt"/>
+        <card number="2" name="Opt"/>
         <card number="4" name="Chart a Course"/>
         <card number="4" name="Spirebluff Canal"/>
         <card number="4" name="Sulfur Falls"/>
         <card number="7" name="Mountain"/>
         <card number="6" name="Island"/>
         <card number="4" name="Guttersnipe"/>
+        <card number="2" name="Vizier of Many Faces"/>
+        <card number="2" name="Anticipate"/>
     </zone>
     <zone name="side">
         <card number="1" name="Magma Spray"/>

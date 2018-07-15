@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>apex-ideas</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Magistrate's Scepter"/>
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="1" name="Dismissive Pyromancer"/>
+        <card number="1" name="Lightning Mare"/>
+        <card number="1" name="Apex of Power"/>
+        <card number="1" name="Mystic Archaeologist"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Bone to Ash"/>
+        <card number="1" name="Sift"/>
+        <card number="1" name="Doublecast"/>
+        <card number="1" name="Sarkhan's Dragonfire"/>
+        <card number="1" name="Omenspeaker"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Disperse"/>
+        <card number="1" name="Salvager of Secrets"/>
+        <card number="1" name="Nexus of Fate"/>
+        <card number="1" name="Omniscience"/>
+        <card number="1" name="Surge Mare"/>
+        <card number="1" name="Fraying Omnipotence"/>
+        <card number="1" name="Tectonic Rift"/>
+        <card number="1" name="Sleep"/>
+        <card number="1" name="Etali, Primal Storm"/>
+        <card number="1" name="Hazoret's Undying Fury"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="1" name="Wildfire Eternal"/>
+        <card number="1" name="Djinn of Wishes"/>
+        <card number="1" name="Oracle's Vault"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Act of Treason"/>
+        <card number="1" name="Chaos Wand"/>
+        <card number="1" name="Thud"/>
+        <card number="1" name="Uncomfortable Chill"/>
+    </zone>
+</cockatrice_deck>

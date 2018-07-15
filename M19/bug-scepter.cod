@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>bug-scepter</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Opt"/>
+        <card number="3" name="Skyship Plunderer"/>
+        <card number="3" name="Island"/>
+        <card number="1" name="Field of Ruin"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="1" name="Supreme Will"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Botanical Sanctum"/>
+        <card number="4" name="Hinterland Harbor"/>
+        <card number="3" name="Vraska's Contempt"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="3" name="Rashmi, Eternities Crafter"/>
+        <card number="2" name="The Scarab God"/>
+        <card number="1" name="Arch of Orazca"/>
+        <card number="4" name="Winding Constrictor"/>
+        <card number="3" name="Magistrate's Scepter"/>
+        <card number="1" name="Nexus of Fate"/>
+        <card number="2" name="Hadana's Climb"/>
+        <card number="2" name="Rishkar, Peema Renegade"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Confiscation Coup"/>
+        <card number="1" name="Spell Swindle"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Entrancing Melody"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="2" name="Negate"/>
+        <card number="3" name="Duress"/>
+        <card number="1" name="Animation Module"/>
+        <card number="1" name="Torrential Gearhulk"/>
+    </zone>
+</cockatrice_deck>

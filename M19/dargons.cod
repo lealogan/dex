@@ -3,29 +3,29 @@
     <deckname>dargons</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="4" name="Sarkhan's Unsealing"/>
         <card number="4" name="Lathliss, Dragon Queen"/>
-        <card number="1" name="Shivan Dragon"/>
         <card number="4" name="Nicol Bolas, the Ravager"/>
         <card number="4" name="Dragon's Hoard"/>
         <card number="4" name="Spit Flame"/>
-        <card number="4" name="Sarkhan, Fireblood"/>
+        <card number="3" name="Sarkhan, Fireblood"/>
         <card number="4" name="Glorybringer"/>
-        <card number="4" name="Lightning Strike"/>
+        <card number="2" name="Lightning Strike"/>
         <card number="16" name="Mountain"/>
         <card number="2" name="Field of Ruin"/>
         <card number="4" name="Sulfur Falls"/>
         <card number="4" name="Dragonskull Summit"/>
         <card number="3" name="Treasure Map"/>
-        <card number="1" name="Demanding Dragon"/>
+        <card number="2" name="Demanding Dragon"/>
     </zone>
     <zone name="side">
         <card number="3" name="Lightning Mare"/>
         <card number="2" name="Demanding Dragon"/>
         <card number="3" name="Sweltering Suns"/>
         <card number="2" name="The Immortal Sun"/>
-        <card number="3" name="Hour of Devastation"/>
+        <card number="2" name="Hour of Devastation"/>
         <card number="1" name="Sarkhan's Dragonfire"/>
-        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Sarkhan, Fireblood"/>
     </zone>
 </cockatrice_deck>
