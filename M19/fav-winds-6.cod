@@ -17,6 +17,7 @@
         <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="2" name="Chart a Course"/>
         <card number="2" name="Walking Ballista"/>
+        <card number="1" name="Djinn of Wishes"/>
     </zone>
     <zone name="side">
         <card number="2" name="Essence Scatter"/>
