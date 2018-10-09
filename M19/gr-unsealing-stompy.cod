@@ -8,7 +8,6 @@ https://st.reddit.com/r/spikes/comments/8xxkxj/standard_gr_sarkhans_unsealing_st
         <card number="4" name="Carnage Tyrant"/>
         <card number="4" name="Commune with Dinosaurs"/>
         <card number="14" name="Forest"/>
-        <card number="4" name="Gigantosaurus"/>
         <card number="1" name="Hashep Oasis"/>
         <card number="4" name="Llanowar Elves"/>
         <card number="1" name="Mountain"/>
@@ -19,13 +18,16 @@ https://st.reddit.com/r/spikes/comments/8xxkxj/standard_gr_sarkhans_unsealing_st
         <card number="4" name="Steel Leaf Champion"/>
         <card number="2" name="Thrashing Brontodon"/>
         <card number="4" name="Thunderherd Migration"/>
+        <card number="2" name="Ghalta, Primal Hunger"/>
+        <card number="2" name="Vine Mare"/>
     </zone>
     <zone name="side">
         <card number="2" name="Abrade"/>
         <card number="3" name="Deathgorge Scavenger"/>
-        <card number="3" name="Fight with Fire"/>
+        <card number="1" name="Fight with Fire"/>
         <card number="2" name="Nissa, Vital Force"/>
         <card number="3" name="Prowling Serpopard"/>
         <card number="2" name="Thrashing Brontodon"/>
+        <card number="2" name="Vine Mare"/>
     </zone>
 </cockatrice_deck>

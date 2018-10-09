@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>izzet-counterburn1</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Lightning Strike"/>
+        <card number="4" name="Wizard's Lightning"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Guttersnipe"/>
+        <card number="4" name="Goblin Electromancer"/>
+        <card number="9" name="Snow-Covered Island"/>
+        <card number="7" name="Snow-Covered Mountain"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Lava Coil"/>
+        <card number="4" name="Risk Factor"/>
+        <card number="4" name="Wee Dragonauts"/>
+        <card number="2" name="Arclight Phoenix"/>
+        <card number="2" name="Ionize"/>
+        <card number="2" name="Wizard's Retort"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Essence Scatter"/>
+        <card number="2" name="Shivan Fire"/>
+        <card number="2" name="Lava Coil"/>
+        <card number="1" name="Negate"/>
+        <card number="3" name="Electrostatic Field"/>
+        <card number="2" name="Beacon Bolt"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="2" name="Unwind"/>
+    </zone>
+</cockatrice_deck>

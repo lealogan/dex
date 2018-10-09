@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>g-stompy-channel-fireball</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="12" name="Forest"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Golgari Guildgate"/>
+        <card number="4" name="Woodland Cemetery"/>
+        <card number="4" name="Overgrown Tomb"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Pelt Collector"/>
+        <card number="4" name="Kraul Harpooner"/>
+        <card number="4" name="Thorn Lieutenant"/>
+        <card number="4" name="Thrashing Brontodon"/>
+        <card number="4" name="Nullhide Ferox"/>
+        <card number="4" name="Steel Leaf Champion"/>
+        <card number="2" name="Vivien Reid"/>
+        <card number="2" name="Status // Statue"/>
+        <card number="4" name="Assassin's Trophy"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Vine Mare"/>
+        <card number="4" name="Duress"/>
+        <card number="2" name="Vraska, Relic Seeker"/>
+        <card number="2" name="Cast Down"/>
+        <card number="2" name="Sorcerous Spyglass"/>
+        <card number="2" name="Shapers' Sanctuary"/>
+    </zone>
+</cockatrice_deck>

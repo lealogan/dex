@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>infinitystone</deckname>
+    <comments>https://www.youtube.com/watch?v=XlYKYiVu4uY</comments>
+    <zone name="main">
+        <card number="2" name="Artificer's Assistant"/>
+        <card number="4" name="Cogwork Assembler"/>
+        <card number="4" name="Glint-Nest Crane"/>
+        <card number="4" name="Trophy Mage"/>
+        <card number="2" name="Blink of an Eye"/>
+        <card number="1" name="Hierophant's Chalice"/>
+        <card number="3" name="Metallic Rebuke"/>
+        <card number="3" name="Mirage Mirror"/>
+        <card number="2" name="Pacification Array"/>
+        <card number="4" name="Powerstone Shard"/>
+        <card number="4" name="Prophetic Prism"/>
+        <card number="4" name="Renegade Map"/>
+        <card number="2" name="Whir of Invention"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="16" name="Island"/>
+        <card number="4" name="Zhalfirin Void"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Blink of an Eye"/>
+        <card number="2" name="Dramatic Reversal"/>
+        <card number="1" name="Metallic Rebuke"/>
+        <card number="3" name="Negate"/>
+        <card number="2" name="River's Rebuke"/>
+        <card number="3" name="Sentinel Totem"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+        <card number="2" name="Universal Solvent"/>
+    </zone>
+</cockatrice_deck>

@@ -13,10 +13,11 @@
         <card number="2" name="Lightning Strike"/>
         <card number="16" name="Mountain"/>
         <card number="2" name="Field of Ruin"/>
-        <card number="4" name="Sulfur Falls"/>
-        <card number="4" name="Dragonskull Summit"/>
+        <card number="2" name="Sulfur Falls"/>
+        <card number="2" name="Dragonskull Summit"/>
         <card number="3" name="Treasure Map"/>
         <card number="2" name="Demanding Dragon"/>
+        <card number="4" name="Unclaimed Territory"/>
     </zone>
     <zone name="side">
         <card number="3" name="Lightning Mare"/>

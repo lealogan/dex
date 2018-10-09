@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Llanowar Elves"/>
+        <card number="2" name="Druid of the Cowl"/>
+        <card number="4" name="Merfolk Branchwalker"/>
+        <card number="4" name="Thorn Lieutenant"/>
+        <card number="4" name="Jadelight Ranger"/>
+        <card number="4" name="Steel Leaf Champion"/>
+        <card number="2" name="Thrashing Brontodon"/>
+        <card number="4" name="Nullhide Ferox"/>
+        <card number="2" name="Territorial Allosaurus"/>
+        <card number="3" name="Ghalta, Primal Hunger"/>
+        <card number="3" name="Assassin's Trophy"/>
+        <card number="15" name="Forest"/>
+        <card number="4" name="Overgrown Tomb"/>
+        <card number="1" name="Swamp"/>
+        <card number="4" name="Woodland Cemetery"/>
+    </zone>
+</cockatrice_deck>

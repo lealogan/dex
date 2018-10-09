@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>deck file created with mtgtop8.com</deckname>
+    <comments>name : mono-blue reservoir
+creator : léo_chapelle
+format : standard
+</comments>
+    <zone name="main">
+        <card number="1" name="Traveler's Amulet"/>
+        <card number="4" name="Renegade Map"/>
+        <card number="4" name="Prophetic Prism"/>
+        <card number="3" name="Mox Amber"/>
+        <card number="2" name="Metalspinner's Puzzleknot"/>
+        <card number="4" name="Inspiring Statuary"/>
+        <card number="3" name="Aetherflux Reservoir"/>
+        <card number="4" name="Paradoxical Outcome"/>
+        <card number="2" name="Metallic Rebuke"/>
+        <card number="2" name="Commit // Memory"/>
+        <card number="3" name="Baral's Expertise"/>
+        <card number="3" name="Sai, Master Thopterist"/>
+        <card number="4" name="Ornithopter"/>
+        <card number="3" name="Glint-Nest Crane"/>
+        <card number="4" name="Zhalfirin Void"/>
+        <card number="13" name="Island"/>
+        <card number="1" name="Inventors' Fair"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Karn, Scion of Urza"/>
+        <card number="1" name="Baral, Chief of Compliance"/>
+        <card number="1" name="Baral's Expertise"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="2" name="Transmogrifying Wand"/>
+        <card number="1" name="River's Rebuke"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="4" name="Negate"/>
+    </zone>
+</cockatrice_deck>

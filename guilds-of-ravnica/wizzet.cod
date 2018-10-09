@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>wizzet</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Opt"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="8" name="Island"/>
+        <card number="7" name="Mountain"/>
+        <card number="2" name="Mystic Archaeologist"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Wizard's Lightning"/>
+        <card number="4" name="Adeliz, the Cinder Wind"/>
+        <card number="2" name="Naru Meha, Master Wizard"/>
+        <card number="4" name="Ghitu Lavarunner"/>
+        <card number="2" name="Merfolk Trickster"/>
+        <card number="3" name="League Guildmage"/>
+        <card number="4" name="Viashino Pyromancer"/>
+        <card number="2" name="Shivan Fire"/>
+        <card number="4" name="Shock"/>
+        <card number="2" name="Risk Factor"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Shivan Fire"/>
+        <card number="1" name="Shock"/>
+        <card number="2" name="Dual Shot"/>
+        <card number="2" name="Dire Fleet Daredevil"/>
+        <card number="2" name="Mistcaller"/>
+        <card number="2" name="Niv-Mizzet, Parun"/>
+        <card number="2" name="Siren Stormtamer"/>
+        <card number="1" name="Direct Current"/>
+        <card number="1" name="Ral, Izzet Viceroy"/>
+        <card number="2" name="Wizard's Retort"/>
+    </zone>
+</cockatrice_deck>

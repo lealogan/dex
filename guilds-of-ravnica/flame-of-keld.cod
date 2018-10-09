@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>flame-of-keld</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Risk Factor"/>
+        <card number="4" name="The Flame of Keld"/>
+        <card number="4" name="Ghitu Lavarunner"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Fanatical Firebrand"/>
+        <card number="4" name="Rigging Runner"/>
+        <card number="4" name="Goblin Banneret"/>
+        <card number="4" name="Viashino Pyromancer"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="4" name="Runaway Steam-Kin"/>
+        <card number="20" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dark-Dweller Oracle"/>
+        <card number="2" name="Tilonalli's Summoner"/>
+        <card number="1" name="Dire Fleet Daredevil"/>
+        <card number="3" name="Lava Coil"/>
+        <card number="2" name="Lightning Mare"/>
+        <card number="4" name="Goblin Cratermaker"/>
+        <card number="2" name="Run Amok"/>
+    </zone>
+</cockatrice_deck>
