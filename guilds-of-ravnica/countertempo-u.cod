@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>mono-u-countertempo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Chart a Course"/>
+        <card number="4" name="Curious Obsession"/>
+        <card number="2" name="Dive Down"/>
+        <card number="3" name="Essence Scatter"/>
+        <card number="2" name="Exclusion Mage"/>
+        <card number="21" name="Island"/>
+        <card number="4" name="Merfolk Trickster"/>
+        <card number="4" name="Mist-Cloaked Herald"/>
+        <card number="2" name="Nightveil Sprite"/>
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="4" name="Tempest Djinn"/>
+        <card number="2" name="Warkite Marauder"/>
+        <card number="4" name="Wizard's Retort"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Diamond Mare"/>
+        <card number="2" name="Disdainful Stroke"/>
+        <card number="1" name="Dive Down"/>
+        <card number="3" name="Negate"/>
+        <card number="1" name="Sentinel Totem"/>
+        <card number="2" name="Sleep"/>
+        <card number="3" name="Syncopate"/>
+    </zone>
+</cockatrice_deck>

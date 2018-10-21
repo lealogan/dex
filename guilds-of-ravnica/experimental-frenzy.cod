@@ -5,8 +5,6 @@
     <zone name="main">
         <card number="4" name="Runaway Steam-Kin"/>
         <card number="4" name="Lightning Strike"/>
-        <card number="1" name="Dark-Dweller Oracle"/>
-        <card number="1" name="Dismissive Pyromancer"/>
         <card number="4" name="Risk Factor"/>
         <card number="4" name="Fanatical Firebrand"/>
         <card number="4" name="Ghitu Lavarunner"/>
@@ -15,14 +13,13 @@
         <card number="4" name="Goblin Chainwhirler"/>
         <card number="4" name="Wizard's Lightning"/>
         <card number="22" name="Mountain"/>
-        <card number="1" name="Rigging Runner"/>
-        <card number="1" name="Goblin Trailblazer"/>
+        <card number="4" name="Rigging Runner"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Lightning Mare"/>
-        <card number="2" name="Goblin Cratermaker"/>
-        <card number="2" name="Goblin Banneret"/>
-        <card number="3" name="Rigging Runner"/>
-        <card number="4" name="Shock"/>
+        <card number="3" name="Lightning Mare"/>
+        <card number="2" name="Shock"/>
+        <card number="4" name="Lava Coil"/>
+        <card number="4" name="Fight with Fire"/>
+        <card number="2" name="Hijack"/>
     </zone>
 </cockatrice_deck>

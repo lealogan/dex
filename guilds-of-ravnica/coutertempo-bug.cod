@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>bug-countertempo</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Chart a Course"/>
+        <card number="4" name="Curious Obsession"/>
+        <card number="2" name="Dive Down"/>
+        <card number="3" name="Essence Scatter"/>
+        <card number="16" name="Island"/>
+        <card number="4" name="Mist-Cloaked Herald"/>
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="2" name="Spell Pierce"/>
+        <card number="4" name="Tempest Djinn"/>
+        <card number="4" name="Warkite Marauder"/>
+        <card number="4" name="Wizard's Retort"/>
+        <card number="4" name="Deeproot Champion"/>
+        <card number="4" name="Hinterland Harbor"/>
+        <card number="1" name="Woodland Stream"/>
+        <card number="4" name="Thief of Sanity"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="1" name="Unclaimed Territory"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Disdainful Stroke"/>
+        <card number="1" name="Dive Down"/>
+        <card number="3" name="Negate"/>
+        <card number="1" name="Sentinel Totem"/>
+        <card number="2" name="Sleep"/>
+        <card number="1" name="Syncopate"/>
+        <card number="2" name="Exclusion Mage"/>
+        <card number="2" name="Merfolk Trickster"/>
+        <card number="1" name="Zahid, Djinn of the Lamp"/>
+    </zone>
+</cockatrice_deck>
