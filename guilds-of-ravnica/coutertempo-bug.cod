@@ -3,25 +3,19 @@
     <deckname>bug-countertempo</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" name="Chart a Course"/>
         <card number="4" name="Curious Obsession"/>
         <card number="2" name="Dive Down"/>
         <card number="3" name="Essence Scatter"/>
-        <card number="16" name="Island"/>
+        <card number="14" name="Island"/>
         <card number="4" name="Mist-Cloaked Herald"/>
         <card number="4" name="Siren Stormtamer"/>
         <card number="2" name="Spell Pierce"/>
         <card number="4" name="Tempest Djinn"/>
         <card number="4" name="Warkite Marauder"/>
         <card number="4" name="Wizard's Retort"/>
-        <card number="4" name="Deeproot Champion"/>
-        <card number="4" name="Hinterland Harbor"/>
-        <card number="1" name="Woodland Stream"/>
         <card number="4" name="Thief of Sanity"/>
-        <card number="1" name="Woodland Cemetery"/>
-        <card number="1" name="Overgrown Tomb"/>
         <card number="4" name="Watery Grave"/>
-        <card number="1" name="Unclaimed Territory"/>
+        <card number="4" name="Drowned Catacomb"/>
     </zone>
     <zone name="side">
         <card number="2" name="Disdainful Stroke"/>
@@ -33,5 +27,6 @@
         <card number="2" name="Exclusion Mage"/>
         <card number="2" name="Merfolk Trickster"/>
         <card number="1" name="Zahid, Djinn of the Lamp"/>
+        <card number="1" name="Jace, Cunning Castaway"/>
     </zone>
 </cockatrice_deck>

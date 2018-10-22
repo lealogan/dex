@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>dargons-grixis</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Lathliss, Dragon Queen"/>
+        <card number="4" name="Nicol Bolas, the Ravager"/>
+        <card number="4" name="Dragon's Hoard"/>
+        <card number="4" name="Spit Flame"/>
+        <card number="3" name="Sarkhan, Fireblood"/>
+        <card number="2" name="Lightning Strike"/>
+        <card number="18" name="Mountain"/>
+        <card number="4" name="Sulfur Falls"/>
+        <card number="4" name="Dragonskull Summit"/>
+        <card number="4" name="Unclaimed Territory"/>
+        <card number="1" name="Sarkhan's Unsealing"/>
+        <card number="2" name="Verix Bladewing"/>
+        <card number="2" name="Demanding Dragon"/>
+        <card number="2" name="Traxos, Scourge of Kroog"/>
+        <card number="2" name="Cast Down"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Demanding Dragon"/>
+        <card number="2" name="The Immortal Sun"/>
+        <card number="1" name="Darigaaz Reincarnated"/>
+        <card number="2" name="Treasure Map"/>
+        <card number="1" name="Sunbird's Invocation"/>
+        <card number="2" name="Sarkhan's Unsealing"/>
+        <card number="3" name="Duress"/>
+        <card number="3" name="Negate"/>
+    </zone>
+</cockatrice_deck>

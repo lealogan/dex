@@ -6,24 +6,26 @@
         <card number="4" name="Curious Obsession"/>
         <card number="2" name="Dive Down"/>
         <card number="2" name="Essence Scatter"/>
-        <card number="22" name="Island"/>
+        <card number="23" name="Island"/>
         <card number="4" name="Siren Stormtamer"/>
-        <card number="2" name="Spell Pierce"/>
+        <card number="1" name="Spell Pierce"/>
         <card number="4" name="Tempest Djinn"/>
         <card number="4" name="Warkite Marauder"/>
-        <card number="2" name="Wizard's Retort"/>
         <card number="2" name="Zahid, Djinn of the Lamp"/>
         <card number="4" name="Chromatic Lantern"/>
-        <card number="4" name="Chamber Sentry"/>
-        <card number="4" name="Anticipate"/>
+        <card number="2" name="Chamber Sentry"/>
+        <card number="2" name="Anticipate"/>
+        <card number="4" name="Lookout's Dispersal"/>
+        <card number="2" name="Thief of Sanity"/>
     </zone>
     <zone name="side">
         <card number="2" name="Disdainful Stroke"/>
         <card number="3" name="Negate"/>
         <card number="1" name="Sentinel Totem"/>
         <card number="2" name="Sleep"/>
-        <card number="2" name="Syncopate"/>
+        <card number="1" name="Syncopate"/>
         <card number="2" name="Exclusion Mage"/>
         <card number="2" name="Merfolk Trickster"/>
+        <card number="2" name="Chamber Sentry"/>
     </zone>
 </cockatrice_deck>
