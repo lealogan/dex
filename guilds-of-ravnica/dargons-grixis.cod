@@ -8,7 +8,6 @@
         <card number="4" name="Dragon's Hoard"/>
         <card number="4" name="Spit Flame"/>
         <card number="3" name="Sarkhan, Fireblood"/>
-        <card number="2" name="Lightning Strike"/>
         <card number="18" name="Mountain"/>
         <card number="4" name="Sulfur Falls"/>
         <card number="4" name="Dragonskull Summit"/>
@@ -18,15 +17,18 @@
         <card number="2" name="Demanding Dragon"/>
         <card number="2" name="Traxos, Scourge of Kroog"/>
         <card number="2" name="Cast Down"/>
+        <card number="2" name="Thought Erasure"/>
     </zone>
     <zone name="side">
         <card number="1" name="Demanding Dragon"/>
-        <card number="2" name="The Immortal Sun"/>
+        <card number="1" name="The Immortal Sun"/>
         <card number="1" name="Darigaaz Reincarnated"/>
-        <card number="2" name="Treasure Map"/>
+        <card number="1" name="Treasure Map"/>
         <card number="1" name="Sunbird's Invocation"/>
         <card number="2" name="Sarkhan's Unsealing"/>
-        <card number="3" name="Duress"/>
-        <card number="3" name="Negate"/>
+        <card number="4" name="Duress"/>
+        <card number="2" name="Negate"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Thought Erasure"/>
     </zone>
 </cockatrice_deck>

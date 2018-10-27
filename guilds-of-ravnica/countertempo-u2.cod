@@ -10,13 +10,14 @@
         <card number="4" name="Siren Stormtamer"/>
         <card number="1" name="Spell Pierce"/>
         <card number="4" name="Tempest Djinn"/>
-        <card number="4" name="Warkite Marauder"/>
+        <card number="2" name="Warkite Marauder"/>
         <card number="2" name="Zahid, Djinn of the Lamp"/>
         <card number="4" name="Chromatic Lantern"/>
         <card number="2" name="Chamber Sentry"/>
-        <card number="2" name="Anticipate"/>
-        <card number="4" name="Lookout's Dispersal"/>
+        <card number="4" name="Anticipate"/>
+        <card number="2" name="Lookout's Dispersal"/>
         <card number="2" name="Thief of Sanity"/>
+        <card number="2" name="Merfolk Trickster"/>
     </zone>
     <zone name="side">
         <card number="2" name="Disdainful Stroke"/>
