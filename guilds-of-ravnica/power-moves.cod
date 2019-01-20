@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>power-moves</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Runaway Steam-Kin"/>
+        <card number="4" name="Apex of Power"/>
+        <card number="4" name="Risk Factor"/>
+        <card number="4" name="Catalyst Elemental"/>
+        <card number="3" name="Skirk Prospector"/>
+        <card number="4" name="Fight with Fire"/>
+        <card number="4" name="Banefire"/>
+        <card number="2" name="The Immortal Sun"/>
+        <card number="4" name="Legion Warboss"/>
+        <card number="4" name="Field of Ruin"/>
+        <card number="21" name="Mountain"/>
+        <card number="2" name="Goblin Chainwhirler"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Electrostatic Field"/>
+        <card number="2" name="Goblin Chainwhirler"/>
+        <card number="2" name="Rekindling Phoenix"/>
+        <card number="1" name="Dual Shot"/>
+        <card number="2" name="Shock"/>
+        <card number="1" name="Goblin Trashmaster"/>
+        <card number="2" name="Goblin Cratermaker"/>
+        <card number="1" name="Direct Current"/>
+        <card number="1" name="Jaya Ballard"/>
+        <card number="1" name="Skirk Prospector"/>
+    </zone>
+</cockatrice_deck>
