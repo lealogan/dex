@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Tempest Djinn"/>
+        <card number="4" name="Pteramander"/>
+        <card number="4" name="Wizard's Retort"/>
+        <card number="4" name="Curious Obsession"/>
+        <card number="4" name="Siren Stormtamer"/>
+        <card number="4" name="Merfolk Trickster"/>
+        <card number="4" name="Dive Down"/>
+        <card number="3" name="Spell Pierce"/>
+        <card number="2" name="Surge Mare"/>
+        <card number="20" name="Island"/>
+        <card number="3" name="Essence Capture"/>
+        <card number="4" name="Opt"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Dreamcaller Siren"/>
+        <card number="2" name="Negate"/>
+        <card number="3" name="Entrancing Melody"/>
+        <card number="1" name="Jace, Cunning Castaway"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Sleep"/>
+        <card number="3" name="Exclusion Mage"/>
+        <card number="2" name="Disdainful Stroke"/>
+    </zone>
+</cockatrice_deck>

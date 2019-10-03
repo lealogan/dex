@@ -16,8 +16,7 @@
         <card number="2" name="Chamber Sentry"/>
         <card number="4" name="Anticipate"/>
         <card number="2" name="Lookout's Dispersal"/>
-        <card number="2" name="Thief of Sanity"/>
-        <card number="2" name="Merfolk Trickster"/>
+        <card number="4" name="Thief of Sanity"/>
     </zone>
     <zone name="side">
         <card number="2" name="Disdainful Stroke"/>

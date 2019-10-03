@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>simic-zegana</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Breeding Pool"/>
+        <card number="4" name="Adventurous Impulse"/>
+        <card number="8" name="Forest"/>
+        <card number="4" name="Frilled Mystic"/>
+        <card number="4" name="Growth-Chamber Guardian"/>
+        <card number="4" name="Hinterland Harbor"/>
+        <card number="4" name="Hydroid Krasis"/>
+        <card number="4" name="Incubation // Incongruity"/>
+        <card number="4" name="Incubation Druid"/>
+        <card number="2" name="Island"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Steel Leaf Champion"/>
+        <card number="4" name="Stony Strength"/>
+        <card number="4" name="Unclaimed Territory"/>
+        <card number="2" name="Zegana, Utopian Speaker"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Spell Pierce"/>
+        <card number="2" name="Carnage Tyrant"/>
+        <card number="2" name="Deathgorge Scavenger"/>
+        <card number="1" name="Exclusion Mage"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="River's Rebuke"/>
+        <card number="2" name="Thorn Lieutenant"/>
+        <card number="2" name="Vivien Reid"/>
+    </zone>
+</cockatrice_deck>

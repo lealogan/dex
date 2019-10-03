@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>firebow</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Vivien's Arkbow"/>
+        <card number="3" name="Fires of Invention"/>
+        <card number="4" name="Beanstalk Giant"/>
+        <card number="4" name="Arboreal Grazer"/>
+        <card number="3" name="Skarrgan Hellkite"/>
+        <card number="4" name="Beast Whisperer"/>
+        <card number="2" name="Questing Beast"/>
+        <card number="3" name="Robber of the Rich"/>
+        <card number="1" name="Thrashing Brontodon"/>
+        <card number="4" name="Bonecrusher Giant // Stomp"/>
+        <card number="3" name="Nikya of the Old Ways"/>
+        <card number="1" name="Biogenic Ooze"/>
+        <card number="4" name="Stomping Ground"/>
+        <card number="4" name="Castle Garenbrig"/>
+        <card number="9" name="Forest"/>
+        <card number="9" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Thrashing Brontodon"/>
+        <card number="2" name="Thorn Mammoth"/>
+        <card number="4" name="Nullhide Ferox"/>
+        <card number="1" name="Keeper of Fables"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Wicked Wolf"/>
+    </zone>
+</cockatrice_deck>

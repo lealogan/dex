@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>quasiduplicate</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Beamsplitter Mage"/>
+        <card number="4" name="Opt"/>
+        <card number="4" name="Shock"/>
+        <card number="4" name="Chart a Course"/>
+        <card number="4" name="Tormenting Voice"/>
+        <card number="4" name="Goblin Electromancer"/>
+        <card number="2" name="Lava Coil"/>
+        <card number="4" name="Radical Idea"/>
+        <card number="4" name="Quasiduplicate"/>
+        <card number="4" name="Crackling Drake"/>
+        <card number="4" name="Murmuring Mystic"/>
+        <card number="8" name="Island"/>
+        <card number="5" name="Mountain"/>
+        <card number="4" name="Steam Vents"/>
+        <card number="4" name="Sulfur Falls"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Disdainful Stroke"/>
+        <card number="3" name="Entrancing Melody"/>
+        <card number="3" name="Firemind's Research"/>
+        <card number="1" name="Negate"/>
+        <card number="2" name="Beacon Bolt"/>
+        <card number="2" name="Fiery Cannonade"/>
+        <card number="2" name="Niv-Mizzet, Parun"/>
+    </zone>
+</cockatrice_deck>
