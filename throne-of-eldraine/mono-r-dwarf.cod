@@ -3,22 +3,22 @@
     <deckname>mono-r-dwarf</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Bonecrusher Giant // Stomp"/>
         <card number="4" name="Shock"/>
         <card number="4" name="Robber of the Rich"/>
         <card number="1" name="Chandra's Pyrohelix"/>
         <card number="4" name="Glint-Horn Buccaneer"/>
-        <card number="4" name="Irencrag Pyromancer"/>
         <card number="4" name="Torbran, Thane of Red Fell"/>
-        <card number="1" name="Neheb, Dreadhorde Champion"/>
-        <card number="2" name="Fires of Invention"/>
+        <card number="2" name="Neheb, Dreadhorde Champion"/>
+        <card number="1" name="Fires of Invention"/>
         <card number="2" name="Cavalier of Flame"/>
         <card number="2" name="Sarkhan the Masterless"/>
         <card number="3" name="Skarrgan Hellkite"/>
         <card number="1" name="Chandra, Awakened Inferno"/>
         <card number="2" name="Castle Embereth"/>
-        <card number="2" name="Dwarven Mine"/>
         <card number="20" name="Mountain"/>
+        <card number="2" name="Dwarven Mine"/>
+        <card number="4" name="Irencrag Pyromancer"/>
+        <card number="4" name="Bonecrusher Giant"/>
     </zone>
     <zone name="side">
         <card number="4" name="Claim the Firstborn"/>
